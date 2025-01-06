@@ -25,9 +25,9 @@ class MySQLApp:
         try:
             self.conn = mysql.connector.connect(
                 host="localhost",
-                port=3306,  # Use your own port
+                port=,  # Use your own port
                 user="root",  # Use your own username
-                password="Dorgelo6!",  # Use your own password
+                password="",  # Use your own password
                 database="my_database"
             )
             self.cursor = self.conn.cursor(dictionary=True)
