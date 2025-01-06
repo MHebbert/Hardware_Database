@@ -1,0 +1,2001 @@
+productName,quantity,productDescription,materialType,weight,price
+Screw A,39,A high-quality screw designed for durability and efficiency.,Fabric,89.88,121.67
+Bolt B,416,A high-quality bolt designed for durability and efficiency.,Plastic,7.02,312.77
+Nail C,320,A high-quality nail designed for durability and efficiency.,Glass,98.68,410.06
+Hammer D,432,A high-quality hammer designed for durability and efficiency.,Wood,43.61,263.54
+Wrench E,273,A high-quality wrench designed for durability and efficiency.,Glass,53.95,30.34
+Drill F,133,A high-quality drill designed for durability and efficiency.,Fabric,52.14,201.63
+Saw G,332,A high-quality saw designed for durability and efficiency.,Metal,95.24,122.26
+Pliers H,161,A high-quality pliers designed for durability and efficiency.,Composite,68.25,329.45
+Tape Measure I,295,A high-quality tape designed for durability and efficiency.,Fabric,94.2,380.15
+Screwdriver J,358,A high-quality screwdriver designed for durability and efficiency.,Wood,29.22,187.12
+Nut K,425,A high-quality nut designed for durability and efficiency.,Wood,1.56,486.44
+Washer L,343,A high-quality washer designed for durability and efficiency.,Composite,7.26,372.88
+Chisel M,465,A high-quality chisel designed for durability and efficiency.,Metal,50.73,347.87
+Clamp N,203,A high-quality clamp designed for durability and efficiency.,Ceramic,39.95,419.84
+Level O,156,A high-quality level designed for durability and efficiency.,Composite,77.8,68.17
+Sandpaper P,323,A high-quality sandpaper designed for durability and efficiency.,Composite,98.15,384.93
+Wire Cutter Q,498,A high-quality wire designed for durability and efficiency.,Ceramic,18.03,79.58
+Socket R,282,A high-quality socket designed for durability and efficiency.,Composite,16.17,233.65
+Drill Bit S,493,A high-quality drill designed for durability and efficiency.,Ceramic,94.03,212.4
+Grinder T,159,A high-quality grinder designed for durability and efficiency.,Ceramic,65.12,392.2
+Screw U,426,A high-quality screw designed for durability and efficiency.,Ceramic,50.21,192.08
+Bolt V,87,A high-quality bolt designed for durability and efficiency.,Plastic,23.86,491.99
+Nail W,436,A high-quality nail designed for durability and efficiency.,Glass,9.23,495.64
+Hammer X,175,A high-quality hammer designed for durability and efficiency.,Fabric,53.52,135.35
+Wrench Y,497,A high-quality wrench designed for durability and efficiency.,Plastic,47.86,1.53
+Drill Z,206,A high-quality drill designed for durability and efficiency.,Ceramic,93.67,209.81
+Saw A,408,A high-quality saw designed for durability and efficiency.,Metal,95.12,287.0
+Pliers B,17,A high-quality pliers designed for durability and efficiency.,Glass,48.72,2.92
+Tape Measure C,486,A high-quality tape designed for durability and efficiency.,Glass,45.0,448.05
+Screwdriver D,178,A high-quality screwdriver designed for durability and efficiency.,Ceramic,44.6,208.4
+Nut E,392,A high-quality nut designed for durability and efficiency.,Metal,46.22,64.5
+Washer F,446,A high-quality washer designed for durability and efficiency.,Fabric,14.8,124.68
+Chisel G,104,A high-quality chisel designed for durability and efficiency.,Ceramic,10.62,121.69
+Clamp H,244,A high-quality clamp designed for durability and efficiency.,Fabric,40.07,451.1
+Level I,328,A high-quality level designed for durability and efficiency.,Glass,5.94,106.31
+Sandpaper J,271,A high-quality sandpaper designed for durability and efficiency.,Glass,79.91,309.58
+Wire Cutter K,69,A high-quality wire designed for durability and efficiency.,Ceramic,80.35,236.96
+Socket L,241,A high-quality socket designed for durability and efficiency.,Wood,53.91,207.83
+Drill Bit M,144,A high-quality drill designed for durability and efficiency.,Fabric,46.65,30.62
+Grinder N,72,A high-quality grinder designed for durability and efficiency.,Ceramic,45.65,122.19
+Screw O,148,A high-quality screw designed for durability and efficiency.,Composite,78.33,261.73
+Bolt P,307,A high-quality bolt designed for durability and efficiency.,Ceramic,93.5,91.25
+Nail Q,155,A high-quality nail designed for durability and efficiency.,Glass,33.12,242.95
+Hammer R,385,A high-quality hammer designed for durability and efficiency.,Glass,73.44,387.17
+Wrench S,406,A high-quality wrench designed for durability and efficiency.,Metal,86.02,63.54
+Drill T,251,A high-quality drill designed for durability and efficiency.,Fabric,47.31,322.43
+Saw U,462,A high-quality saw designed for durability and efficiency.,Composite,46.56,400.77
+Pliers V,304,A high-quality pliers designed for durability and efficiency.,Fabric,62.71,277.74
+Tape Measure W,318,A high-quality tape designed for durability and efficiency.,Ceramic,57.9,238.99
+Screwdriver X,431,A high-quality screwdriver designed for durability and efficiency.,Composite,7.38,139.58
+Nut Y,437,A high-quality nut designed for durability and efficiency.,Plastic,89.96,492.93
+Washer Z,292,A high-quality washer designed for durability and efficiency.,Wood,29.09,460.21
+Chisel A,281,A high-quality chisel designed for durability and efficiency.,Fabric,28.94,65.04
+Clamp B,17,A high-quality clamp designed for durability and efficiency.,Plastic,12.85,219.94
+Level C,306,A high-quality level designed for durability and efficiency.,Fabric,69.39,286.36
+Sandpaper D,157,A high-quality sandpaper designed for durability and efficiency.,Ceramic,69.87,350.46
+Wire Cutter E,138,A high-quality wire designed for durability and efficiency.,Fabric,55.14,377.45
+Socket F,123,A high-quality socket designed for durability and efficiency.,Plastic,68.23,71.34
+Drill Bit G,102,A high-quality drill designed for durability and efficiency.,Composite,84.08,243.87
+Grinder H,276,A high-quality grinder designed for durability and efficiency.,Fabric,45.61,20.3
+Screw I,472,A high-quality screw designed for durability and efficiency.,Ceramic,52.66,55.52
+Bolt J,114,A high-quality bolt designed for durability and efficiency.,Wood,83.55,306.09
+Nail K,54,A high-quality nail designed for durability and efficiency.,Composite,90.34,199.07
+Hammer L,410,A high-quality hammer designed for durability and efficiency.,Composite,46.66,318.06
+Wrench M,314,A high-quality wrench designed for durability and efficiency.,Wood,44.15,420.44
+Drill N,355,A high-quality drill designed for durability and efficiency.,Glass,81.97,402.26
+Saw O,45,A high-quality saw designed for durability and efficiency.,Fabric,16.29,371.16
+Pliers P,45,A high-quality pliers designed for durability and efficiency.,Composite,28.48,174.59
+Tape Measure Q,32,A high-quality tape designed for durability and efficiency.,Ceramic,90.21,355.29
+Screwdriver R,211,A high-quality screwdriver designed for durability and efficiency.,Composite,89.76,491.77
+Nut S,462,A high-quality nut designed for durability and efficiency.,Glass,19.37,285.67
+Washer T,154,A high-quality washer designed for durability and efficiency.,Metal,34.45,172.03
+Chisel U,90,A high-quality chisel designed for durability and efficiency.,Composite,89.93,371.51
+Clamp V,223,A high-quality clamp designed for durability and efficiency.,Fabric,24.44,291.13
+Level W,236,A high-quality level designed for durability and efficiency.,Glass,42.55,52.0
+Sandpaper X,174,A high-quality sandpaper designed for durability and efficiency.,Metal,54.58,71.96
+Wire Cutter Y,197,A high-quality wire designed for durability and efficiency.,Fabric,58.43,46.92
+Socket Z,321,A high-quality socket designed for durability and efficiency.,Glass,1.3,144.87
+Drill Bit A,168,A high-quality drill designed for durability and efficiency.,Composite,18.38,23.33
+Grinder B,195,A high-quality grinder designed for durability and efficiency.,Plastic,39.23,169.32
+Screw C,196,A high-quality screw designed for durability and efficiency.,Fabric,27.05,170.06
+Bolt D,296,A high-quality bolt designed for durability and efficiency.,Plastic,90.58,414.4
+Nail E,124,A high-quality nail designed for durability and efficiency.,Glass,0.21,10.77
+Hammer F,161,A high-quality hammer designed for durability and efficiency.,Plastic,39.79,427.51
+Wrench G,354,A high-quality wrench designed for durability and efficiency.,Composite,94.34,383.44
+Drill H,361,A high-quality drill designed for durability and efficiency.,Plastic,48.47,434.14
+Saw I,489,A high-quality saw designed for durability and efficiency.,Metal,77.57,127.06
+Pliers J,453,A high-quality pliers designed for durability and efficiency.,Wood,3.58,107.83
+Tape Measure K,116,A high-quality tape designed for durability and efficiency.,Glass,67.76,268.82
+Screwdriver L,425,A high-quality screwdriver designed for durability and efficiency.,Composite,52.83,127.03
+Nut M,317,A high-quality nut designed for durability and efficiency.,Fabric,93.68,386.5
+Washer N,333,A high-quality washer designed for durability and efficiency.,Composite,82.67,189.81
+Chisel O,241,A high-quality chisel designed for durability and efficiency.,Wood,39.46,195.49
+Clamp P,41,A high-quality clamp designed for durability and efficiency.,Wood,66.31,301.15
+Level Q,146,A high-quality level designed for durability and efficiency.,Plastic,37.95,31.01
+Sandpaper R,102,A high-quality sandpaper designed for durability and efficiency.,Ceramic,63.3,276.94
+Wire Cutter S,103,A high-quality wire designed for durability and efficiency.,Fabric,31.54,41.36
+Socket T,352,A high-quality socket designed for durability and efficiency.,Composite,77.08,297.14
+Drill Bit U,113,A high-quality drill designed for durability and efficiency.,Fabric,12.71,201.05
+Grinder V,74,A high-quality grinder designed for durability and efficiency.,Composite,35.98,210.44
+Screw W,74,A high-quality screw designed for durability and efficiency.,Composite,57.76,51.65
+Bolt X,134,A high-quality bolt designed for durability and efficiency.,Ceramic,50.62,414.72
+Nail Y,371,A high-quality nail designed for durability and efficiency.,Ceramic,53.48,78.7
+Hammer Z,318,A high-quality hammer designed for durability and efficiency.,Wood,58.12,320.18
+Wrench A,142,A high-quality wrench designed for durability and efficiency.,Glass,82.59,425.92
+Drill B,354,A high-quality drill designed for durability and efficiency.,Composite,44.86,429.63
+Saw C,483,A high-quality saw designed for durability and efficiency.,Glass,56.42,166.59
+Pliers D,177,A high-quality pliers designed for durability and efficiency.,Plastic,1.23,22.6
+Tape Measure E,455,A high-quality tape designed for durability and efficiency.,Metal,28.45,431.24
+Screwdriver F,110,A high-quality screwdriver designed for durability and efficiency.,Composite,70.97,198.5
+Nut G,267,A high-quality nut designed for durability and efficiency.,Composite,58.36,324.22
+Washer H,213,A high-quality washer designed for durability and efficiency.,Glass,32.79,282.32
+Chisel I,136,A high-quality chisel designed for durability and efficiency.,Composite,75.22,23.67
+Clamp J,413,A high-quality clamp designed for durability and efficiency.,Fabric,7.07,126.74
+Level K,455,A high-quality level designed for durability and efficiency.,Glass,53.53,245.12
+Sandpaper L,255,A high-quality sandpaper designed for durability and efficiency.,Plastic,1.93,335.04
+Wire Cutter M,352,A high-quality wire designed for durability and efficiency.,Glass,46.2,73.67
+Socket N,489,A high-quality socket designed for durability and efficiency.,Wood,58.72,368.82
+Drill Bit O,167,A high-quality drill designed for durability and efficiency.,Composite,69.84,76.59
+Grinder P,156,A high-quality grinder designed for durability and efficiency.,Metal,65.74,34.83
+Screw Q,203,A high-quality screw designed for durability and efficiency.,Fabric,82.25,269.69
+Bolt R,309,A high-quality bolt designed for durability and efficiency.,Ceramic,7.59,352.16
+Nail S,205,A high-quality nail designed for durability and efficiency.,Composite,36.25,161.71
+Hammer T,2,A high-quality hammer designed for durability and efficiency.,Metal,53.44,365.33
+Wrench U,241,A high-quality wrench designed for durability and efficiency.,Composite,6.38,321.28
+Drill V,286,A high-quality drill designed for durability and efficiency.,Composite,26.01,175.84
+Saw W,382,A high-quality saw designed for durability and efficiency.,Glass,4.57,394.99
+Pliers X,169,A high-quality pliers designed for durability and efficiency.,Wood,40.35,1.89
+Tape Measure Y,373,A high-quality tape designed for durability and efficiency.,Glass,52.19,70.13
+Screwdriver Z,304,A high-quality screwdriver designed for durability and efficiency.,Ceramic,77.59,348.19
+Nut A,19,A high-quality nut designed for durability and efficiency.,Glass,4.42,150.21
+Washer B,356,A high-quality washer designed for durability and efficiency.,Fabric,92.59,342.98
+Chisel C,264,A high-quality chisel designed for durability and efficiency.,Ceramic,83.52,488.59
+Clamp D,30,A high-quality clamp designed for durability and efficiency.,Glass,47.01,120.57
+Level E,185,A high-quality level designed for durability and efficiency.,Wood,77.25,485.74
+Sandpaper F,391,A high-quality sandpaper designed for durability and efficiency.,Ceramic,41.56,6.89
+Wire Cutter G,487,A high-quality wire designed for durability and efficiency.,Ceramic,80.81,60.17
+Socket H,440,A high-quality socket designed for durability and efficiency.,Plastic,93.42,306.43
+Drill Bit I,379,A high-quality drill designed for durability and efficiency.,Fabric,11.01,103.81
+Grinder J,36,A high-quality grinder designed for durability and efficiency.,Wood,80.15,344.7
+Screw K,97,A high-quality screw designed for durability and efficiency.,Ceramic,47.4,124.32
+Bolt L,329,A high-quality bolt designed for durability and efficiency.,Wood,32.66,486.58
+Nail M,455,A high-quality nail designed for durability and efficiency.,Glass,96.53,400.63
+Hammer N,82,A high-quality hammer designed for durability and efficiency.,Composite,98.55,200.86
+Wrench O,258,A high-quality wrench designed for durability and efficiency.,Glass,74.9,461.6
+Drill P,234,A high-quality drill designed for durability and efficiency.,Metal,75.29,459.22
+Saw Q,497,A high-quality saw designed for durability and efficiency.,Wood,59.41,392.92
+Pliers R,429,A high-quality pliers designed for durability and efficiency.,Wood,24.1,457.86
+Tape Measure S,82,A high-quality tape designed for durability and efficiency.,Fabric,56.04,116.7
+Screwdriver T,353,A high-quality screwdriver designed for durability and efficiency.,Glass,85.48,240.47
+Nut U,67,A high-quality nut designed for durability and efficiency.,Composite,30.69,328.77
+Washer V,336,A high-quality washer designed for durability and efficiency.,Ceramic,15.4,300.09
+Chisel W,337,A high-quality chisel designed for durability and efficiency.,Composite,77.41,211.23
+Clamp X,397,A high-quality clamp designed for durability and efficiency.,Ceramic,78.01,146.04
+Level Y,83,A high-quality level designed for durability and efficiency.,Glass,53.28,259.55
+Sandpaper Z,332,A high-quality sandpaper designed for durability and efficiency.,Ceramic,67.37,458.07
+Wire Cutter A,380,A high-quality wire designed for durability and efficiency.,Fabric,56.18,56.51
+Socket B,16,A high-quality socket designed for durability and efficiency.,Fabric,53.15,490.05
+Drill Bit C,113,A high-quality drill designed for durability and efficiency.,Fabric,13.32,90.45
+Grinder D,10,A high-quality grinder designed for durability and efficiency.,Wood,81.75,190.16
+Screw E,387,A high-quality screw designed for durability and efficiency.,Composite,60.07,56.27
+Bolt F,436,A high-quality bolt designed for durability and efficiency.,Fabric,33.6,453.19
+Nail G,288,A high-quality nail designed for durability and efficiency.,Metal,91.61,302.33
+Hammer H,31,A high-quality hammer designed for durability and efficiency.,Metal,45.0,364.77
+Wrench I,334,A high-quality wrench designed for durability and efficiency.,Glass,80.12,171.63
+Drill J,279,A high-quality drill designed for durability and efficiency.,Plastic,11.73,382.22
+Saw K,157,A high-quality saw designed for durability and efficiency.,Wood,61.62,376.73
+Pliers L,197,A high-quality pliers designed for durability and efficiency.,Glass,53.86,451.96
+Tape Measure M,249,A high-quality tape designed for durability and efficiency.,Metal,75.71,116.66
+Screwdriver N,480,A high-quality screwdriver designed for durability and efficiency.,Plastic,62.19,292.24
+Nut O,303,A high-quality nut designed for durability and efficiency.,Metal,92.86,288.51
+Washer P,118,A high-quality washer designed for durability and efficiency.,Metal,2.1,456.03
+Chisel Q,128,A high-quality chisel designed for durability and efficiency.,Composite,28.75,36.46
+Clamp R,412,A high-quality clamp designed for durability and efficiency.,Ceramic,64.44,344.0
+Level S,65,A high-quality level designed for durability and efficiency.,Glass,56.9,337.93
+Sandpaper T,66,A high-quality sandpaper designed for durability and efficiency.,Plastic,26.58,321.06
+Wire Cutter U,284,A high-quality wire designed for durability and efficiency.,Glass,89.55,160.16
+Socket V,5,A high-quality socket designed for durability and efficiency.,Ceramic,44.16,296.05
+Drill Bit W,159,A high-quality drill designed for durability and efficiency.,Plastic,20.74,351.41
+Grinder X,395,A high-quality grinder designed for durability and efficiency.,Metal,63.9,489.42
+Screw Y,110,A high-quality screw designed for durability and efficiency.,Composite,55.6,46.26
+Bolt Z,272,A high-quality bolt designed for durability and efficiency.,Plastic,81.42,326.48
+Nail A,279,A high-quality nail designed for durability and efficiency.,Metal,87.9,195.28
+Hammer B,298,A high-quality hammer designed for durability and efficiency.,Wood,89.53,274.35
+Wrench C,426,A high-quality wrench designed for durability and efficiency.,Composite,57.63,295.18
+Drill D,328,A high-quality drill designed for durability and efficiency.,Fabric,56.0,171.88
+Saw E,163,A high-quality saw designed for durability and efficiency.,Wood,11.11,309.22
+Pliers F,315,A high-quality pliers designed for durability and efficiency.,Composite,27.89,145.19
+Tape Measure G,416,A high-quality tape designed for durability and efficiency.,Ceramic,61.16,311.25
+Screwdriver H,403,A high-quality screwdriver designed for durability and efficiency.,Fabric,28.15,310.06
+Nut I,327,A high-quality nut designed for durability and efficiency.,Plastic,86.58,130.74
+Washer J,247,A high-quality washer designed for durability and efficiency.,Wood,35.79,467.99
+Chisel K,249,A high-quality chisel designed for durability and efficiency.,Composite,57.58,88.02
+Clamp L,207,A high-quality clamp designed for durability and efficiency.,Composite,99.71,355.42
+Level M,226,A high-quality level designed for durability and efficiency.,Fabric,30.61,83.78
+Sandpaper N,310,A high-quality sandpaper designed for durability and efficiency.,Fabric,98.71,434.83
+Wire Cutter O,43,A high-quality wire designed for durability and efficiency.,Composite,96.88,37.91
+Socket P,260,A high-quality socket designed for durability and efficiency.,Glass,73.74,194.37
+Drill Bit Q,474,A high-quality drill designed for durability and efficiency.,Glass,85.94,297.67
+Grinder R,378,A high-quality grinder designed for durability and efficiency.,Glass,27.36,294.04
+Screw S,52,A high-quality screw designed for durability and efficiency.,Composite,98.44,489.33
+Bolt T,8,A high-quality bolt designed for durability and efficiency.,Glass,47.48,10.21
+Nail U,154,A high-quality nail designed for durability and efficiency.,Plastic,45.19,325.95
+Hammer V,313,A high-quality hammer designed for durability and efficiency.,Metal,95.69,294.05
+Wrench W,76,A high-quality wrench designed for durability and efficiency.,Composite,78.82,472.97
+Drill X,315,A high-quality drill designed for durability and efficiency.,Wood,84.28,264.93
+Saw Y,280,A high-quality saw designed for durability and efficiency.,Glass,23.53,227.63
+Pliers Z,4,A high-quality pliers designed for durability and efficiency.,Metal,59.52,118.32
+Tape Measure A,431,A high-quality tape designed for durability and efficiency.,Composite,67.28,421.81
+Screwdriver B,374,A high-quality screwdriver designed for durability and efficiency.,Plastic,89.13,300.05
+Nut C,317,A high-quality nut designed for durability and efficiency.,Glass,28.84,346.35
+Washer D,371,A high-quality washer designed for durability and efficiency.,Fabric,45.36,25.43
+Chisel E,200,A high-quality chisel designed for durability and efficiency.,Composite,45.12,279.53
+Clamp F,341,A high-quality clamp designed for durability and efficiency.,Metal,36.52,133.31
+Level G,60,A high-quality level designed for durability and efficiency.,Glass,22.64,213.39
+Sandpaper H,251,A high-quality sandpaper designed for durability and efficiency.,Plastic,12.06,134.07
+Wire Cutter I,323,A high-quality wire designed for durability and efficiency.,Composite,45.26,198.97
+Socket J,48,A high-quality socket designed for durability and efficiency.,Composite,70.84,114.89
+Drill Bit K,386,A high-quality drill designed for durability and efficiency.,Wood,93.58,370.9
+Grinder L,95,A high-quality grinder designed for durability and efficiency.,Metal,63.3,400.34
+Screw M,217,A high-quality screw designed for durability and efficiency.,Plastic,22.11,276.79
+Bolt N,480,A high-quality bolt designed for durability and efficiency.,Metal,25.48,265.6
+Nail O,125,A high-quality nail designed for durability and efficiency.,Composite,14.56,460.16
+Hammer P,484,A high-quality hammer designed for durability and efficiency.,Metal,74.09,137.68
+Wrench Q,388,A high-quality wrench designed for durability and efficiency.,Metal,62.76,188.59
+Drill R,430,A high-quality drill designed for durability and efficiency.,Wood,69.34,169.84
+Saw S,393,A high-quality saw designed for durability and efficiency.,Wood,98.54,264.69
+Pliers T,115,A high-quality pliers designed for durability and efficiency.,Plastic,10.03,180.17
+Tape Measure U,337,A high-quality tape designed for durability and efficiency.,Ceramic,51.72,49.63
+Screwdriver V,95,A high-quality screwdriver designed for durability and efficiency.,Wood,7.89,136.85
+Nut W,443,A high-quality nut designed for durability and efficiency.,Metal,61.97,404.61
+Washer X,165,A high-quality washer designed for durability and efficiency.,Ceramic,72.94,94.28
+Chisel Y,318,A high-quality chisel designed for durability and efficiency.,Fabric,13.27,255.92
+Clamp Z,377,A high-quality clamp designed for durability and efficiency.,Glass,47.75,79.99
+Level A,454,A high-quality level designed for durability and efficiency.,Fabric,96.0,355.64
+Sandpaper B,191,A high-quality sandpaper designed for durability and efficiency.,Plastic,97.57,54.57
+Wire Cutter C,90,A high-quality wire designed for durability and efficiency.,Ceramic,29.51,34.78
+Socket D,484,A high-quality socket designed for durability and efficiency.,Glass,32.51,440.34
+Drill Bit E,15,A high-quality drill designed for durability and efficiency.,Composite,76.37,391.9
+Grinder F,271,A high-quality grinder designed for durability and efficiency.,Wood,20.59,293.68
+Screw G,344,A high-quality screw designed for durability and efficiency.,Plastic,26.39,124.93
+Bolt H,476,A high-quality bolt designed for durability and efficiency.,Metal,73.33,432.66
+Nail I,439,A high-quality nail designed for durability and efficiency.,Composite,9.01,113.13
+Hammer J,74,A high-quality hammer designed for durability and efficiency.,Ceramic,95.3,302.39
+Wrench K,69,A high-quality wrench designed for durability and efficiency.,Glass,18.52,451.63
+Drill L,473,A high-quality drill designed for durability and efficiency.,Metal,7.9,242.05
+Saw M,290,A high-quality saw designed for durability and efficiency.,Metal,32.48,33.89
+Pliers N,172,A high-quality pliers designed for durability and efficiency.,Metal,79.74,383.32
+Tape Measure O,350,A high-quality tape designed for durability and efficiency.,Fabric,98.51,99.12
+Screwdriver P,118,A high-quality screwdriver designed for durability and efficiency.,Ceramic,14.62,299.1
+Nut Q,319,A high-quality nut designed for durability and efficiency.,Composite,24.14,351.63
+Washer R,249,A high-quality washer designed for durability and efficiency.,Wood,34.75,379.58
+Chisel S,323,A high-quality chisel designed for durability and efficiency.,Ceramic,12.05,153.83
+Clamp T,349,A high-quality clamp designed for durability and efficiency.,Fabric,30.71,2.76
+Level U,204,A high-quality level designed for durability and efficiency.,Plastic,40.9,426.07
+Sandpaper V,204,A high-quality sandpaper designed for durability and efficiency.,Ceramic,33.78,49.53
+Wire Cutter W,161,A high-quality wire designed for durability and efficiency.,Ceramic,6.03,435.04
+Socket X,223,A high-quality socket designed for durability and efficiency.,Fabric,93.16,421.46
+Drill Bit Y,311,A high-quality drill designed for durability and efficiency.,Ceramic,3.58,97.06
+Grinder Z,204,A high-quality grinder designed for durability and efficiency.,Wood,85.35,124.56
+Screw A,421,A high-quality screw designed for durability and efficiency.,Plastic,47.88,491.85
+Bolt B,17,A high-quality bolt designed for durability and efficiency.,Metal,78.31,140.48
+Nail C,80,A high-quality nail designed for durability and efficiency.,Ceramic,22.65,412.17
+Hammer D,327,A high-quality hammer designed for durability and efficiency.,Plastic,35.84,50.06
+Wrench E,365,A high-quality wrench designed for durability and efficiency.,Ceramic,21.14,321.04
+Drill F,492,A high-quality drill designed for durability and efficiency.,Wood,54.24,214.37
+Saw G,297,A high-quality saw designed for durability and efficiency.,Ceramic,83.16,406.13
+Pliers H,396,A high-quality pliers designed for durability and efficiency.,Ceramic,83.34,403.01
+Tape Measure I,182,A high-quality tape designed for durability and efficiency.,Glass,7.12,112.09
+Screwdriver J,263,A high-quality screwdriver designed for durability and efficiency.,Metal,14.3,379.29
+Nut K,115,A high-quality nut designed for durability and efficiency.,Composite,75.4,126.07
+Washer L,338,A high-quality washer designed for durability and efficiency.,Fabric,13.93,405.75
+Chisel M,169,A high-quality chisel designed for durability and efficiency.,Glass,16.27,413.67
+Clamp N,307,A high-quality clamp designed for durability and efficiency.,Ceramic,4.23,221.98
+Level O,335,A high-quality level designed for durability and efficiency.,Fabric,70.42,347.18
+Sandpaper P,386,A high-quality sandpaper designed for durability and efficiency.,Fabric,57.32,294.87
+Wire Cutter Q,365,A high-quality wire designed for durability and efficiency.,Wood,58.74,384.15
+Socket R,147,A high-quality socket designed for durability and efficiency.,Metal,9.14,71.9
+Drill Bit S,118,A high-quality drill designed for durability and efficiency.,Ceramic,76.86,288.83
+Grinder T,474,A high-quality grinder designed for durability and efficiency.,Wood,4.76,327.1
+Screw U,274,A high-quality screw designed for durability and efficiency.,Glass,73.04,87.12
+Bolt V,104,A high-quality bolt designed for durability and efficiency.,Composite,79.87,60.78
+Nail W,390,A high-quality nail designed for durability and efficiency.,Fabric,79.56,6.35
+Hammer X,332,A high-quality hammer designed for durability and efficiency.,Composite,15.72,217.84
+Wrench Y,342,A high-quality wrench designed for durability and efficiency.,Metal,50.6,429.68
+Drill Z,309,A high-quality drill designed for durability and efficiency.,Metal,18.5,162.94
+Saw A,472,A high-quality saw designed for durability and efficiency.,Composite,13.82,306.34
+Pliers B,63,A high-quality pliers designed for durability and efficiency.,Metal,64.47,433.0
+Tape Measure C,308,A high-quality tape designed for durability and efficiency.,Metal,63.15,142.34
+Screwdriver D,280,A high-quality screwdriver designed for durability and efficiency.,Plastic,80.29,490.06
+Nut E,344,A high-quality nut designed for durability and efficiency.,Metal,94.86,360.43
+Washer F,170,A high-quality washer designed for durability and efficiency.,Fabric,49.64,361.03
+Chisel G,461,A high-quality chisel designed for durability and efficiency.,Glass,34.28,433.25
+Clamp H,197,A high-quality clamp designed for durability and efficiency.,Plastic,28.04,134.33
+Level I,421,A high-quality level designed for durability and efficiency.,Ceramic,74.43,316.95
+Sandpaper J,70,A high-quality sandpaper designed for durability and efficiency.,Fabric,98.85,141.3
+Wire Cutter K,69,A high-quality wire designed for durability and efficiency.,Composite,47.59,268.72
+Socket L,53,A high-quality socket designed for durability and efficiency.,Ceramic,16.11,146.66
+Drill Bit M,390,A high-quality drill designed for durability and efficiency.,Glass,82.01,204.02
+Grinder N,92,A high-quality grinder designed for durability and efficiency.,Composite,8.98,245.41
+Screw O,488,A high-quality screw designed for durability and efficiency.,Wood,39.11,220.31
+Bolt P,174,A high-quality bolt designed for durability and efficiency.,Metal,30.57,140.47
+Nail Q,300,A high-quality nail designed for durability and efficiency.,Metal,62.95,486.81
+Hammer R,80,A high-quality hammer designed for durability and efficiency.,Wood,91.1,141.14
+Wrench S,213,A high-quality wrench designed for durability and efficiency.,Composite,24.98,381.59
+Drill T,102,A high-quality drill designed for durability and efficiency.,Plastic,16.46,232.94
+Saw U,226,A high-quality saw designed for durability and efficiency.,Fabric,66.23,260.67
+Pliers V,32,A high-quality pliers designed for durability and efficiency.,Glass,96.46,141.18
+Tape Measure W,119,A high-quality tape designed for durability and efficiency.,Plastic,83.35,353.59
+Screwdriver X,427,A high-quality screwdriver designed for durability and efficiency.,Fabric,4.97,245.79
+Nut Y,330,A high-quality nut designed for durability and efficiency.,Fabric,47.82,105.15
+Washer Z,375,A high-quality washer designed for durability and efficiency.,Composite,92.38,104.82
+Chisel A,437,A high-quality chisel designed for durability and efficiency.,Fabric,25.04,480.37
+Clamp B,381,A high-quality clamp designed for durability and efficiency.,Wood,59.63,468.54
+Level C,331,A high-quality level designed for durability and efficiency.,Fabric,42.75,215.57
+Sandpaper D,22,A high-quality sandpaper designed for durability and efficiency.,Composite,12.04,88.12
+Wire Cutter E,283,A high-quality wire designed for durability and efficiency.,Plastic,0.15,354.1
+Socket F,407,A high-quality socket designed for durability and efficiency.,Glass,71.16,166.67
+Drill Bit G,132,A high-quality drill designed for durability and efficiency.,Glass,98.08,348.23
+Grinder H,93,A high-quality grinder designed for durability and efficiency.,Wood,54.21,326.69
+Screw I,244,A high-quality screw designed for durability and efficiency.,Fabric,66.75,28.54
+Bolt J,21,A high-quality bolt designed for durability and efficiency.,Metal,1.2,115.8
+Nail K,406,A high-quality nail designed for durability and efficiency.,Metal,13.43,387.14
+Hammer L,368,A high-quality hammer designed for durability and efficiency.,Composite,25.14,62.96
+Wrench M,475,A high-quality wrench designed for durability and efficiency.,Fabric,88.13,164.01
+Drill N,230,A high-quality drill designed for durability and efficiency.,Composite,71.21,454.52
+Saw O,371,A high-quality saw designed for durability and efficiency.,Fabric,5.86,330.33
+Pliers P,491,A high-quality pliers designed for durability and efficiency.,Fabric,5.71,192.98
+Tape Measure Q,165,A high-quality tape designed for durability and efficiency.,Metal,37.89,119.86
+Screwdriver R,466,A high-quality screwdriver designed for durability and efficiency.,Plastic,21.13,293.57
+Nut S,140,A high-quality nut designed for durability and efficiency.,Wood,18.11,78.61
+Washer T,327,A high-quality washer designed for durability and efficiency.,Metal,22.74,304.39
+Chisel U,95,A high-quality chisel designed for durability and efficiency.,Fabric,38.76,132.29
+Clamp V,63,A high-quality clamp designed for durability and efficiency.,Fabric,82.2,498.06
+Level W,262,A high-quality level designed for durability and efficiency.,Composite,64.79,193.31
+Sandpaper X,356,A high-quality sandpaper designed for durability and efficiency.,Fabric,77.98,409.76
+Wire Cutter Y,47,A high-quality wire designed for durability and efficiency.,Glass,73.62,492.89
+Socket Z,128,A high-quality socket designed for durability and efficiency.,Wood,31.43,38.0
+Drill Bit A,451,A high-quality drill designed for durability and efficiency.,Plastic,98.35,440.28
+Grinder B,262,A high-quality grinder designed for durability and efficiency.,Ceramic,55.99,59.38
+Screw C,40,A high-quality screw designed for durability and efficiency.,Metal,74.49,59.38
+Bolt D,328,A high-quality bolt designed for durability and efficiency.,Wood,35.08,152.85
+Nail E,8,A high-quality nail designed for durability and efficiency.,Ceramic,37.96,15.3
+Hammer F,50,A high-quality hammer designed for durability and efficiency.,Glass,45.66,433.04
+Wrench G,118,A high-quality wrench designed for durability and efficiency.,Ceramic,77.56,45.75
+Drill H,431,A high-quality drill designed for durability and efficiency.,Glass,63.95,484.92
+Saw I,164,A high-quality saw designed for durability and efficiency.,Composite,47.9,71.5
+Pliers J,131,A high-quality pliers designed for durability and efficiency.,Metal,13.15,125.03
+Tape Measure K,443,A high-quality tape designed for durability and efficiency.,Metal,8.39,256.88
+Screwdriver L,83,A high-quality screwdriver designed for durability and efficiency.,Plastic,42.72,64.75
+Nut M,187,A high-quality nut designed for durability and efficiency.,Metal,66.25,257.39
+Washer N,216,A high-quality washer designed for durability and efficiency.,Wood,86.45,13.24
+Chisel O,93,A high-quality chisel designed for durability and efficiency.,Composite,62.03,121.88
+Clamp P,295,A high-quality clamp designed for durability and efficiency.,Metal,78.35,345.07
+Level Q,486,A high-quality level designed for durability and efficiency.,Wood,1.66,498.2
+Sandpaper R,259,A high-quality sandpaper designed for durability and efficiency.,Fabric,18.56,31.43
+Wire Cutter S,254,A high-quality wire designed for durability and efficiency.,Wood,74.88,157.79
+Socket T,144,A high-quality socket designed for durability and efficiency.,Glass,78.2,498.48
+Drill Bit U,229,A high-quality drill designed for durability and efficiency.,Glass,40.21,61.34
+Grinder V,48,A high-quality grinder designed for durability and efficiency.,Fabric,6.63,149.23
+Screw W,369,A high-quality screw designed for durability and efficiency.,Metal,67.37,167.57
+Bolt X,92,A high-quality bolt designed for durability and efficiency.,Plastic,92.16,348.63
+Nail Y,69,A high-quality nail designed for durability and efficiency.,Composite,80.03,322.84
+Hammer Z,319,A high-quality hammer designed for durability and efficiency.,Ceramic,79.32,346.13
+Wrench A,303,A high-quality wrench designed for durability and efficiency.,Wood,75.79,275.29
+Drill B,211,A high-quality drill designed for durability and efficiency.,Plastic,78.81,482.67
+Saw C,368,A high-quality saw designed for durability and efficiency.,Plastic,40.43,93.1
+Pliers D,10,A high-quality pliers designed for durability and efficiency.,Fabric,43.63,8.16
+Tape Measure E,189,A high-quality tape designed for durability and efficiency.,Ceramic,93.7,190.22
+Screwdriver F,438,A high-quality screwdriver designed for durability and efficiency.,Ceramic,91.72,436.55
+Nut G,8,A high-quality nut designed for durability and efficiency.,Ceramic,99.68,462.3
+Washer H,196,A high-quality washer designed for durability and efficiency.,Ceramic,70.05,36.46
+Chisel I,489,A high-quality chisel designed for durability and efficiency.,Ceramic,44.41,196.66
+Clamp J,37,A high-quality clamp designed for durability and efficiency.,Plastic,17.92,312.45
+Level K,257,A high-quality level designed for durability and efficiency.,Fabric,29.21,236.1
+Sandpaper L,150,A high-quality sandpaper designed for durability and efficiency.,Fabric,69.13,236.96
+Wire Cutter M,84,A high-quality wire designed for durability and efficiency.,Wood,5.92,43.67
+Socket N,140,A high-quality socket designed for durability and efficiency.,Fabric,1.84,140.85
+Drill Bit O,154,A high-quality drill designed for durability and efficiency.,Wood,96.57,146.87
+Grinder P,283,A high-quality grinder designed for durability and efficiency.,Wood,64.73,183.5
+Screw Q,256,A high-quality screw designed for durability and efficiency.,Fabric,54.17,135.51
+Bolt R,399,A high-quality bolt designed for durability and efficiency.,Metal,2.57,405.08
+Nail S,297,A high-quality nail designed for durability and efficiency.,Glass,73.79,459.32
+Hammer T,330,A high-quality hammer designed for durability and efficiency.,Plastic,6.62,438.57
+Wrench U,197,A high-quality wrench designed for durability and efficiency.,Metal,85.48,72.98
+Drill V,176,A high-quality drill designed for durability and efficiency.,Ceramic,76.32,487.23
+Saw W,55,A high-quality saw designed for durability and efficiency.,Composite,36.39,173.64
+Pliers X,412,A high-quality pliers designed for durability and efficiency.,Fabric,55.22,103.06
+Tape Measure Y,315,A high-quality tape designed for durability and efficiency.,Metal,16.72,247.35
+Screwdriver Z,302,A high-quality screwdriver designed for durability and efficiency.,Composite,4.95,187.97
+Nut A,6,A high-quality nut designed for durability and efficiency.,Plastic,91.07,217.18
+Washer B,31,A high-quality washer designed for durability and efficiency.,Fabric,66.95,195.12
+Chisel C,414,A high-quality chisel designed for durability and efficiency.,Wood,92.63,348.83
+Clamp D,252,A high-quality clamp designed for durability and efficiency.,Plastic,79.2,161.39
+Level E,17,A high-quality level designed for durability and efficiency.,Plastic,78.14,151.02
+Sandpaper F,436,A high-quality sandpaper designed for durability and efficiency.,Plastic,4.48,215.01
+Wire Cutter G,337,A high-quality wire designed for durability and efficiency.,Fabric,83.98,237.03
+Socket H,475,A high-quality socket designed for durability and efficiency.,Ceramic,63.79,76.28
+Drill Bit I,356,A high-quality drill designed for durability and efficiency.,Composite,84.77,128.12
+Grinder J,474,A high-quality grinder designed for durability and efficiency.,Fabric,17.54,170.05
+Screw K,117,A high-quality screw designed for durability and efficiency.,Metal,32.19,223.76
+Bolt L,291,A high-quality bolt designed for durability and efficiency.,Composite,2.13,313.06
+Nail M,427,A high-quality nail designed for durability and efficiency.,Fabric,19.75,64.91
+Hammer N,137,A high-quality hammer designed for durability and efficiency.,Fabric,57.01,67.89
+Wrench O,360,A high-quality wrench designed for durability and efficiency.,Glass,4.05,264.12
+Drill P,482,A high-quality drill designed for durability and efficiency.,Plastic,15.21,68.59
+Saw Q,103,A high-quality saw designed for durability and efficiency.,Ceramic,40.63,63.32
+Pliers R,318,A high-quality pliers designed for durability and efficiency.,Fabric,31.07,101.67
+Tape Measure S,396,A high-quality tape designed for durability and efficiency.,Wood,94.93,322.17
+Screwdriver T,257,A high-quality screwdriver designed for durability and efficiency.,Ceramic,75.61,207.51
+Nut U,284,A high-quality nut designed for durability and efficiency.,Glass,98.53,409.31
+Washer V,68,A high-quality washer designed for durability and efficiency.,Plastic,26.79,363.39
+Chisel W,441,A high-quality chisel designed for durability and efficiency.,Glass,97.21,269.83
+Clamp X,9,A high-quality clamp designed for durability and efficiency.,Metal,91.87,204.87
+Level Y,58,A high-quality level designed for durability and efficiency.,Ceramic,61.86,275.31
+Sandpaper Z,31,A high-quality sandpaper designed for durability and efficiency.,Metal,15.42,236.19
+Wire Cutter A,260,A high-quality wire designed for durability and efficiency.,Plastic,34.95,266.45
+Socket B,436,A high-quality socket designed for durability and efficiency.,Ceramic,33.87,420.72
+Drill Bit C,4,A high-quality drill designed for durability and efficiency.,Fabric,9.73,451.81
+Grinder D,322,A high-quality grinder designed for durability and efficiency.,Metal,11.66,491.59
+Screw E,60,A high-quality screw designed for durability and efficiency.,Wood,89.28,136.52
+Bolt F,126,A high-quality bolt designed for durability and efficiency.,Ceramic,7.7,324.89
+Nail G,104,A high-quality nail designed for durability and efficiency.,Composite,14.72,434.73
+Hammer H,116,A high-quality hammer designed for durability and efficiency.,Composite,19.76,197.02
+Wrench I,248,A high-quality wrench designed for durability and efficiency.,Plastic,41.97,180.09
+Drill J,114,A high-quality drill designed for durability and efficiency.,Composite,35.12,61.75
+Saw K,93,A high-quality saw designed for durability and efficiency.,Metal,84.61,252.83
+Pliers L,395,A high-quality pliers designed for durability and efficiency.,Ceramic,9.42,248.91
+Tape Measure M,460,A high-quality tape designed for durability and efficiency.,Wood,83.52,140.28
+Screwdriver N,43,A high-quality screwdriver designed for durability and efficiency.,Glass,97.76,110.54
+Nut O,154,A high-quality nut designed for durability and efficiency.,Composite,42.96,20.09
+Washer P,5,A high-quality washer designed for durability and efficiency.,Plastic,37.54,420.09
+Chisel Q,226,A high-quality chisel designed for durability and efficiency.,Fabric,25.45,481.74
+Clamp R,393,A high-quality clamp designed for durability and efficiency.,Plastic,49.51,401.63
+Level S,408,A high-quality level designed for durability and efficiency.,Ceramic,87.42,479.06
+Sandpaper T,11,A high-quality sandpaper designed for durability and efficiency.,Fabric,56.84,195.02
+Wire Cutter U,370,A high-quality wire designed for durability and efficiency.,Fabric,89.41,48.32
+Socket V,394,A high-quality socket designed for durability and efficiency.,Plastic,9.5,194.24
+Drill Bit W,253,A high-quality drill designed for durability and efficiency.,Metal,11.19,215.94
+Grinder X,477,A high-quality grinder designed for durability and efficiency.,Glass,11.39,21.41
+Screw Y,447,A high-quality screw designed for durability and efficiency.,Metal,48.19,294.66
+Bolt Z,393,A high-quality bolt designed for durability and efficiency.,Composite,77.73,318.95
+Nail A,213,A high-quality nail designed for durability and efficiency.,Metal,71.34,157.25
+Hammer B,358,A high-quality hammer designed for durability and efficiency.,Metal,55.09,222.34
+Wrench C,230,A high-quality wrench designed for durability and efficiency.,Composite,27.14,280.45
+Drill D,351,A high-quality drill designed for durability and efficiency.,Plastic,77.32,493.22
+Saw E,447,A high-quality saw designed for durability and efficiency.,Metal,4.41,8.8
+Pliers F,65,A high-quality pliers designed for durability and efficiency.,Metal,57.56,5.06
+Tape Measure G,465,A high-quality tape designed for durability and efficiency.,Composite,86.91,150.53
+Screwdriver H,418,A high-quality screwdriver designed for durability and efficiency.,Metal,43.56,336.2
+Nut I,83,A high-quality nut designed for durability and efficiency.,Wood,30.8,375.62
+Washer J,383,A high-quality washer designed for durability and efficiency.,Glass,38.99,187.61
+Chisel K,24,A high-quality chisel designed for durability and efficiency.,Composite,77.82,434.75
+Clamp L,298,A high-quality clamp designed for durability and efficiency.,Plastic,81.88,116.97
+Level M,487,A high-quality level designed for durability and efficiency.,Composite,76.69,174.28
+Sandpaper N,415,A high-quality sandpaper designed for durability and efficiency.,Composite,28.42,357.03
+Wire Cutter O,178,A high-quality wire designed for durability and efficiency.,Glass,5.98,47.24
+Socket P,325,A high-quality socket designed for durability and efficiency.,Metal,94.27,402.93
+Drill Bit Q,203,A high-quality drill designed for durability and efficiency.,Metal,20.4,396.87
+Grinder R,20,A high-quality grinder designed for durability and efficiency.,Ceramic,97.08,175.85
+Screw S,337,A high-quality screw designed for durability and efficiency.,Metal,14.1,381.91
+Bolt T,492,A high-quality bolt designed for durability and efficiency.,Metal,8.16,236.98
+Nail U,274,A high-quality nail designed for durability and efficiency.,Fabric,29.07,136.45
+Hammer V,310,A high-quality hammer designed for durability and efficiency.,Ceramic,22.22,33.51
+Wrench W,7,A high-quality wrench designed for durability and efficiency.,Plastic,16.67,321.69
+Drill X,460,A high-quality drill designed for durability and efficiency.,Metal,95.29,478.66
+Saw Y,187,A high-quality saw designed for durability and efficiency.,Composite,33.11,363.74
+Pliers Z,223,A high-quality pliers designed for durability and efficiency.,Glass,60.32,374.87
+Tape Measure A,359,A high-quality tape designed for durability and efficiency.,Composite,99.18,216.49
+Screwdriver B,84,A high-quality screwdriver designed for durability and efficiency.,Glass,77.47,261.41
+Nut C,334,A high-quality nut designed for durability and efficiency.,Plastic,88.93,9.78
+Washer D,154,A high-quality washer designed for durability and efficiency.,Composite,68.82,371.82
+Chisel E,273,A high-quality chisel designed for durability and efficiency.,Composite,67.63,497.38
+Clamp F,488,A high-quality clamp designed for durability and efficiency.,Glass,18.99,131.9
+Level G,230,A high-quality level designed for durability and efficiency.,Fabric,5.17,445.71
+Sandpaper H,495,A high-quality sandpaper designed for durability and efficiency.,Composite,27.39,325.1
+Wire Cutter I,228,A high-quality wire designed for durability and efficiency.,Glass,11.04,107.62
+Socket J,263,A high-quality socket designed for durability and efficiency.,Glass,99.61,165.84
+Drill Bit K,104,A high-quality drill designed for durability and efficiency.,Composite,82.86,52.38
+Grinder L,262,A high-quality grinder designed for durability and efficiency.,Plastic,66.61,211.74
+Screw M,113,A high-quality screw designed for durability and efficiency.,Composite,70.49,310.83
+Bolt N,189,A high-quality bolt designed for durability and efficiency.,Fabric,47.95,285.17
+Nail O,67,A high-quality nail designed for durability and efficiency.,Fabric,15.93,40.58
+Hammer P,286,A high-quality hammer designed for durability and efficiency.,Ceramic,33.19,10.17
+Wrench Q,319,A high-quality wrench designed for durability and efficiency.,Composite,67.32,248.74
+Drill R,265,A high-quality drill designed for durability and efficiency.,Wood,42.72,195.22
+Saw S,215,A high-quality saw designed for durability and efficiency.,Glass,7.85,5.27
+Pliers T,49,A high-quality pliers designed for durability and efficiency.,Plastic,82.28,249.4
+Tape Measure U,453,A high-quality tape designed for durability and efficiency.,Metal,37.43,322.27
+Screwdriver V,291,A high-quality screwdriver designed for durability and efficiency.,Fabric,30.03,199.66
+Nut W,403,A high-quality nut designed for durability and efficiency.,Glass,53.19,453.39
+Washer X,108,A high-quality washer designed for durability and efficiency.,Ceramic,14.05,249.03
+Chisel Y,103,A high-quality chisel designed for durability and efficiency.,Wood,44.84,340.56
+Clamp Z,62,A high-quality clamp designed for durability and efficiency.,Fabric,96.62,65.69
+Level A,269,A high-quality level designed for durability and efficiency.,Composite,6.88,48.98
+Sandpaper B,21,A high-quality sandpaper designed for durability and efficiency.,Ceramic,23.93,40.48
+Wire Cutter C,144,A high-quality wire designed for durability and efficiency.,Metal,33.21,375.27
+Socket D,329,A high-quality socket designed for durability and efficiency.,Metal,48.31,437.44
+Drill Bit E,453,A high-quality drill designed for durability and efficiency.,Ceramic,87.3,107.43
+Grinder F,229,A high-quality grinder designed for durability and efficiency.,Ceramic,18.56,266.62
+Screw G,475,A high-quality screw designed for durability and efficiency.,Ceramic,94.6,61.12
+Bolt H,80,A high-quality bolt designed for durability and efficiency.,Fabric,95.9,461.28
+Nail I,221,A high-quality nail designed for durability and efficiency.,Metal,61.97,218.13
+Hammer J,258,A high-quality hammer designed for durability and efficiency.,Composite,36.91,352.19
+Wrench K,456,A high-quality wrench designed for durability and efficiency.,Composite,64.72,248.47
+Drill L,269,A high-quality drill designed for durability and efficiency.,Wood,1.93,84.82
+Saw M,416,A high-quality saw designed for durability and efficiency.,Fabric,38.89,181.23
+Pliers N,366,A high-quality pliers designed for durability and efficiency.,Metal,54.59,97.73
+Tape Measure O,383,A high-quality tape designed for durability and efficiency.,Ceramic,55.86,412.05
+Screwdriver P,288,A high-quality screwdriver designed for durability and efficiency.,Metal,60.98,317.84
+Nut Q,4,A high-quality nut designed for durability and efficiency.,Wood,66.31,242.36
+Washer R,244,A high-quality washer designed for durability and efficiency.,Ceramic,0.6,266.73
+Chisel S,15,A high-quality chisel designed for durability and efficiency.,Glass,31.16,32.19
+Clamp T,166,A high-quality clamp designed for durability and efficiency.,Ceramic,79.68,210.36
+Level U,121,A high-quality level designed for durability and efficiency.,Metal,15.96,433.45
+Sandpaper V,17,A high-quality sandpaper designed for durability and efficiency.,Composite,15.91,362.01
+Wire Cutter W,220,A high-quality wire designed for durability and efficiency.,Wood,58.3,42.86
+Socket X,395,A high-quality socket designed for durability and efficiency.,Composite,45.44,129.05
+Drill Bit Y,7,A high-quality drill designed for durability and efficiency.,Glass,50.92,284.71
+Grinder Z,470,A high-quality grinder designed for durability and efficiency.,Glass,35.23,155.64
+Screw A,486,A high-quality screw designed for durability and efficiency.,Glass,43.33,278.97
+Bolt B,62,A high-quality bolt designed for durability and efficiency.,Composite,92.16,281.02
+Nail C,217,A high-quality nail designed for durability and efficiency.,Wood,3.87,426.61
+Hammer D,479,A high-quality hammer designed for durability and efficiency.,Ceramic,92.27,191.24
+Wrench E,197,A high-quality wrench designed for durability and efficiency.,Fabric,87.46,462.66
+Drill F,242,A high-quality drill designed for durability and efficiency.,Metal,75.71,82.37
+Saw G,385,A high-quality saw designed for durability and efficiency.,Fabric,12.04,142.43
+Pliers H,403,A high-quality pliers designed for durability and efficiency.,Wood,94.81,472.22
+Tape Measure I,92,A high-quality tape designed for durability and efficiency.,Metal,12.17,373.57
+Screwdriver J,188,A high-quality screwdriver designed for durability and efficiency.,Ceramic,50.29,180.42
+Nut K,339,A high-quality nut designed for durability and efficiency.,Fabric,56.27,423.66
+Washer L,453,A high-quality washer designed for durability and efficiency.,Glass,81.68,27.87
+Chisel M,79,A high-quality chisel designed for durability and efficiency.,Glass,67.44,129.4
+Clamp N,84,A high-quality clamp designed for durability and efficiency.,Plastic,86.32,298.06
+Level O,494,A high-quality level designed for durability and efficiency.,Glass,18.11,136.0
+Sandpaper P,406,A high-quality sandpaper designed for durability and efficiency.,Plastic,81.1,40.01
+Wire Cutter Q,455,A high-quality wire designed for durability and efficiency.,Wood,66.29,462.92
+Socket R,452,A high-quality socket designed for durability and efficiency.,Composite,85.29,111.02
+Drill Bit S,319,A high-quality drill designed for durability and efficiency.,Wood,30.73,246.41
+Grinder T,11,A high-quality grinder designed for durability and efficiency.,Ceramic,34.94,34.12
+Screw U,439,A high-quality screw designed for durability and efficiency.,Glass,63.32,453.35
+Bolt V,207,A high-quality bolt designed for durability and efficiency.,Plastic,26.88,460.99
+Nail W,280,A high-quality nail designed for durability and efficiency.,Composite,90.75,379.52
+Hammer X,142,A high-quality hammer designed for durability and efficiency.,Metal,75.16,359.08
+Wrench Y,273,A high-quality wrench designed for durability and efficiency.,Wood,43.61,139.74
+Drill Z,221,A high-quality drill designed for durability and efficiency.,Metal,90.87,137.83
+Saw A,24,A high-quality saw designed for durability and efficiency.,Glass,96.76,442.65
+Pliers B,160,A high-quality pliers designed for durability and efficiency.,Wood,6.08,235.96
+Tape Measure C,389,A high-quality tape designed for durability and efficiency.,Ceramic,73.13,260.34
+Screwdriver D,484,A high-quality screwdriver designed for durability and efficiency.,Ceramic,97.33,420.85
+Nut E,246,A high-quality nut designed for durability and efficiency.,Composite,21.93,359.03
+Washer F,311,A high-quality washer designed for durability and efficiency.,Ceramic,20.4,460.0
+Chisel G,290,A high-quality chisel designed for durability and efficiency.,Fabric,27.54,330.3
+Clamp H,36,A high-quality clamp designed for durability and efficiency.,Fabric,27.25,323.66
+Level I,239,A high-quality level designed for durability and efficiency.,Wood,3.01,75.44
+Sandpaper J,477,A high-quality sandpaper designed for durability and efficiency.,Glass,10.15,298.48
+Wire Cutter K,264,A high-quality wire designed for durability and efficiency.,Plastic,36.29,296.19
+Socket L,306,A high-quality socket designed for durability and efficiency.,Plastic,27.22,295.21
+Drill Bit M,498,A high-quality drill designed for durability and efficiency.,Glass,34.24,242.65
+Grinder N,108,A high-quality grinder designed for durability and efficiency.,Plastic,32.12,87.18
+Screw O,151,A high-quality screw designed for durability and efficiency.,Glass,78.65,149.46
+Bolt P,297,A high-quality bolt designed for durability and efficiency.,Wood,63.87,354.05
+Nail Q,354,A high-quality nail designed for durability and efficiency.,Metal,18.12,313.28
+Hammer R,30,A high-quality hammer designed for durability and efficiency.,Plastic,42.73,444.24
+Wrench S,160,A high-quality wrench designed for durability and efficiency.,Ceramic,16.05,221.15
+Drill T,241,A high-quality drill designed for durability and efficiency.,Ceramic,63.42,90.42
+Saw U,162,A high-quality saw designed for durability and efficiency.,Ceramic,78.22,19.21
+Pliers V,92,A high-quality pliers designed for durability and efficiency.,Ceramic,94.92,435.2
+Tape Measure W,83,A high-quality tape designed for durability and efficiency.,Glass,32.47,38.21
+Screwdriver X,422,A high-quality screwdriver designed for durability and efficiency.,Glass,36.2,4.23
+Nut Y,453,A high-quality nut designed for durability and efficiency.,Wood,29.35,251.92
+Washer Z,434,A high-quality washer designed for durability and efficiency.,Glass,53.5,467.18
+Chisel A,147,A high-quality chisel designed for durability and efficiency.,Ceramic,52.48,383.85
+Clamp B,77,A high-quality clamp designed for durability and efficiency.,Wood,77.96,423.93
+Level C,382,A high-quality level designed for durability and efficiency.,Metal,30.29,86.66
+Sandpaper D,294,A high-quality sandpaper designed for durability and efficiency.,Wood,57.87,314.03
+Wire Cutter E,381,A high-quality wire designed for durability and efficiency.,Plastic,58.13,294.96
+Socket F,48,A high-quality socket designed for durability and efficiency.,Ceramic,12.55,243.99
+Drill Bit G,308,A high-quality drill designed for durability and efficiency.,Glass,29.92,437.24
+Grinder H,177,A high-quality grinder designed for durability and efficiency.,Glass,9.82,191.75
+Screw I,153,A high-quality screw designed for durability and efficiency.,Composite,46.37,208.86
+Bolt J,452,A high-quality bolt designed for durability and efficiency.,Metal,61.9,99.18
+Nail K,309,A high-quality nail designed for durability and efficiency.,Fabric,22.01,403.72
+Hammer L,208,A high-quality hammer designed for durability and efficiency.,Composite,64.06,421.76
+Wrench M,408,A high-quality wrench designed for durability and efficiency.,Glass,54.83,237.76
+Drill N,308,A high-quality drill designed for durability and efficiency.,Plastic,29.42,352.47
+Saw O,265,A high-quality saw designed for durability and efficiency.,Plastic,7.6,434.36
+Pliers P,349,A high-quality pliers designed for durability and efficiency.,Wood,44.57,452.69
+Tape Measure Q,167,A high-quality tape designed for durability and efficiency.,Fabric,74.7,163.37
+Screwdriver R,442,A high-quality screwdriver designed for durability and efficiency.,Composite,68.97,255.95
+Nut S,154,A high-quality nut designed for durability and efficiency.,Composite,6.02,269.32
+Washer T,217,A high-quality washer designed for durability and efficiency.,Composite,34.3,290.41
+Chisel U,290,A high-quality chisel designed for durability and efficiency.,Plastic,55.47,266.15
+Clamp V,19,A high-quality clamp designed for durability and efficiency.,Plastic,55.37,236.94
+Level W,57,A high-quality level designed for durability and efficiency.,Fabric,40.03,23.25
+Sandpaper X,106,A high-quality sandpaper designed for durability and efficiency.,Plastic,90.44,340.96
+Wire Cutter Y,69,A high-quality wire designed for durability and efficiency.,Wood,74.44,247.72
+Socket Z,148,A high-quality socket designed for durability and efficiency.,Glass,98.33,171.92
+Drill Bit A,321,A high-quality drill designed for durability and efficiency.,Composite,46.25,383.3
+Grinder B,340,A high-quality grinder designed for durability and efficiency.,Glass,98.48,198.48
+Screw C,402,A high-quality screw designed for durability and efficiency.,Wood,1.91,330.74
+Bolt D,101,A high-quality bolt designed for durability and efficiency.,Fabric,70.94,247.67
+Nail E,321,A high-quality nail designed for durability and efficiency.,Glass,29.38,194.88
+Hammer F,269,A high-quality hammer designed for durability and efficiency.,Fabric,20.25,16.26
+Wrench G,134,A high-quality wrench designed for durability and efficiency.,Plastic,44.39,340.66
+Drill H,386,A high-quality drill designed for durability and efficiency.,Glass,6.19,428.79
+Saw I,195,A high-quality saw designed for durability and efficiency.,Ceramic,33.98,233.11
+Pliers J,25,A high-quality pliers designed for durability and efficiency.,Composite,73.84,398.63
+Tape Measure K,392,A high-quality tape designed for durability and efficiency.,Composite,45.7,39.19
+Screwdriver L,189,A high-quality screwdriver designed for durability and efficiency.,Metal,88.7,298.36
+Nut M,216,A high-quality nut designed for durability and efficiency.,Fabric,88.86,132.57
+Washer N,419,A high-quality washer designed for durability and efficiency.,Wood,35.6,449.62
+Chisel O,374,A high-quality chisel designed for durability and efficiency.,Composite,56.59,106.92
+Clamp P,87,A high-quality clamp designed for durability and efficiency.,Composite,47.82,481.22
+Level Q,490,A high-quality level designed for durability and efficiency.,Wood,25.99,261.33
+Sandpaper R,177,A high-quality sandpaper designed for durability and efficiency.,Glass,28.7,189.94
+Wire Cutter S,306,A high-quality wire designed for durability and efficiency.,Wood,87.27,235.16
+Socket T,146,A high-quality socket designed for durability and efficiency.,Wood,54.66,450.62
+Drill Bit U,14,A high-quality drill designed for durability and efficiency.,Plastic,91.58,82.01
+Grinder V,213,A high-quality grinder designed for durability and efficiency.,Fabric,54.97,218.66
+Screw W,46,A high-quality screw designed for durability and efficiency.,Ceramic,80.72,290.57
+Bolt X,175,A high-quality bolt designed for durability and efficiency.,Wood,99.28,155.11
+Nail Y,146,A high-quality nail designed for durability and efficiency.,Ceramic,86.8,147.57
+Hammer Z,123,A high-quality hammer designed for durability and efficiency.,Fabric,31.54,305.1
+Wrench A,348,A high-quality wrench designed for durability and efficiency.,Metal,38.19,147.2
+Drill B,156,A high-quality drill designed for durability and efficiency.,Fabric,52.96,375.66
+Saw C,160,A high-quality saw designed for durability and efficiency.,Wood,61.43,92.88
+Pliers D,297,A high-quality pliers designed for durability and efficiency.,Fabric,22.85,254.75
+Tape Measure E,491,A high-quality tape designed for durability and efficiency.,Wood,31.13,348.51
+Screwdriver F,243,A high-quality screwdriver designed for durability and efficiency.,Glass,5.01,78.16
+Nut G,12,A high-quality nut designed for durability and efficiency.,Composite,85.49,307.22
+Washer H,372,A high-quality washer designed for durability and efficiency.,Fabric,67.85,121.23
+Chisel I,412,A high-quality chisel designed for durability and efficiency.,Fabric,41.09,125.41
+Clamp J,260,A high-quality clamp designed for durability and efficiency.,Plastic,6.11,377.58
+Level K,217,A high-quality level designed for durability and efficiency.,Metal,99.59,23.51
+Sandpaper L,351,A high-quality sandpaper designed for durability and efficiency.,Ceramic,94.2,119.76
+Wire Cutter M,347,A high-quality wire designed for durability and efficiency.,Ceramic,30.25,270.92
+Socket N,258,A high-quality socket designed for durability and efficiency.,Glass,10.57,245.02
+Drill Bit O,256,A high-quality drill designed for durability and efficiency.,Fabric,2.04,386.21
+Grinder P,371,A high-quality grinder designed for durability and efficiency.,Glass,4.59,245.32
+Screw Q,403,A high-quality screw designed for durability and efficiency.,Metal,41.25,419.98
+Bolt R,96,A high-quality bolt designed for durability and efficiency.,Glass,10.29,391.17
+Nail S,24,A high-quality nail designed for durability and efficiency.,Composite,64.72,377.61
+Hammer T,320,A high-quality hammer designed for durability and efficiency.,Wood,25.79,479.83
+Wrench U,356,A high-quality wrench designed for durability and efficiency.,Fabric,21.95,70.29
+Drill V,409,A high-quality drill designed for durability and efficiency.,Metal,47.36,344.25
+Saw W,280,A high-quality saw designed for durability and efficiency.,Ceramic,37.37,467.87
+Pliers X,148,A high-quality pliers designed for durability and efficiency.,Metal,70.97,177.3
+Tape Measure Y,73,A high-quality tape designed for durability and efficiency.,Wood,60.28,427.66
+Screwdriver Z,342,A high-quality screwdriver designed for durability and efficiency.,Metal,68.33,22.97
+Nut A,451,A high-quality nut designed for durability and efficiency.,Ceramic,62.18,115.83
+Washer B,44,A high-quality washer designed for durability and efficiency.,Metal,95.67,339.64
+Chisel C,98,A high-quality chisel designed for durability and efficiency.,Ceramic,0.83,10.77
+Clamp D,238,A high-quality clamp designed for durability and efficiency.,Glass,77.96,499.68
+Level E,68,A high-quality level designed for durability and efficiency.,Plastic,66.84,402.97
+Sandpaper F,266,A high-quality sandpaper designed for durability and efficiency.,Metal,50.35,216.34
+Wire Cutter G,132,A high-quality wire designed for durability and efficiency.,Plastic,29.32,382.98
+Socket H,153,A high-quality socket designed for durability and efficiency.,Ceramic,63.87,402.71
+Drill Bit I,234,A high-quality drill designed for durability and efficiency.,Glass,3.44,424.66
+Grinder J,484,A high-quality grinder designed for durability and efficiency.,Metal,59.81,191.94
+Screw K,384,A high-quality screw designed for durability and efficiency.,Fabric,98.53,182.76
+Bolt L,385,A high-quality bolt designed for durability and efficiency.,Fabric,17.99,195.54
+Nail M,472,A high-quality nail designed for durability and efficiency.,Glass,22.51,301.46
+Hammer N,91,A high-quality hammer designed for durability and efficiency.,Fabric,92.41,60.25
+Wrench O,315,A high-quality wrench designed for durability and efficiency.,Ceramic,43.24,124.83
+Drill P,259,A high-quality drill designed for durability and efficiency.,Metal,39.95,361.8
+Saw Q,232,A high-quality saw designed for durability and efficiency.,Fabric,49.99,474.72
+Pliers R,206,A high-quality pliers designed for durability and efficiency.,Plastic,7.24,426.98
+Tape Measure S,137,A high-quality tape designed for durability and efficiency.,Composite,51.21,438.43
+Screwdriver T,428,A high-quality screwdriver designed for durability and efficiency.,Metal,59.8,5.9
+Nut U,231,A high-quality nut designed for durability and efficiency.,Metal,23.45,295.14
+Washer V,204,A high-quality washer designed for durability and efficiency.,Metal,49.94,459.16
+Chisel W,14,A high-quality chisel designed for durability and efficiency.,Fabric,68.19,37.05
+Clamp X,421,A high-quality clamp designed for durability and efficiency.,Plastic,0.22,333.41
+Level Y,493,A high-quality level designed for durability and efficiency.,Ceramic,42.56,361.04
+Sandpaper Z,457,A high-quality sandpaper designed for durability and efficiency.,Ceramic,37.17,255.27
+Wire Cutter A,63,A high-quality wire designed for durability and efficiency.,Glass,7.05,138.62
+Socket B,95,A high-quality socket designed for durability and efficiency.,Plastic,75.28,107.12
+Drill Bit C,38,A high-quality drill designed for durability and efficiency.,Wood,1.16,433.29
+Grinder D,164,A high-quality grinder designed for durability and efficiency.,Plastic,14.83,331.96
+Screw E,159,A high-quality screw designed for durability and efficiency.,Metal,62.95,268.86
+Bolt F,499,A high-quality bolt designed for durability and efficiency.,Metal,76.78,187.52
+Nail G,244,A high-quality nail designed for durability and efficiency.,Ceramic,2.73,154.7
+Hammer H,367,A high-quality hammer designed for durability and efficiency.,Fabric,96.15,32.58
+Wrench I,359,A high-quality wrench designed for durability and efficiency.,Wood,60.05,290.96
+Drill J,387,A high-quality drill designed for durability and efficiency.,Glass,16.01,135.39
+Saw K,145,A high-quality saw designed for durability and efficiency.,Wood,41.59,354.92
+Pliers L,387,A high-quality pliers designed for durability and efficiency.,Metal,69.65,18.25
+Tape Measure M,121,A high-quality tape designed for durability and efficiency.,Wood,58.16,498.03
+Screwdriver N,201,A high-quality screwdriver designed for durability and efficiency.,Composite,99.95,370.34
+Nut O,84,A high-quality nut designed for durability and efficiency.,Metal,21.23,52.6
+Washer P,229,A high-quality washer designed for durability and efficiency.,Metal,10.12,409.06
+Chisel Q,313,A high-quality chisel designed for durability and efficiency.,Metal,70.17,352.54
+Clamp R,339,A high-quality clamp designed for durability and efficiency.,Fabric,14.4,452.98
+Level S,341,A high-quality level designed for durability and efficiency.,Wood,99.97,235.97
+Sandpaper T,225,A high-quality sandpaper designed for durability and efficiency.,Fabric,74.23,40.51
+Wire Cutter U,231,A high-quality wire designed for durability and efficiency.,Fabric,54.46,8.29
+Socket V,488,A high-quality socket designed for durability and efficiency.,Composite,34.92,224.99
+Drill Bit W,171,A high-quality drill designed for durability and efficiency.,Ceramic,47.58,359.05
+Grinder X,95,A high-quality grinder designed for durability and efficiency.,Fabric,91.58,169.82
+Screw Y,466,A high-quality screw designed for durability and efficiency.,Wood,75.9,81.87
+Bolt Z,151,A high-quality bolt designed for durability and efficiency.,Metal,67.53,445.67
+Nail A,178,A high-quality nail designed for durability and efficiency.,Fabric,26.02,6.43
+Hammer B,121,A high-quality hammer designed for durability and efficiency.,Metal,26.18,39.43
+Wrench C,313,A high-quality wrench designed for durability and efficiency.,Glass,41.14,120.7
+Drill D,285,A high-quality drill designed for durability and efficiency.,Fabric,2.78,61.64
+Saw E,74,A high-quality saw designed for durability and efficiency.,Plastic,92.94,31.61
+Pliers F,84,A high-quality pliers designed for durability and efficiency.,Composite,51.87,108.52
+Tape Measure G,189,A high-quality tape designed for durability and efficiency.,Composite,41.08,355.81
+Screwdriver H,236,A high-quality screwdriver designed for durability and efficiency.,Glass,77.24,226.49
+Nut I,44,A high-quality nut designed for durability and efficiency.,Ceramic,38.69,33.0
+Washer J,474,A high-quality washer designed for durability and efficiency.,Wood,74.81,116.65
+Chisel K,28,A high-quality chisel designed for durability and efficiency.,Glass,23.54,395.2
+Clamp L,135,A high-quality clamp designed for durability and efficiency.,Plastic,59.95,370.95
+Level M,192,A high-quality level designed for durability and efficiency.,Glass,18.11,7.49
+Sandpaper N,152,A high-quality sandpaper designed for durability and efficiency.,Ceramic,68.0,307.4
+Wire Cutter O,400,A high-quality wire designed for durability and efficiency.,Composite,79.82,281.41
+Socket P,344,A high-quality socket designed for durability and efficiency.,Metal,72.0,432.0
+Drill Bit Q,370,A high-quality drill designed for durability and efficiency.,Fabric,52.26,422.92
+Grinder R,359,A high-quality grinder designed for durability and efficiency.,Plastic,4.42,136.51
+Screw S,320,A high-quality screw designed for durability and efficiency.,Ceramic,41.52,41.09
+Bolt T,412,A high-quality bolt designed for durability and efficiency.,Composite,38.67,344.79
+Nail U,444,A high-quality nail designed for durability and efficiency.,Glass,8.54,341.42
+Hammer V,254,A high-quality hammer designed for durability and efficiency.,Metal,42.01,1.11
+Wrench W,420,A high-quality wrench designed for durability and efficiency.,Glass,28.55,132.97
+Drill X,496,A high-quality drill designed for durability and efficiency.,Plastic,73.54,337.95
+Saw Y,159,A high-quality saw designed for durability and efficiency.,Wood,1.25,398.07
+Pliers Z,149,A high-quality pliers designed for durability and efficiency.,Fabric,44.05,423.2
+Tape Measure A,155,A high-quality tape designed for durability and efficiency.,Glass,38.71,113.66
+Screwdriver B,305,A high-quality screwdriver designed for durability and efficiency.,Metal,34.94,86.88
+Nut C,464,A high-quality nut designed for durability and efficiency.,Wood,38.16,279.98
+Washer D,77,A high-quality washer designed for durability and efficiency.,Glass,10.12,31.1
+Chisel E,341,A high-quality chisel designed for durability and efficiency.,Ceramic,1.04,146.85
+Clamp F,273,A high-quality clamp designed for durability and efficiency.,Wood,32.9,485.69
+Level G,452,A high-quality level designed for durability and efficiency.,Glass,89.37,369.26
+Sandpaper H,33,A high-quality sandpaper designed for durability and efficiency.,Glass,17.86,234.73
+Wire Cutter I,116,A high-quality wire designed for durability and efficiency.,Glass,11.87,252.46
+Socket J,430,A high-quality socket designed for durability and efficiency.,Ceramic,71.59,223.17
+Drill Bit K,347,A high-quality drill designed for durability and efficiency.,Composite,36.19,331.44
+Grinder L,27,A high-quality grinder designed for durability and efficiency.,Ceramic,21.51,147.72
+Screw M,206,A high-quality screw designed for durability and efficiency.,Composite,39.8,197.74
+Bolt N,341,A high-quality bolt designed for durability and efficiency.,Wood,36.93,83.13
+Nail O,148,A high-quality nail designed for durability and efficiency.,Ceramic,65.13,276.01
+Hammer P,31,A high-quality hammer designed for durability and efficiency.,Fabric,5.37,124.1
+Wrench Q,318,A high-quality wrench designed for durability and efficiency.,Ceramic,83.21,151.01
+Drill R,80,A high-quality drill designed for durability and efficiency.,Plastic,31.95,164.75
+Saw S,226,A high-quality saw designed for durability and efficiency.,Glass,98.35,384.01
+Pliers T,223,A high-quality pliers designed for durability and efficiency.,Composite,7.15,131.31
+Tape Measure U,409,A high-quality tape designed for durability and efficiency.,Ceramic,53.33,242.57
+Screwdriver V,41,A high-quality screwdriver designed for durability and efficiency.,Ceramic,75.75,145.66
+Nut W,445,A high-quality nut designed for durability and efficiency.,Fabric,41.72,370.21
+Washer X,119,A high-quality washer designed for durability and efficiency.,Plastic,77.18,487.85
+Chisel Y,119,A high-quality chisel designed for durability and efficiency.,Composite,0.86,113.92
+Clamp Z,484,A high-quality clamp designed for durability and efficiency.,Composite,28.97,328.98
+Level A,177,A high-quality level designed for durability and efficiency.,Plastic,88.9,210.36
+Sandpaper B,375,A high-quality sandpaper designed for durability and efficiency.,Plastic,97.9,299.17
+Wire Cutter C,4,A high-quality wire designed for durability and efficiency.,Plastic,54.52,368.31
+Socket D,84,A high-quality socket designed for durability and efficiency.,Glass,65.52,372.86
+Drill Bit E,154,A high-quality drill designed for durability and efficiency.,Glass,61.13,203.4
+Grinder F,47,A high-quality grinder designed for durability and efficiency.,Wood,3.31,127.66
+Screw G,309,A high-quality screw designed for durability and efficiency.,Plastic,67.23,26.95
+Bolt H,360,A high-quality bolt designed for durability and efficiency.,Glass,52.38,346.93
+Nail I,400,A high-quality nail designed for durability and efficiency.,Wood,9.66,110.69
+Hammer J,54,A high-quality hammer designed for durability and efficiency.,Glass,82.04,90.02
+Wrench K,398,A high-quality wrench designed for durability and efficiency.,Plastic,64.06,11.16
+Drill L,279,A high-quality drill designed for durability and efficiency.,Metal,43.77,43.63
+Saw M,458,A high-quality saw designed for durability and efficiency.,Ceramic,73.94,246.99
+Pliers N,273,A high-quality pliers designed for durability and efficiency.,Metal,33.76,53.74
+Tape Measure O,346,A high-quality tape designed for durability and efficiency.,Ceramic,16.1,428.19
+Screwdriver P,200,A high-quality screwdriver designed for durability and efficiency.,Composite,77.07,467.37
+Nut Q,351,A high-quality nut designed for durability and efficiency.,Ceramic,70.16,160.43
+Washer R,374,A high-quality washer designed for durability and efficiency.,Wood,33.19,231.93
+Chisel S,475,A high-quality chisel designed for durability and efficiency.,Wood,68.24,9.64
+Clamp T,311,A high-quality clamp designed for durability and efficiency.,Glass,2.87,171.61
+Level U,335,A high-quality level designed for durability and efficiency.,Glass,36.6,493.27
+Sandpaper V,280,A high-quality sandpaper designed for durability and efficiency.,Plastic,90.7,242.52
+Wire Cutter W,147,A high-quality wire designed for durability and efficiency.,Glass,38.62,286.6
+Socket X,474,A high-quality socket designed for durability and efficiency.,Fabric,90.76,23.57
+Drill Bit Y,304,A high-quality drill designed for durability and efficiency.,Glass,70.37,347.43
+Grinder Z,328,A high-quality grinder designed for durability and efficiency.,Composite,36.04,99.96
+Screw A,228,A high-quality screw designed for durability and efficiency.,Metal,59.47,192.72
+Bolt B,67,A high-quality bolt designed for durability and efficiency.,Plastic,50.21,113.25
+Nail C,398,A high-quality nail designed for durability and efficiency.,Fabric,0.38,400.66
+Hammer D,203,A high-quality hammer designed for durability and efficiency.,Metal,76.13,251.21
+Wrench E,117,A high-quality wrench designed for durability and efficiency.,Composite,33.43,35.09
+Drill F,307,A high-quality drill designed for durability and efficiency.,Glass,17.9,324.42
+Saw G,227,A high-quality saw designed for durability and efficiency.,Fabric,75.92,275.69
+Pliers H,46,A high-quality pliers designed for durability and efficiency.,Wood,31.74,114.62
+Tape Measure I,257,A high-quality tape designed for durability and efficiency.,Glass,92.0,215.01
+Screwdriver J,190,A high-quality screwdriver designed for durability and efficiency.,Metal,6.07,122.35
+Nut K,298,A high-quality nut designed for durability and efficiency.,Composite,29.01,241.11
+Washer L,71,A high-quality washer designed for durability and efficiency.,Fabric,27.96,461.94
+Chisel M,247,A high-quality chisel designed for durability and efficiency.,Plastic,18.93,153.99
+Clamp N,124,A high-quality clamp designed for durability and efficiency.,Fabric,99.63,89.63
+Level O,401,A high-quality level designed for durability and efficiency.,Plastic,38.81,79.18
+Sandpaper P,195,A high-quality sandpaper designed for durability and efficiency.,Wood,38.43,307.78
+Wire Cutter Q,57,A high-quality wire designed for durability and efficiency.,Ceramic,0.55,454.06
+Socket R,256,A high-quality socket designed for durability and efficiency.,Plastic,96.8,178.06
+Drill Bit S,18,A high-quality drill designed for durability and efficiency.,Fabric,93.41,87.66
+Grinder T,298,A high-quality grinder designed for durability and efficiency.,Fabric,61.4,21.43
+Screw U,152,A high-quality screw designed for durability and efficiency.,Glass,11.24,200.13
+Bolt V,244,A high-quality bolt designed for durability and efficiency.,Ceramic,7.64,159.6
+Nail W,206,A high-quality nail designed for durability and efficiency.,Fabric,83.69,260.8
+Hammer X,421,A high-quality hammer designed for durability and efficiency.,Glass,78.13,48.72
+Wrench Y,63,A high-quality wrench designed for durability and efficiency.,Metal,23.13,417.22
+Drill Z,93,A high-quality drill designed for durability and efficiency.,Metal,93.54,118.64
+Saw A,286,A high-quality saw designed for durability and efficiency.,Fabric,18.57,350.1
+Pliers B,335,A high-quality pliers designed for durability and efficiency.,Plastic,82.19,313.49
+Tape Measure C,74,A high-quality tape designed for durability and efficiency.,Composite,25.01,334.56
+Screwdriver D,384,A high-quality screwdriver designed for durability and efficiency.,Composite,52.13,88.18
+Nut E,43,A high-quality nut designed for durability and efficiency.,Ceramic,44.51,203.16
+Washer F,209,A high-quality washer designed for durability and efficiency.,Wood,75.86,301.58
+Chisel G,470,A high-quality chisel designed for durability and efficiency.,Wood,39.38,113.98
+Clamp H,222,A high-quality clamp designed for durability and efficiency.,Glass,2.53,434.91
+Level I,202,A high-quality level designed for durability and efficiency.,Metal,7.5,118.64
+Sandpaper J,95,A high-quality sandpaper designed for durability and efficiency.,Metal,12.82,402.1
+Wire Cutter K,217,A high-quality wire designed for durability and efficiency.,Metal,20.56,390.74
+Socket L,357,A high-quality socket designed for durability and efficiency.,Wood,13.73,391.49
+Drill Bit M,229,A high-quality drill designed for durability and efficiency.,Wood,9.41,79.25
+Grinder N,249,A high-quality grinder designed for durability and efficiency.,Metal,88.16,80.3
+Screw O,395,A high-quality screw designed for durability and efficiency.,Metal,70.31,187.37
+Bolt P,101,A high-quality bolt designed for durability and efficiency.,Metal,1.22,105.28
+Nail Q,485,A high-quality nail designed for durability and efficiency.,Metal,5.4,308.28
+Hammer R,60,A high-quality hammer designed for durability and efficiency.,Composite,8.2,355.23
+Wrench S,10,A high-quality wrench designed for durability and efficiency.,Metal,22.07,121.08
+Drill T,324,A high-quality drill designed for durability and efficiency.,Composite,54.06,161.08
+Saw U,267,A high-quality saw designed for durability and efficiency.,Fabric,49.43,121.27
+Pliers V,227,A high-quality pliers designed for durability and efficiency.,Fabric,96.85,93.5
+Tape Measure W,282,A high-quality tape designed for durability and efficiency.,Wood,7.67,493.77
+Screwdriver X,429,A high-quality screwdriver designed for durability and efficiency.,Composite,99.55,270.16
+Nut Y,309,A high-quality nut designed for durability and efficiency.,Glass,24.48,482.96
+Washer Z,380,A high-quality washer designed for durability and efficiency.,Glass,93.54,241.06
+Chisel A,308,A high-quality chisel designed for durability and efficiency.,Wood,21.97,23.15
+Clamp B,180,A high-quality clamp designed for durability and efficiency.,Ceramic,27.83,477.71
+Level C,291,A high-quality level designed for durability and efficiency.,Ceramic,69.31,393.2
+Sandpaper D,421,A high-quality sandpaper designed for durability and efficiency.,Composite,71.49,92.45
+Wire Cutter E,449,A high-quality wire designed for durability and efficiency.,Metal,53.36,289.24
+Socket F,433,A high-quality socket designed for durability and efficiency.,Ceramic,37.96,7.1
+Drill Bit G,367,A high-quality drill designed for durability and efficiency.,Plastic,92.13,151.58
+Grinder H,284,A high-quality grinder designed for durability and efficiency.,Metal,99.22,438.86
+Screw I,269,A high-quality screw designed for durability and efficiency.,Wood,46.42,104.56
+Bolt J,68,A high-quality bolt designed for durability and efficiency.,Wood,65.23,456.72
+Nail K,348,A high-quality nail designed for durability and efficiency.,Composite,82.06,57.44
+Hammer L,277,A high-quality hammer designed for durability and efficiency.,Plastic,75.47,208.38
+Wrench M,302,A high-quality wrench designed for durability and efficiency.,Fabric,72.84,449.37
+Drill N,410,A high-quality drill designed for durability and efficiency.,Metal,17.11,96.29
+Saw O,125,A high-quality saw designed for durability and efficiency.,Wood,97.91,44.07
+Pliers P,326,A high-quality pliers designed for durability and efficiency.,Wood,77.35,95.73
+Tape Measure Q,14,A high-quality tape designed for durability and efficiency.,Wood,14.89,209.26
+Screwdriver R,244,A high-quality screwdriver designed for durability and efficiency.,Fabric,40.46,179.59
+Nut S,140,A high-quality nut designed for durability and efficiency.,Composite,57.08,45.26
+Washer T,174,A high-quality washer designed for durability and efficiency.,Metal,46.68,230.03
+Chisel U,295,A high-quality chisel designed for durability and efficiency.,Fabric,89.34,414.45
+Clamp V,410,A high-quality clamp designed for durability and efficiency.,Fabric,3.38,187.26
+Level W,97,A high-quality level designed for durability and efficiency.,Fabric,79.02,424.55
+Sandpaper X,332,A high-quality sandpaper designed for durability and efficiency.,Fabric,86.18,44.66
+Wire Cutter Y,197,A high-quality wire designed for durability and efficiency.,Wood,69.05,244.15
+Socket Z,185,A high-quality socket designed for durability and efficiency.,Composite,71.96,380.28
+Drill Bit A,232,A high-quality drill designed for durability and efficiency.,Composite,29.24,163.98
+Grinder B,157,A high-quality grinder designed for durability and efficiency.,Metal,16.61,291.47
+Screw C,425,A high-quality screw designed for durability and efficiency.,Wood,82.58,383.09
+Bolt D,338,A high-quality bolt designed for durability and efficiency.,Composite,3.99,275.9
+Nail E,179,A high-quality nail designed for durability and efficiency.,Glass,94.43,456.42
+Hammer F,415,A high-quality hammer designed for durability and efficiency.,Wood,26.43,354.23
+Wrench G,419,A high-quality wrench designed for durability and efficiency.,Wood,91.63,32.69
+Drill H,248,A high-quality drill designed for durability and efficiency.,Metal,84.38,345.63
+Saw I,426,A high-quality saw designed for durability and efficiency.,Metal,96.74,198.2
+Pliers J,115,A high-quality pliers designed for durability and efficiency.,Ceramic,75.55,375.82
+Tape Measure K,195,A high-quality tape designed for durability and efficiency.,Metal,17.36,88.62
+Screwdriver L,385,A high-quality screwdriver designed for durability and efficiency.,Metal,74.6,432.53
+Nut M,318,A high-quality nut designed for durability and efficiency.,Plastic,25.64,177.16
+Washer N,3,A high-quality washer designed for durability and efficiency.,Plastic,9.99,375.67
+Chisel O,260,A high-quality chisel designed for durability and efficiency.,Glass,36.06,149.44
+Clamp P,185,A high-quality clamp designed for durability and efficiency.,Composite,0.11,64.39
+Level Q,94,A high-quality level designed for durability and efficiency.,Plastic,3.2,250.0
+Sandpaper R,3,A high-quality sandpaper designed for durability and efficiency.,Metal,39.68,471.14
+Wire Cutter S,224,A high-quality wire designed for durability and efficiency.,Ceramic,42.81,449.77
+Socket T,144,A high-quality socket designed for durability and efficiency.,Metal,69.36,250.06
+Drill Bit U,173,A high-quality drill designed for durability and efficiency.,Wood,60.05,256.95
+Grinder V,16,A high-quality grinder designed for durability and efficiency.,Glass,30.11,392.02
+Screw W,131,A high-quality screw designed for durability and efficiency.,Wood,57.54,160.39
+Bolt X,356,A high-quality bolt designed for durability and efficiency.,Metal,1.06,91.2
+Nail Y,329,A high-quality nail designed for durability and efficiency.,Composite,12.52,487.34
+Hammer Z,257,A high-quality hammer designed for durability and efficiency.,Ceramic,20.27,416.68
+Wrench A,354,A high-quality wrench designed for durability and efficiency.,Plastic,4.2,417.42
+Drill B,358,A high-quality drill designed for durability and efficiency.,Composite,2.69,229.9
+Saw C,140,A high-quality saw designed for durability and efficiency.,Wood,89.95,106.16
+Pliers D,26,A high-quality pliers designed for durability and efficiency.,Fabric,56.2,376.68
+Tape Measure E,273,A high-quality tape designed for durability and efficiency.,Plastic,46.75,249.55
+Screwdriver F,492,A high-quality screwdriver designed for durability and efficiency.,Wood,74.31,75.73
+Nut G,218,A high-quality nut designed for durability and efficiency.,Wood,97.87,284.83
+Washer H,16,A high-quality washer designed for durability and efficiency.,Metal,85.37,84.33
+Chisel I,429,A high-quality chisel designed for durability and efficiency.,Wood,86.92,117.64
+Clamp J,446,A high-quality clamp designed for durability and efficiency.,Composite,20.26,399.74
+Level K,72,A high-quality level designed for durability and efficiency.,Metal,35.14,457.13
+Sandpaper L,272,A high-quality sandpaper designed for durability and efficiency.,Fabric,31.86,462.23
+Wire Cutter M,475,A high-quality wire designed for durability and efficiency.,Ceramic,26.66,310.21
+Socket N,333,A high-quality socket designed for durability and efficiency.,Ceramic,16.85,103.3
+Drill Bit O,88,A high-quality drill designed for durability and efficiency.,Fabric,94.95,145.58
+Grinder P,439,A high-quality grinder designed for durability and efficiency.,Metal,20.21,203.42
+Screw Q,12,A high-quality screw designed for durability and efficiency.,Wood,23.85,283.99
+Bolt R,474,A high-quality bolt designed for durability and efficiency.,Fabric,36.12,369.57
+Nail S,287,A high-quality nail designed for durability and efficiency.,Composite,15.32,349.19
+Hammer T,99,A high-quality hammer designed for durability and efficiency.,Plastic,74.18,486.73
+Wrench U,93,A high-quality wrench designed for durability and efficiency.,Plastic,61.75,107.47
+Drill V,179,A high-quality drill designed for durability and efficiency.,Metal,40.58,98.93
+Saw W,397,A high-quality saw designed for durability and efficiency.,Plastic,61.37,437.74
+Pliers X,150,A high-quality pliers designed for durability and efficiency.,Plastic,5.84,163.67
+Tape Measure Y,146,A high-quality tape designed for durability and efficiency.,Wood,39.69,439.34
+Screwdriver Z,287,A high-quality screwdriver designed for durability and efficiency.,Plastic,74.72,335.22
+Nut A,449,A high-quality nut designed for durability and efficiency.,Metal,66.66,251.16
+Washer B,85,A high-quality washer designed for durability and efficiency.,Ceramic,32.31,52.87
+Chisel C,250,A high-quality chisel designed for durability and efficiency.,Glass,35.72,54.11
+Clamp D,449,A high-quality clamp designed for durability and efficiency.,Glass,19.22,293.73
+Level E,458,A high-quality level designed for durability and efficiency.,Fabric,39.23,87.31
+Sandpaper F,390,A high-quality sandpaper designed for durability and efficiency.,Wood,88.69,446.7
+Wire Cutter G,302,A high-quality wire designed for durability and efficiency.,Ceramic,69.5,355.12
+Socket H,259,A high-quality socket designed for durability and efficiency.,Composite,46.53,216.23
+Drill Bit I,348,A high-quality drill designed for durability and efficiency.,Fabric,9.04,14.84
+Grinder J,500,A high-quality grinder designed for durability and efficiency.,Composite,14.71,405.58
+Screw K,447,A high-quality screw designed for durability and efficiency.,Fabric,99.97,280.39
+Bolt L,202,A high-quality bolt designed for durability and efficiency.,Composite,97.82,29.72
+Nail M,186,A high-quality nail designed for durability and efficiency.,Wood,96.9,232.68
+Hammer N,159,A high-quality hammer designed for durability and efficiency.,Fabric,85.5,487.8
+Wrench O,426,A high-quality wrench designed for durability and efficiency.,Composite,66.19,169.68
+Drill P,272,A high-quality drill designed for durability and efficiency.,Ceramic,34.3,337.43
+Saw Q,235,A high-quality saw designed for durability and efficiency.,Fabric,48.38,345.5
+Pliers R,170,A high-quality pliers designed for durability and efficiency.,Composite,74.45,475.73
+Tape Measure S,66,A high-quality tape designed for durability and efficiency.,Composite,39.33,392.37
+Screwdriver T,141,A high-quality screwdriver designed for durability and efficiency.,Composite,37.15,26.33
+Nut U,109,A high-quality nut designed for durability and efficiency.,Ceramic,89.68,218.4
+Washer V,423,A high-quality washer designed for durability and efficiency.,Metal,53.1,408.96
+Chisel W,219,A high-quality chisel designed for durability and efficiency.,Glass,90.9,58.61
+Clamp X,75,A high-quality clamp designed for durability and efficiency.,Metal,27.78,337.55
+Level Y,275,A high-quality level designed for durability and efficiency.,Glass,25.71,28.9
+Sandpaper Z,118,A high-quality sandpaper designed for durability and efficiency.,Composite,5.99,284.26
+Wire Cutter A,477,A high-quality wire designed for durability and efficiency.,Wood,80.86,144.07
+Socket B,345,A high-quality socket designed for durability and efficiency.,Plastic,89.21,101.05
+Drill Bit C,86,A high-quality drill designed for durability and efficiency.,Ceramic,6.19,131.79
+Grinder D,411,A high-quality grinder designed for durability and efficiency.,Glass,46.64,427.96
+Screw E,361,A high-quality screw designed for durability and efficiency.,Fabric,1.71,453.19
+Bolt F,43,A high-quality bolt designed for durability and efficiency.,Wood,76.26,20.42
+Nail G,467,A high-quality nail designed for durability and efficiency.,Metal,73.37,467.86
+Hammer H,191,A high-quality hammer designed for durability and efficiency.,Glass,73.35,140.18
+Wrench I,164,A high-quality wrench designed for durability and efficiency.,Composite,12.0,439.23
+Drill J,475,A high-quality drill designed for durability and efficiency.,Composite,43.34,376.27
+Saw K,112,A high-quality saw designed for durability and efficiency.,Metal,81.77,224.68
+Pliers L,148,A high-quality pliers designed for durability and efficiency.,Composite,37.31,393.53
+Tape Measure M,498,A high-quality tape designed for durability and efficiency.,Plastic,50.05,357.23
+Screwdriver N,499,A high-quality screwdriver designed for durability and efficiency.,Plastic,46.0,27.68
+Nut O,471,A high-quality nut designed for durability and efficiency.,Metal,82.29,254.54
+Washer P,186,A high-quality washer designed for durability and efficiency.,Metal,36.19,212.87
+Chisel Q,206,A high-quality chisel designed for durability and efficiency.,Metal,75.27,86.73
+Clamp R,209,A high-quality clamp designed for durability and efficiency.,Glass,89.34,117.99
+Level S,5,A high-quality level designed for durability and efficiency.,Ceramic,96.77,450.4
+Sandpaper T,306,A high-quality sandpaper designed for durability and efficiency.,Glass,14.21,144.38
+Wire Cutter U,356,A high-quality wire designed for durability and efficiency.,Fabric,95.99,47.99
+Socket V,93,A high-quality socket designed for durability and efficiency.,Fabric,16.74,383.21
+Drill Bit W,28,A high-quality drill designed for durability and efficiency.,Ceramic,10.3,28.66
+Grinder X,73,A high-quality grinder designed for durability and efficiency.,Metal,64.24,467.21
+Screw Y,218,A high-quality screw designed for durability and efficiency.,Metal,57.28,117.33
+Bolt Z,382,A high-quality bolt designed for durability and efficiency.,Fabric,67.8,420.93
+Nail A,154,A high-quality nail designed for durability and efficiency.,Ceramic,81.32,388.74
+Hammer B,438,A high-quality hammer designed for durability and efficiency.,Metal,25.15,86.0
+Wrench C,441,A high-quality wrench designed for durability and efficiency.,Glass,66.22,223.14
+Drill D,402,A high-quality drill designed for durability and efficiency.,Ceramic,84.54,374.07
+Saw E,64,A high-quality saw designed for durability and efficiency.,Composite,40.36,163.49
+Pliers F,15,A high-quality pliers designed for durability and efficiency.,Metal,16.84,353.93
+Tape Measure G,184,A high-quality tape designed for durability and efficiency.,Glass,85.57,430.3
+Screwdriver H,400,A high-quality screwdriver designed for durability and efficiency.,Composite,22.4,407.39
+Nut I,89,A high-quality nut designed for durability and efficiency.,Fabric,62.46,213.35
+Washer J,96,A high-quality washer designed for durability and efficiency.,Composite,81.85,434.39
+Chisel K,495,A high-quality chisel designed for durability and efficiency.,Metal,91.35,149.44
+Clamp L,278,A high-quality clamp designed for durability and efficiency.,Composite,91.94,97.19
+Level M,230,A high-quality level designed for durability and efficiency.,Composite,55.91,272.05
+Sandpaper N,376,A high-quality sandpaper designed for durability and efficiency.,Composite,18.25,79.83
+Wire Cutter O,310,A high-quality wire designed for durability and efficiency.,Composite,67.86,139.39
+Socket P,137,A high-quality socket designed for durability and efficiency.,Ceramic,25.31,153.48
+Drill Bit Q,353,A high-quality drill designed for durability and efficiency.,Glass,30.12,294.73
+Grinder R,150,A high-quality grinder designed for durability and efficiency.,Ceramic,56.54,223.33
+Screw S,264,A high-quality screw designed for durability and efficiency.,Fabric,14.41,252.81
+Bolt T,31,A high-quality bolt designed for durability and efficiency.,Glass,84.59,496.87
+Nail U,152,A high-quality nail designed for durability and efficiency.,Fabric,95.71,302.62
+Hammer V,467,A high-quality hammer designed for durability and efficiency.,Composite,55.29,207.53
+Wrench W,358,A high-quality wrench designed for durability and efficiency.,Plastic,9.36,390.41
+Drill X,496,A high-quality drill designed for durability and efficiency.,Glass,99.15,179.02
+Saw Y,217,A high-quality saw designed for durability and efficiency.,Ceramic,78.81,370.34
+Pliers Z,256,A high-quality pliers designed for durability and efficiency.,Composite,57.78,51.93
+Tape Measure A,41,A high-quality tape designed for durability and efficiency.,Wood,90.89,386.75
+Screwdriver B,371,A high-quality screwdriver designed for durability and efficiency.,Ceramic,58.26,395.65
+Nut C,263,A high-quality nut designed for durability and efficiency.,Metal,24.14,163.24
+Washer D,66,A high-quality washer designed for durability and efficiency.,Metal,97.13,247.97
+Chisel E,125,A high-quality chisel designed for durability and efficiency.,Fabric,1.77,13.32
+Clamp F,383,A high-quality clamp designed for durability and efficiency.,Wood,52.58,199.72
+Level G,47,A high-quality level designed for durability and efficiency.,Wood,96.71,313.83
+Sandpaper H,316,A high-quality sandpaper designed for durability and efficiency.,Plastic,15.82,353.4
+Wire Cutter I,338,A high-quality wire designed for durability and efficiency.,Ceramic,1.28,418.77
+Socket J,28,A high-quality socket designed for durability and efficiency.,Fabric,54.17,112.22
+Drill Bit K,223,A high-quality drill designed for durability and efficiency.,Glass,91.81,469.59
+Grinder L,31,A high-quality grinder designed for durability and efficiency.,Wood,37.64,49.7
+Screw M,46,A high-quality screw designed for durability and efficiency.,Plastic,95.12,401.53
+Bolt N,126,A high-quality bolt designed for durability and efficiency.,Fabric,36.86,285.81
+Nail O,80,A high-quality nail designed for durability and efficiency.,Metal,37.0,138.89
+Hammer P,493,A high-quality hammer designed for durability and efficiency.,Glass,33.79,414.3
+Wrench Q,388,A high-quality wrench designed for durability and efficiency.,Ceramic,23.6,227.39
+Drill R,447,A high-quality drill designed for durability and efficiency.,Glass,81.07,310.61
+Saw S,42,A high-quality saw designed for durability and efficiency.,Composite,80.33,102.76
+Pliers T,194,A high-quality pliers designed for durability and efficiency.,Ceramic,88.66,4.02
+Tape Measure U,161,A high-quality tape designed for durability and efficiency.,Ceramic,17.2,310.72
+Screwdriver V,433,A high-quality screwdriver designed for durability and efficiency.,Wood,63.98,69.14
+Nut W,446,A high-quality nut designed for durability and efficiency.,Metal,40.34,217.59
+Washer X,242,A high-quality washer designed for durability and efficiency.,Ceramic,73.76,109.96
+Chisel Y,486,A high-quality chisel designed for durability and efficiency.,Metal,42.76,190.09
+Clamp Z,29,A high-quality clamp designed for durability and efficiency.,Ceramic,10.31,19.94
+Level A,423,A high-quality level designed for durability and efficiency.,Composite,28.29,439.6
+Sandpaper B,216,A high-quality sandpaper designed for durability and efficiency.,Fabric,49.56,165.96
+Wire Cutter C,264,A high-quality wire designed for durability and efficiency.,Ceramic,57.88,420.23
+Socket D,4,A high-quality socket designed for durability and efficiency.,Metal,24.22,463.74
+Drill Bit E,114,A high-quality drill designed for durability and efficiency.,Ceramic,56.44,340.75
+Grinder F,165,A high-quality grinder designed for durability and efficiency.,Plastic,77.83,331.16
+Screw G,119,A high-quality screw designed for durability and efficiency.,Metal,69.42,230.02
+Bolt H,473,A high-quality bolt designed for durability and efficiency.,Glass,29.08,9.77
+Nail I,87,A high-quality nail designed for durability and efficiency.,Ceramic,26.95,185.96
+Hammer J,178,A high-quality hammer designed for durability and efficiency.,Plastic,31.86,165.99
+Wrench K,449,A high-quality wrench designed for durability and efficiency.,Metal,51.18,365.84
+Drill L,472,A high-quality drill designed for durability and efficiency.,Fabric,80.16,281.31
+Saw M,324,A high-quality saw designed for durability and efficiency.,Ceramic,2.17,16.25
+Pliers N,144,A high-quality pliers designed for durability and efficiency.,Ceramic,22.74,405.93
+Tape Measure O,397,A high-quality tape designed for durability and efficiency.,Metal,62.74,199.39
+Screwdriver P,98,A high-quality screwdriver designed for durability and efficiency.,Wood,17.74,364.43
+Nut Q,409,A high-quality nut designed for durability and efficiency.,Glass,72.7,91.75
+Washer R,260,A high-quality washer designed for durability and efficiency.,Composite,15.66,443.64
+Chisel S,285,A high-quality chisel designed for durability and efficiency.,Metal,58.9,224.31
+Clamp T,217,A high-quality clamp designed for durability and efficiency.,Glass,75.55,447.74
+Level U,82,A high-quality level designed for durability and efficiency.,Ceramic,54.54,147.6
+Sandpaper V,147,A high-quality sandpaper designed for durability and efficiency.,Plastic,84.37,434.99
+Wire Cutter W,279,A high-quality wire designed for durability and efficiency.,Ceramic,97.31,425.76
+Socket X,449,A high-quality socket designed for durability and efficiency.,Ceramic,75.63,35.33
+Drill Bit Y,169,A high-quality drill designed for durability and efficiency.,Glass,72.31,176.5
+Grinder Z,285,A high-quality grinder designed for durability and efficiency.,Plastic,38.64,484.77
+Screw A,415,A high-quality screw designed for durability and efficiency.,Wood,45.8,297.92
+Bolt B,204,A high-quality bolt designed for durability and efficiency.,Plastic,98.61,326.26
+Nail C,292,A high-quality nail designed for durability and efficiency.,Metal,57.17,170.91
+Hammer D,453,A high-quality hammer designed for durability and efficiency.,Plastic,98.21,320.85
+Wrench E,214,A high-quality wrench designed for durability and efficiency.,Fabric,90.84,389.37
+Drill F,414,A high-quality drill designed for durability and efficiency.,Glass,9.37,368.74
+Saw G,140,A high-quality saw designed for durability and efficiency.,Wood,34.44,104.13
+Pliers H,459,A high-quality pliers designed for durability and efficiency.,Plastic,79.91,84.48
+Tape Measure I,189,A high-quality tape designed for durability and efficiency.,Composite,67.9,249.89
+Screwdriver J,399,A high-quality screwdriver designed for durability and efficiency.,Ceramic,85.54,248.31
+Nut K,156,A high-quality nut designed for durability and efficiency.,Wood,53.19,406.79
+Washer L,119,A high-quality washer designed for durability and efficiency.,Wood,23.62,442.79
+Chisel M,444,A high-quality chisel designed for durability and efficiency.,Wood,7.68,296.82
+Clamp N,475,A high-quality clamp designed for durability and efficiency.,Glass,17.16,307.98
+Level O,60,A high-quality level designed for durability and efficiency.,Metal,72.9,83.24
+Sandpaper P,330,A high-quality sandpaper designed for durability and efficiency.,Composite,19.38,201.79
+Wire Cutter Q,59,A high-quality wire designed for durability and efficiency.,Glass,88.23,7.83
+Socket R,367,A high-quality socket designed for durability and efficiency.,Metal,18.94,28.38
+Drill Bit S,254,A high-quality drill designed for durability and efficiency.,Ceramic,90.9,40.3
+Grinder T,395,A high-quality grinder designed for durability and efficiency.,Composite,66.81,21.68
+Screw U,341,A high-quality screw designed for durability and efficiency.,Wood,19.3,448.83
+Bolt V,52,A high-quality bolt designed for durability and efficiency.,Ceramic,28.04,261.9
+Nail W,130,A high-quality nail designed for durability and efficiency.,Wood,34.78,482.21
+Hammer X,93,A high-quality hammer designed for durability and efficiency.,Wood,76.08,308.26
+Wrench Y,164,A high-quality wrench designed for durability and efficiency.,Ceramic,49.54,479.29
+Drill Z,356,A high-quality drill designed for durability and efficiency.,Wood,18.73,270.12
+Saw A,187,A high-quality saw designed for durability and efficiency.,Plastic,37.18,131.0
+Pliers B,19,A high-quality pliers designed for durability and efficiency.,Wood,12.43,300.4
+Tape Measure C,151,A high-quality tape designed for durability and efficiency.,Wood,91.65,65.16
+Screwdriver D,277,A high-quality screwdriver designed for durability and efficiency.,Ceramic,20.16,116.39
+Nut E,144,A high-quality nut designed for durability and efficiency.,Fabric,30.14,110.74
+Washer F,243,A high-quality washer designed for durability and efficiency.,Plastic,75.8,6.7
+Chisel G,311,A high-quality chisel designed for durability and efficiency.,Plastic,69.89,364.11
+Clamp H,408,A high-quality clamp designed for durability and efficiency.,Ceramic,39.75,273.23
+Level I,339,A high-quality level designed for durability and efficiency.,Metal,19.47,402.4
+Sandpaper J,59,A high-quality sandpaper designed for durability and efficiency.,Wood,48.03,240.88
+Wire Cutter K,487,A high-quality wire designed for durability and efficiency.,Ceramic,97.88,182.54
+Socket L,444,A high-quality socket designed for durability and efficiency.,Glass,54.09,56.11
+Drill Bit M,73,A high-quality drill designed for durability and efficiency.,Composite,54.98,241.46
+Grinder N,143,A high-quality grinder designed for durability and efficiency.,Metal,93.8,75.45
+Screw O,257,A high-quality screw designed for durability and efficiency.,Composite,23.94,342.61
+Bolt P,458,A high-quality bolt designed for durability and efficiency.,Composite,52.86,352.78
+Nail Q,230,A high-quality nail designed for durability and efficiency.,Wood,40.29,24.79
+Hammer R,25,A high-quality hammer designed for durability and efficiency.,Wood,53.59,410.89
+Wrench S,337,A high-quality wrench designed for durability and efficiency.,Fabric,89.45,88.39
+Drill T,41,A high-quality drill designed for durability and efficiency.,Glass,44.73,37.27
+Saw U,283,A high-quality saw designed for durability and efficiency.,Ceramic,83.62,73.61
+Pliers V,100,A high-quality pliers designed for durability and efficiency.,Plastic,50.74,119.05
+Tape Measure W,228,A high-quality tape designed for durability and efficiency.,Glass,34.75,336.95
+Screwdriver X,418,A high-quality screwdriver designed for durability and efficiency.,Composite,20.78,196.21
+Nut Y,364,A high-quality nut designed for durability and efficiency.,Glass,23.92,77.33
+Washer Z,151,A high-quality washer designed for durability and efficiency.,Metal,98.87,122.62
+Chisel A,375,A high-quality chisel designed for durability and efficiency.,Composite,65.3,222.03
+Clamp B,111,A high-quality clamp designed for durability and efficiency.,Wood,96.57,20.94
+Level C,29,A high-quality level designed for durability and efficiency.,Wood,92.46,431.12
+Sandpaper D,73,A high-quality sandpaper designed for durability and efficiency.,Wood,66.49,267.85
+Wire Cutter E,233,A high-quality wire designed for durability and efficiency.,Ceramic,55.64,15.54
+Socket F,330,A high-quality socket designed for durability and efficiency.,Wood,47.24,115.05
+Drill Bit G,404,A high-quality drill designed for durability and efficiency.,Metal,5.65,213.88
+Grinder H,205,A high-quality grinder designed for durability and efficiency.,Wood,39.6,446.45
+Screw I,111,A high-quality screw designed for durability and efficiency.,Glass,79.92,367.93
+Bolt J,431,A high-quality bolt designed for durability and efficiency.,Glass,62.46,374.96
+Nail K,61,A high-quality nail designed for durability and efficiency.,Wood,19.3,340.58
+Hammer L,11,A high-quality hammer designed for durability and efficiency.,Plastic,62.67,9.95
+Wrench M,129,A high-quality wrench designed for durability and efficiency.,Fabric,75.82,247.16
+Drill N,405,A high-quality drill designed for durability and efficiency.,Fabric,10.69,477.16
+Saw O,201,A high-quality saw designed for durability and efficiency.,Ceramic,53.15,294.89
+Pliers P,465,A high-quality pliers designed for durability and efficiency.,Wood,98.92,392.61
+Tape Measure Q,444,A high-quality tape designed for durability and efficiency.,Glass,51.92,177.11
+Screwdriver R,204,A high-quality screwdriver designed for durability and efficiency.,Metal,18.84,114.34
+Nut S,19,A high-quality nut designed for durability and efficiency.,Glass,5.37,441.01
+Washer T,311,A high-quality washer designed for durability and efficiency.,Ceramic,59.8,59.56
+Chisel U,355,A high-quality chisel designed for durability and efficiency.,Ceramic,99.4,23.24
+Clamp V,397,A high-quality clamp designed for durability and efficiency.,Metal,39.64,154.9
+Level W,279,A high-quality level designed for durability and efficiency.,Ceramic,14.56,64.36
+Sandpaper X,468,A high-quality sandpaper designed for durability and efficiency.,Wood,19.61,2.06
+Wire Cutter Y,139,A high-quality wire designed for durability and efficiency.,Wood,91.94,264.43
+Socket Z,166,A high-quality socket designed for durability and efficiency.,Glass,9.11,349.11
+Drill Bit A,135,A high-quality drill designed for durability and efficiency.,Fabric,18.49,55.76
+Grinder B,42,A high-quality grinder designed for durability and efficiency.,Composite,26.07,219.06
+Screw C,376,A high-quality screw designed for durability and efficiency.,Fabric,36.3,227.63
+Bolt D,84,A high-quality bolt designed for durability and efficiency.,Metal,87.99,67.33
+Nail E,176,A high-quality nail designed for durability and efficiency.,Ceramic,29.62,422.99
+Hammer F,122,A high-quality hammer designed for durability and efficiency.,Plastic,12.2,151.34
+Wrench G,79,A high-quality wrench designed for durability and efficiency.,Fabric,73.12,357.27
+Drill H,363,A high-quality drill designed for durability and efficiency.,Ceramic,48.37,349.02
+Saw I,409,A high-quality saw designed for durability and efficiency.,Wood,87.21,20.87
+Pliers J,156,A high-quality pliers designed for durability and efficiency.,Fabric,67.66,98.68
+Tape Measure K,278,A high-quality tape designed for durability and efficiency.,Wood,2.29,7.04
+Screwdriver L,105,A high-quality screwdriver designed for durability and efficiency.,Wood,92.95,14.44
+Nut M,435,A high-quality nut designed for durability and efficiency.,Ceramic,34.81,171.04
+Washer N,485,A high-quality washer designed for durability and efficiency.,Fabric,14.55,336.81
+Chisel O,294,A high-quality chisel designed for durability and efficiency.,Fabric,44.86,97.53
+Clamp P,413,A high-quality clamp designed for durability and efficiency.,Ceramic,6.56,438.75
+Level Q,94,A high-quality level designed for durability and efficiency.,Metal,7.34,169.82
+Sandpaper R,478,A high-quality sandpaper designed for durability and efficiency.,Fabric,78.08,441.56
+Wire Cutter S,459,A high-quality wire designed for durability and efficiency.,Metal,96.39,143.34
+Socket T,162,A high-quality socket designed for durability and efficiency.,Metal,90.1,116.5
+Drill Bit U,445,A high-quality drill designed for durability and efficiency.,Plastic,94.81,225.13
+Grinder V,414,A high-quality grinder designed for durability and efficiency.,Ceramic,73.62,339.11
+Screw W,354,A high-quality screw designed for durability and efficiency.,Plastic,10.48,403.17
+Bolt X,185,A high-quality bolt designed for durability and efficiency.,Metal,15.03,114.56
+Nail Y,174,A high-quality nail designed for durability and efficiency.,Ceramic,4.73,42.01
+Hammer Z,408,A high-quality hammer designed for durability and efficiency.,Composite,35.8,122.8
+Wrench A,430,A high-quality wrench designed for durability and efficiency.,Wood,98.77,421.71
+Drill B,345,A high-quality drill designed for durability and efficiency.,Plastic,3.99,162.75
+Saw C,392,A high-quality saw designed for durability and efficiency.,Glass,51.56,66.64
+Pliers D,31,A high-quality pliers designed for durability and efficiency.,Plastic,48.05,21.8
+Tape Measure E,32,A high-quality tape designed for durability and efficiency.,Fabric,86.34,409.8
+Screwdriver F,77,A high-quality screwdriver designed for durability and efficiency.,Wood,44.25,200.04
+Nut G,279,A high-quality nut designed for durability and efficiency.,Ceramic,40.63,67.68
+Washer H,189,A high-quality washer designed for durability and efficiency.,Wood,20.8,128.88
+Chisel I,158,A high-quality chisel designed for durability and efficiency.,Metal,24.72,410.12
+Clamp J,307,A high-quality clamp designed for durability and efficiency.,Metal,76.89,69.19
+Level K,182,A high-quality level designed for durability and efficiency.,Ceramic,34.6,482.24
+Sandpaper L,359,A high-quality sandpaper designed for durability and efficiency.,Glass,45.94,205.97
+Wire Cutter M,486,A high-quality wire designed for durability and efficiency.,Fabric,40.08,206.11
+Socket N,301,A high-quality socket designed for durability and efficiency.,Ceramic,2.38,397.69
+Drill Bit O,160,A high-quality drill designed for durability and efficiency.,Composite,17.03,475.43
+Grinder P,145,A high-quality grinder designed for durability and efficiency.,Plastic,21.62,244.29
+Screw Q,419,A high-quality screw designed for durability and efficiency.,Glass,20.22,232.26
+Bolt R,485,A high-quality bolt designed for durability and efficiency.,Fabric,63.21,262.5
+Nail S,184,A high-quality nail designed for durability and efficiency.,Wood,54.05,11.37
+Hammer T,401,A high-quality hammer designed for durability and efficiency.,Wood,38.33,487.52
+Wrench U,344,A high-quality wrench designed for durability and efficiency.,Glass,14.53,85.44
+Drill V,223,A high-quality drill designed for durability and efficiency.,Metal,83.84,77.73
+Saw W,79,A high-quality saw designed for durability and efficiency.,Plastic,99.2,371.79
+Pliers X,380,A high-quality pliers designed for durability and efficiency.,Wood,87.16,268.6
+Tape Measure Y,403,A high-quality tape designed for durability and efficiency.,Composite,2.18,250.6
+Screwdriver Z,178,A high-quality screwdriver designed for durability and efficiency.,Composite,23.33,55.32
+Nut A,131,A high-quality nut designed for durability and efficiency.,Composite,21.83,3.36
+Washer B,402,A high-quality washer designed for durability and efficiency.,Plastic,63.11,421.71
+Chisel C,115,A high-quality chisel designed for durability and efficiency.,Wood,59.28,16.45
+Clamp D,58,A high-quality clamp designed for durability and efficiency.,Plastic,92.93,248.9
+Level E,164,A high-quality level designed for durability and efficiency.,Wood,77.71,13.0
+Sandpaper F,10,A high-quality sandpaper designed for durability and efficiency.,Fabric,56.14,222.63
+Wire Cutter G,6,A high-quality wire designed for durability and efficiency.,Ceramic,77.7,130.3
+Socket H,464,A high-quality socket designed for durability and efficiency.,Fabric,26.92,400.97
+Drill Bit I,404,A high-quality drill designed for durability and efficiency.,Composite,98.14,193.36
+Grinder J,112,A high-quality grinder designed for durability and efficiency.,Ceramic,1.49,195.79
+Screw K,439,A high-quality screw designed for durability and efficiency.,Plastic,99.89,53.88
+Bolt L,498,A high-quality bolt designed for durability and efficiency.,Fabric,76.44,329.55
+Nail M,160,A high-quality nail designed for durability and efficiency.,Ceramic,64.27,425.1
+Hammer N,98,A high-quality hammer designed for durability and efficiency.,Glass,64.29,21.62
+Wrench O,450,A high-quality wrench designed for durability and efficiency.,Metal,47.7,495.29
+Drill P,106,A high-quality drill designed for durability and efficiency.,Metal,34.62,89.05
+Saw Q,159,A high-quality saw designed for durability and efficiency.,Metal,37.71,474.76
+Pliers R,193,A high-quality pliers designed for durability and efficiency.,Wood,57.03,239.72
+Tape Measure S,185,A high-quality tape designed for durability and efficiency.,Glass,37.94,112.88
+Screwdriver T,198,A high-quality screwdriver designed for durability and efficiency.,Fabric,31.15,146.65
+Nut U,89,A high-quality nut designed for durability and efficiency.,Fabric,61.91,404.38
+Washer V,9,A high-quality washer designed for durability and efficiency.,Glass,71.45,434.97
+Chisel W,148,A high-quality chisel designed for durability and efficiency.,Wood,32.22,419.26
+Clamp X,333,A high-quality clamp designed for durability and efficiency.,Metal,1.22,305.64
+Level Y,2,A high-quality level designed for durability and efficiency.,Fabric,96.68,242.01
+Sandpaper Z,200,A high-quality sandpaper designed for durability and efficiency.,Metal,67.62,251.56
+Wire Cutter A,495,A high-quality wire designed for durability and efficiency.,Wood,88.62,94.74
+Socket B,314,A high-quality socket designed for durability and efficiency.,Ceramic,96.12,426.76
+Drill Bit C,467,A high-quality drill designed for durability and efficiency.,Plastic,49.09,214.95
+Grinder D,312,A high-quality grinder designed for durability and efficiency.,Fabric,49.26,348.13
+Screw E,321,A high-quality screw designed for durability and efficiency.,Ceramic,6.86,121.27
+Bolt F,301,A high-quality bolt designed for durability and efficiency.,Fabric,30.88,499.28
+Nail G,491,A high-quality nail designed for durability and efficiency.,Glass,77.69,426.28
+Hammer H,382,A high-quality hammer designed for durability and efficiency.,Wood,65.7,166.47
+Wrench I,168,A high-quality wrench designed for durability and efficiency.,Plastic,49.44,169.76
+Drill J,334,A high-quality drill designed for durability and efficiency.,Fabric,78.53,342.72
+Saw K,49,A high-quality saw designed for durability and efficiency.,Plastic,70.57,325.44
+Pliers L,27,A high-quality pliers designed for durability and efficiency.,Metal,38.51,54.43
+Tape Measure M,52,A high-quality tape designed for durability and efficiency.,Ceramic,65.56,217.58
+Screwdriver N,294,A high-quality screwdriver designed for durability and efficiency.,Composite,20.59,330.39
+Nut O,482,A high-quality nut designed for durability and efficiency.,Composite,78.37,494.99
+Washer P,224,A high-quality washer designed for durability and efficiency.,Plastic,95.04,9.81
+Chisel Q,188,A high-quality chisel designed for durability and efficiency.,Metal,87.88,264.97
+Clamp R,347,A high-quality clamp designed for durability and efficiency.,Composite,10.92,455.54
+Level S,31,A high-quality level designed for durability and efficiency.,Fabric,39.99,280.04
+Sandpaper T,51,A high-quality sandpaper designed for durability and efficiency.,Metal,1.79,17.5
+Wire Cutter U,80,A high-quality wire designed for durability and efficiency.,Composite,29.26,444.64
+Socket V,410,A high-quality socket designed for durability and efficiency.,Glass,14.93,349.56
+Drill Bit W,434,A high-quality drill designed for durability and efficiency.,Glass,17.5,430.32
+Grinder X,61,A high-quality grinder designed for durability and efficiency.,Ceramic,77.7,288.3
+Screw Y,28,A high-quality screw designed for durability and efficiency.,Wood,25.52,314.81
+Bolt Z,445,A high-quality bolt designed for durability and efficiency.,Ceramic,11.9,70.61
+Nail A,223,A high-quality nail designed for durability and efficiency.,Wood,37.96,14.04
+Hammer B,252,A high-quality hammer designed for durability and efficiency.,Glass,10.81,28.24
+Wrench C,288,A high-quality wrench designed for durability and efficiency.,Composite,73.14,322.64
+Drill D,480,A high-quality drill designed for durability and efficiency.,Wood,20.92,202.66
+Saw E,280,A high-quality saw designed for durability and efficiency.,Plastic,5.04,140.0
+Pliers F,185,A high-quality pliers designed for durability and efficiency.,Composite,74.52,31.99
+Tape Measure G,387,A high-quality tape designed for durability and efficiency.,Plastic,79.55,73.8
+Screwdriver H,297,A high-quality screwdriver designed for durability and efficiency.,Ceramic,80.58,289.08
+Nut I,100,A high-quality nut designed for durability and efficiency.,Composite,84.06,201.82
+Washer J,273,A high-quality washer designed for durability and efficiency.,Glass,56.25,492.88
+Chisel K,439,A high-quality chisel designed for durability and efficiency.,Composite,43.09,50.61
+Clamp L,90,A high-quality clamp designed for durability and efficiency.,Ceramic,36.36,210.85
+Level M,416,A high-quality level designed for durability and efficiency.,Plastic,37.61,90.52
+Sandpaper N,142,A high-quality sandpaper designed for durability and efficiency.,Glass,48.53,174.48
+Wire Cutter O,54,A high-quality wire designed for durability and efficiency.,Glass,96.6,375.8
+Socket P,488,A high-quality socket designed for durability and efficiency.,Fabric,73.33,226.41
+Drill Bit Q,298,A high-quality drill designed for durability and efficiency.,Wood,26.23,306.79
+Grinder R,374,A high-quality grinder designed for durability and efficiency.,Ceramic,77.28,99.41
+Screw S,81,A high-quality screw designed for durability and efficiency.,Ceramic,43.04,219.69
+Bolt T,400,A high-quality bolt designed for durability and efficiency.,Wood,26.24,420.95
+Nail U,144,A high-quality nail designed for durability and efficiency.,Metal,49.48,72.14
+Hammer V,150,A high-quality hammer designed for durability and efficiency.,Wood,37.54,305.88
+Wrench W,197,A high-quality wrench designed for durability and efficiency.,Ceramic,8.54,284.09
+Drill X,167,A high-quality drill designed for durability and efficiency.,Composite,4.72,380.32
+Saw Y,62,A high-quality saw designed for durability and efficiency.,Ceramic,17.45,117.51
+Pliers Z,345,A high-quality pliers designed for durability and efficiency.,Ceramic,5.67,335.3
+Tape Measure A,412,A high-quality tape designed for durability and efficiency.,Plastic,17.82,303.77
+Screwdriver B,337,A high-quality screwdriver designed for durability and efficiency.,Glass,28.12,9.81
+Nut C,322,A high-quality nut designed for durability and efficiency.,Composite,44.58,274.84
+Washer D,193,A high-quality washer designed for durability and efficiency.,Wood,47.95,367.58
+Chisel E,148,A high-quality chisel designed for durability and efficiency.,Plastic,65.82,161.9
+Clamp F,90,A high-quality clamp designed for durability and efficiency.,Fabric,51.82,489.64
+Level G,383,A high-quality level designed for durability and efficiency.,Fabric,67.29,28.41
+Sandpaper H,154,A high-quality sandpaper designed for durability and efficiency.,Plastic,75.78,140.57
+Wire Cutter I,414,A high-quality wire designed for durability and efficiency.,Fabric,43.46,251.81
+Socket J,73,A high-quality socket designed for durability and efficiency.,Wood,75.33,214.76
+Drill Bit K,27,A high-quality drill designed for durability and efficiency.,Glass,7.64,17.52
+Grinder L,34,A high-quality grinder designed for durability and efficiency.,Ceramic,10.19,100.17
+Screw M,274,A high-quality screw designed for durability and efficiency.,Composite,95.29,63.9
+Bolt N,246,A high-quality bolt designed for durability and efficiency.,Composite,62.72,355.85
+Nail O,144,A high-quality nail designed for durability and efficiency.,Glass,76.29,142.06
+Hammer P,497,A high-quality hammer designed for durability and efficiency.,Wood,52.04,463.95
+Wrench Q,322,A high-quality wrench designed for durability and efficiency.,Metal,77.57,157.87
+Drill R,459,A high-quality drill designed for durability and efficiency.,Ceramic,58.99,310.69
+Saw S,321,A high-quality saw designed for durability and efficiency.,Plastic,31.17,471.46
+Pliers T,195,A high-quality pliers designed for durability and efficiency.,Wood,98.83,174.57
+Tape Measure U,382,A high-quality tape designed for durability and efficiency.,Metal,92.76,494.37
+Screwdriver V,417,A high-quality screwdriver designed for durability and efficiency.,Composite,34.27,53.46
+Nut W,372,A high-quality nut designed for durability and efficiency.,Ceramic,89.42,450.2
+Washer X,264,A high-quality washer designed for durability and efficiency.,Ceramic,35.09,496.2
+Chisel Y,370,A high-quality chisel designed for durability and efficiency.,Fabric,32.53,160.83
+Clamp Z,82,A high-quality clamp designed for durability and efficiency.,Fabric,38.24,498.31
+Level A,217,A high-quality level designed for durability and efficiency.,Composite,65.49,438.09
+Sandpaper B,72,A high-quality sandpaper designed for durability and efficiency.,Wood,85.43,272.48
+Wire Cutter C,130,A high-quality wire designed for durability and efficiency.,Glass,59.56,461.0
+Socket D,64,A high-quality socket designed for durability and efficiency.,Wood,40.2,272.12
+Drill Bit E,481,A high-quality drill designed for durability and efficiency.,Wood,39.35,197.82
+Grinder F,129,A high-quality grinder designed for durability and efficiency.,Fabric,57.03,482.77
+Screw G,102,A high-quality screw designed for durability and efficiency.,Composite,94.71,407.76
+Bolt H,25,A high-quality bolt designed for durability and efficiency.,Ceramic,8.41,56.92
+Nail I,215,A high-quality nail designed for durability and efficiency.,Glass,82.44,10.2
+Hammer J,34,A high-quality hammer designed for durability and efficiency.,Ceramic,81.66,169.94
+Wrench K,363,A high-quality wrench designed for durability and efficiency.,Ceramic,24.69,53.75
+Drill L,372,A high-quality drill designed for durability and efficiency.,Fabric,41.67,315.18
+Saw M,35,A high-quality saw designed for durability and efficiency.,Ceramic,61.24,43.2
+Pliers N,378,A high-quality pliers designed for durability and efficiency.,Composite,30.14,471.52
+Tape Measure O,354,A high-quality tape designed for durability and efficiency.,Wood,80.97,156.97
+Screwdriver P,111,A high-quality screwdriver designed for durability and efficiency.,Composite,50.09,25.99
+Nut Q,289,A high-quality nut designed for durability and efficiency.,Glass,59.77,165.68
+Washer R,27,A high-quality washer designed for durability and efficiency.,Plastic,29.2,98.77
+Chisel S,25,A high-quality chisel designed for durability and efficiency.,Glass,35.52,361.5
+Clamp T,19,A high-quality clamp designed for durability and efficiency.,Metal,43.6,177.18
+Level U,150,A high-quality level designed for durability and efficiency.,Fabric,19.65,225.07
+Sandpaper V,163,A high-quality sandpaper designed for durability and efficiency.,Plastic,63.01,415.97
+Wire Cutter W,182,A high-quality wire designed for durability and efficiency.,Ceramic,41.05,116.79
+Socket X,390,A high-quality socket designed for durability and efficiency.,Metal,6.63,51.19
+Drill Bit Y,458,A high-quality drill designed for durability and efficiency.,Wood,37.18,398.32
+Grinder Z,35,A high-quality grinder designed for durability and efficiency.,Ceramic,12.46,362.85
+Screw A,98,A high-quality screw designed for durability and efficiency.,Metal,98.39,222.3
+Bolt B,272,A high-quality bolt designed for durability and efficiency.,Ceramic,86.47,309.99
+Nail C,33,A high-quality nail designed for durability and efficiency.,Ceramic,48.59,387.36
+Hammer D,485,A high-quality hammer designed for durability and efficiency.,Ceramic,51.22,256.02
+Wrench E,128,A high-quality wrench designed for durability and efficiency.,Fabric,93.54,243.28
+Drill F,269,A high-quality drill designed for durability and efficiency.,Glass,97.29,433.37
+Saw G,227,A high-quality saw designed for durability and efficiency.,Ceramic,85.49,67.64
+Pliers H,60,A high-quality pliers designed for durability and efficiency.,Plastic,62.65,179.19
+Tape Measure I,75,A high-quality tape designed for durability and efficiency.,Wood,9.29,37.5
+Screwdriver J,102,A high-quality screwdriver designed for durability and efficiency.,Metal,59.09,381.05
+Nut K,24,A high-quality nut designed for durability and efficiency.,Metal,92.65,423.65
+Washer L,216,A high-quality washer designed for durability and efficiency.,Glass,69.95,181.62
+Chisel M,37,A high-quality chisel designed for durability and efficiency.,Wood,5.7,10.6
+Clamp N,460,A high-quality clamp designed for durability and efficiency.,Wood,66.95,349.69
+Level O,382,A high-quality level designed for durability and efficiency.,Composite,57.14,12.6
+Sandpaper P,201,A high-quality sandpaper designed for durability and efficiency.,Fabric,61.51,229.2
+Wire Cutter Q,326,A high-quality wire designed for durability and efficiency.,Wood,25.02,295.08
+Socket R,124,A high-quality socket designed for durability and efficiency.,Fabric,99.74,372.61
+Drill Bit S,49,A high-quality drill designed for durability and efficiency.,Ceramic,38.68,489.86
+Grinder T,24,A high-quality grinder designed for durability and efficiency.,Composite,89.15,30.95
+Screw U,183,A high-quality screw designed for durability and efficiency.,Glass,92.46,187.21
+Bolt V,253,A high-quality bolt designed for durability and efficiency.,Composite,42.22,206.08
+Nail W,217,A high-quality nail designed for durability and efficiency.,Fabric,11.16,438.5
+Hammer X,170,A high-quality hammer designed for durability and efficiency.,Ceramic,54.52,175.38
+Wrench Y,470,A high-quality wrench designed for durability and efficiency.,Fabric,94.36,327.62
+Drill Z,115,A high-quality drill designed for durability and efficiency.,Plastic,13.77,219.6
+Saw A,298,A high-quality saw designed for durability and efficiency.,Ceramic,21.79,139.22
+Pliers B,388,A high-quality pliers designed for durability and efficiency.,Ceramic,98.37,317.0
+Tape Measure C,104,A high-quality tape designed for durability and efficiency.,Wood,28.54,322.64
+Screwdriver D,129,A high-quality screwdriver designed for durability and efficiency.,Fabric,89.93,28.22
+Nut E,432,A high-quality nut designed for durability and efficiency.,Ceramic,92.54,486.8
+Washer F,338,A high-quality washer designed for durability and efficiency.,Ceramic,55.81,239.2
+Chisel G,446,A high-quality chisel designed for durability and efficiency.,Wood,40.85,325.54
+Clamp H,79,A high-quality clamp designed for durability and efficiency.,Metal,20.41,372.73
+Level I,391,A high-quality level designed for durability and efficiency.,Composite,13.61,373.2
+Sandpaper J,270,A high-quality sandpaper designed for durability and efficiency.,Metal,22.54,211.68
+Wire Cutter K,190,A high-quality wire designed for durability and efficiency.,Metal,81.52,183.25
+Socket L,401,A high-quality socket designed for durability and efficiency.,Wood,68.9,330.0
+Drill Bit M,385,A high-quality drill designed for durability and efficiency.,Metal,66.59,188.74
+Grinder N,196,A high-quality grinder designed for durability and efficiency.,Ceramic,40.31,382.77
+Screw O,320,A high-quality screw designed for durability and efficiency.,Plastic,79.44,439.14
+Bolt P,14,A high-quality bolt designed for durability and efficiency.,Composite,70.5,145.9
+Nail Q,67,A high-quality nail designed for durability and efficiency.,Glass,52.67,381.68
+Hammer R,151,A high-quality hammer designed for durability and efficiency.,Plastic,54.0,265.86
+Wrench S,7,A high-quality wrench designed for durability and efficiency.,Composite,30.08,387.75
+Drill T,445,A high-quality drill designed for durability and efficiency.,Glass,38.17,1.38
+Saw U,111,A high-quality saw designed for durability and efficiency.,Wood,46.92,137.49
+Pliers V,338,A high-quality pliers designed for durability and efficiency.,Ceramic,35.92,136.33
+Tape Measure W,184,A high-quality tape designed for durability and efficiency.,Plastic,71.58,62.25
+Screwdriver X,166,A high-quality screwdriver designed for durability and efficiency.,Metal,96.68,403.74
+Nut Y,389,A high-quality nut designed for durability and efficiency.,Composite,39.62,315.99
+Washer Z,152,A high-quality washer designed for durability and efficiency.,Wood,8.64,423.37
+Chisel A,399,A high-quality chisel designed for durability and efficiency.,Fabric,50.11,150.41
+Clamp B,289,A high-quality clamp designed for durability and efficiency.,Composite,11.72,51.42
+Level C,66,A high-quality level designed for durability and efficiency.,Fabric,42.6,50.31
+Sandpaper D,243,A high-quality sandpaper designed for durability and efficiency.,Wood,37.99,303.44
+Wire Cutter E,318,A high-quality wire designed for durability and efficiency.,Fabric,17.08,199.75
+Socket F,132,A high-quality socket designed for durability and efficiency.,Fabric,92.55,335.46
+Drill Bit G,119,A high-quality drill designed for durability and efficiency.,Plastic,44.93,85.21
+Grinder H,43,A high-quality grinder designed for durability and efficiency.,Composite,41.09,498.68
+Screw I,57,A high-quality screw designed for durability and efficiency.,Plastic,41.91,322.9
+Bolt J,413,A high-quality bolt designed for durability and efficiency.,Fabric,81.51,94.28
+Nail K,363,A high-quality nail designed for durability and efficiency.,Ceramic,57.98,12.79
+Hammer L,289,A high-quality hammer designed for durability and efficiency.,Ceramic,48.98,490.66
+Wrench M,292,A high-quality wrench designed for durability and efficiency.,Wood,87.61,156.11
+Drill N,440,A high-quality drill designed for durability and efficiency.,Glass,36.27,178.72
+Saw O,402,A high-quality saw designed for durability and efficiency.,Metal,10.36,269.27
+Pliers P,346,A high-quality pliers designed for durability and efficiency.,Composite,45.51,141.96
+Tape Measure Q,494,A high-quality tape designed for durability and efficiency.,Plastic,61.64,415.4
+Screwdriver R,154,A high-quality screwdriver designed for durability and efficiency.,Ceramic,24.69,472.34
+Nut S,87,A high-quality nut designed for durability and efficiency.,Metal,6.6,244.88
+Washer T,156,A high-quality washer designed for durability and efficiency.,Wood,30.63,75.16
+Chisel U,237,A high-quality chisel designed for durability and efficiency.,Glass,97.59,286.72
+Clamp V,126,A high-quality clamp designed for durability and efficiency.,Glass,58.2,462.35
+Level W,473,A high-quality level designed for durability and efficiency.,Metal,0.63,21.38
+Sandpaper X,130,A high-quality sandpaper designed for durability and efficiency.,Ceramic,93.42,410.16
+Wire Cutter Y,388,A high-quality wire designed for durability and efficiency.,Wood,52.01,173.15
+Socket Z,64,A high-quality socket designed for durability and efficiency.,Metal,41.51,318.09
+Drill Bit A,392,A high-quality drill designed for durability and efficiency.,Glass,67.14,28.87
+Grinder B,492,A high-quality grinder designed for durability and efficiency.,Metal,64.56,259.89
+Screw C,311,A high-quality screw designed for durability and efficiency.,Wood,9.71,109.27
+Bolt D,267,A high-quality bolt designed for durability and efficiency.,Ceramic,33.89,201.02
+Nail E,373,A high-quality nail designed for durability and efficiency.,Metal,79.67,394.01
+Hammer F,382,A high-quality hammer designed for durability and efficiency.,Metal,93.2,282.29
+Wrench G,154,A high-quality wrench designed for durability and efficiency.,Ceramic,21.6,405.15
+Drill H,87,A high-quality drill designed for durability and efficiency.,Metal,91.34,383.26
+Saw I,2,A high-quality saw designed for durability and efficiency.,Fabric,13.66,424.27
+Pliers J,326,A high-quality pliers designed for durability and efficiency.,Glass,7.12,123.77
+Tape Measure K,156,A high-quality tape designed for durability and efficiency.,Fabric,16.37,44.24
+Screwdriver L,35,A high-quality screwdriver designed for durability and efficiency.,Metal,82.08,290.48
+Nut M,416,A high-quality nut designed for durability and efficiency.,Fabric,34.51,30.12
+Washer N,149,A high-quality washer designed for durability and efficiency.,Glass,65.7,134.39
+Chisel O,336,A high-quality chisel designed for durability and efficiency.,Plastic,86.36,292.53
+Clamp P,118,A high-quality clamp designed for durability and efficiency.,Metal,74.3,58.97
+Level Q,377,A high-quality level designed for durability and efficiency.,Plastic,42.77,271.45
+Sandpaper R,23,A high-quality sandpaper designed for durability and efficiency.,Plastic,2.12,1.8
+Wire Cutter S,153,A high-quality wire designed for durability and efficiency.,Wood,20.09,460.04
+Socket T,364,A high-quality socket designed for durability and efficiency.,Plastic,37.06,361.79
+Drill Bit U,418,A high-quality drill designed for durability and efficiency.,Glass,81.48,241.71
+Grinder V,355,A high-quality grinder designed for durability and efficiency.,Wood,51.89,102.9
+Screw W,115,A high-quality screw designed for durability and efficiency.,Wood,4.49,300.23
+Bolt X,115,A high-quality bolt designed for durability and efficiency.,Composite,99.35,296.7
+Nail Y,458,A high-quality nail designed for durability and efficiency.,Composite,94.22,434.89
+Hammer Z,419,A high-quality hammer designed for durability and efficiency.,Metal,35.09,282.94
+Wrench A,399,A high-quality wrench designed for durability and efficiency.,Glass,52.85,429.44
+Drill B,224,A high-quality drill designed for durability and efficiency.,Fabric,14.89,328.91
+Saw C,61,A high-quality saw designed for durability and efficiency.,Plastic,45.54,226.68
+Pliers D,124,A high-quality pliers designed for durability and efficiency.,Ceramic,56.05,460.59
+Tape Measure E,13,A high-quality tape designed for durability and efficiency.,Composite,90.25,323.67
+Screwdriver F,420,A high-quality screwdriver designed for durability and efficiency.,Glass,30.76,406.38
+Nut G,270,A high-quality nut designed for durability and efficiency.,Fabric,50.87,254.38
+Washer H,360,A high-quality washer designed for durability and efficiency.,Glass,67.96,466.4
+Chisel I,431,A high-quality chisel designed for durability and efficiency.,Metal,28.73,208.02
+Clamp J,218,A high-quality clamp designed for durability and efficiency.,Composite,31.78,170.95
+Level K,389,A high-quality level designed for durability and efficiency.,Composite,22.01,158.28
+Sandpaper L,406,A high-quality sandpaper designed for durability and efficiency.,Ceramic,16.32,190.97
+Wire Cutter M,389,A high-quality wire designed for durability and efficiency.,Composite,11.88,356.44
+Socket N,202,A high-quality socket designed for durability and efficiency.,Metal,18.19,475.29
+Drill Bit O,179,A high-quality drill designed for durability and efficiency.,Metal,4.43,428.65
+Grinder P,222,A high-quality grinder designed for durability and efficiency.,Ceramic,70.47,249.48
+Screw Q,12,A high-quality screw designed for durability and efficiency.,Plastic,87.22,453.29
+Bolt R,16,A high-quality bolt designed for durability and efficiency.,Plastic,81.43,33.27
+Nail S,227,A high-quality nail designed for durability and efficiency.,Plastic,46.93,94.22
+Hammer T,438,A high-quality hammer designed for durability and efficiency.,Metal,6.53,418.63
+Wrench U,490,A high-quality wrench designed for durability and efficiency.,Ceramic,29.04,489.1
+Drill V,458,A high-quality drill designed for durability and efficiency.,Fabric,21.7,270.81
+Saw W,289,A high-quality saw designed for durability and efficiency.,Plastic,99.22,358.14
+Pliers X,12,A high-quality pliers designed for durability and efficiency.,Composite,27.26,52.78
+Tape Measure Y,388,A high-quality tape designed for durability and efficiency.,Fabric,60.04,239.2
+Screwdriver Z,69,A high-quality screwdriver designed for durability and efficiency.,Fabric,29.05,358.73
+Nut A,47,A high-quality nut designed for durability and efficiency.,Ceramic,24.24,117.83
+Washer B,476,A high-quality washer designed for durability and efficiency.,Metal,40.65,39.82
+Chisel C,411,A high-quality chisel designed for durability and efficiency.,Ceramic,47.7,188.62
+Clamp D,478,A high-quality clamp designed for durability and efficiency.,Metal,50.31,346.76
+Level E,283,A high-quality level designed for durability and efficiency.,Plastic,37.73,66.67
+Sandpaper F,148,A high-quality sandpaper designed for durability and efficiency.,Composite,88.9,237.87
+Wire Cutter G,79,A high-quality wire designed for durability and efficiency.,Composite,83.43,49.48
+Socket H,436,A high-quality socket designed for durability and efficiency.,Ceramic,75.78,252.55
+Drill Bit I,335,A high-quality drill designed for durability and efficiency.,Fabric,93.57,208.98
+Grinder J,407,A high-quality grinder designed for durability and efficiency.,Wood,82.96,89.42
+Screw K,320,A high-quality screw designed for durability and efficiency.,Metal,38.62,404.17
+Bolt L,316,A high-quality bolt designed for durability and efficiency.,Plastic,67.97,428.36
+Nail M,458,A high-quality nail designed for durability and efficiency.,Fabric,77.18,345.28
+Hammer N,168,A high-quality hammer designed for durability and efficiency.,Glass,1.07,46.27
+Wrench O,8,A high-quality wrench designed for durability and efficiency.,Ceramic,15.2,150.48
+Drill P,61,A high-quality drill designed for durability and efficiency.,Ceramic,73.9,163.95
+Saw Q,29,A high-quality saw designed for durability and efficiency.,Metal,19.36,260.44
+Pliers R,73,A high-quality pliers designed for durability and efficiency.,Metal,62.82,142.73
+Tape Measure S,92,A high-quality tape designed for durability and efficiency.,Glass,19.37,485.48
+Screwdriver T,224,A high-quality screwdriver designed for durability and efficiency.,Metal,0.19,457.59
+Nut U,288,A high-quality nut designed for durability and efficiency.,Ceramic,3.47,233.66
+Washer V,347,A high-quality washer designed for durability and efficiency.,Wood,24.45,425.53
+Chisel W,103,A high-quality chisel designed for durability and efficiency.,Composite,1.67,169.8
+Clamp X,121,A high-quality clamp designed for durability and efficiency.,Plastic,44.56,107.63
+Level Y,153,A high-quality level designed for durability and efficiency.,Composite,57.61,9.15
+Sandpaper Z,79,A high-quality sandpaper designed for durability and efficiency.,Wood,32.63,429.36
+Wire Cutter A,47,A high-quality wire designed for durability and efficiency.,Fabric,92.73,79.28
+Socket B,266,A high-quality socket designed for durability and efficiency.,Fabric,36.22,5.66
+Drill Bit C,458,A high-quality drill designed for durability and efficiency.,Metal,8.06,238.87
+Grinder D,20,A high-quality grinder designed for durability and efficiency.,Plastic,41.42,435.32
+Screw E,11,A high-quality screw designed for durability and efficiency.,Plastic,69.14,297.01
+Bolt F,178,A high-quality bolt designed for durability and efficiency.,Composite,25.95,499.87
+Nail G,162,A high-quality nail designed for durability and efficiency.,Fabric,70.97,278.29
+Hammer H,166,A high-quality hammer designed for durability and efficiency.,Ceramic,25.1,96.97
+Wrench I,480,A high-quality wrench designed for durability and efficiency.,Wood,93.74,121.18
+Drill J,99,A high-quality drill designed for durability and efficiency.,Metal,58.86,407.61
+Saw K,288,A high-quality saw designed for durability and efficiency.,Ceramic,38.84,198.86
+Pliers L,494,A high-quality pliers designed for durability and efficiency.,Ceramic,47.35,253.5
+Tape Measure M,237,A high-quality tape designed for durability and efficiency.,Wood,50.51,410.1
+Screwdriver N,95,A high-quality screwdriver designed for durability and efficiency.,Wood,14.94,150.95
+Nut O,155,A high-quality nut designed for durability and efficiency.,Wood,54.51,117.13
+Washer P,389,A high-quality washer designed for durability and efficiency.,Plastic,32.93,34.9
+Chisel Q,272,A high-quality chisel designed for durability and efficiency.,Glass,47.43,206.41
+Clamp R,421,A high-quality clamp designed for durability and efficiency.,Glass,78.56,342.87
+Level S,352,A high-quality level designed for durability and efficiency.,Plastic,90.36,350.27
+Sandpaper T,176,A high-quality sandpaper designed for durability and efficiency.,Fabric,14.31,6.16
+Wire Cutter U,194,A high-quality wire designed for durability and efficiency.,Composite,81.48,38.77
+Socket V,29,A high-quality socket designed for durability and efficiency.,Metal,52.76,411.92
+Drill Bit W,1,A high-quality drill designed for durability and efficiency.,Metal,62.34,34.44
+Grinder X,362,A high-quality grinder designed for durability and efficiency.,Glass,58.45,176.46
+Screw Y,267,A high-quality screw designed for durability and efficiency.,Fabric,81.7,486.44
+Bolt Z,438,A high-quality bolt designed for durability and efficiency.,Plastic,44.07,88.54
+Nail A,201,A high-quality nail designed for durability and efficiency.,Ceramic,72.66,136.92
+Hammer B,39,A high-quality hammer designed for durability and efficiency.,Plastic,52.26,50.19
+Wrench C,389,A high-quality wrench designed for durability and efficiency.,Glass,43.65,64.73
+Drill D,453,A high-quality drill designed for durability and efficiency.,Ceramic,28.97,383.22
+Saw E,181,A high-quality saw designed for durability and efficiency.,Metal,66.29,86.92
+Pliers F,210,A high-quality pliers designed for durability and efficiency.,Fabric,11.7,322.39
+Tape Measure G,236,A high-quality tape designed for durability and efficiency.,Fabric,86.41,63.55
+Screwdriver H,478,A high-quality screwdriver designed for durability and efficiency.,Glass,93.46,495.71
+Nut I,26,A high-quality nut designed for durability and efficiency.,Plastic,62.77,480.95
+Washer J,94,A high-quality washer designed for durability and efficiency.,Fabric,52.13,269.73
+Chisel K,172,A high-quality chisel designed for durability and efficiency.,Wood,46.71,394.35
+Clamp L,405,A high-quality clamp designed for durability and efficiency.,Wood,90.68,272.95
+Level M,483,A high-quality level designed for durability and efficiency.,Glass,79.54,337.09
+Sandpaper N,213,A high-quality sandpaper designed for durability and efficiency.,Composite,1.38,275.98
+Wire Cutter O,175,A high-quality wire designed for durability and efficiency.,Fabric,75.88,215.38
+Socket P,271,A high-quality socket designed for durability and efficiency.,Wood,37.88,180.25
+Drill Bit Q,359,A high-quality drill designed for durability and efficiency.,Fabric,76.25,460.18
+Grinder R,277,A high-quality grinder designed for durability and efficiency.,Composite,29.45,269.64
+Screw S,292,A high-quality screw designed for durability and efficiency.,Wood,0.21,178.12
+Bolt T,133,A high-quality bolt designed for durability and efficiency.,Glass,58.69,81.69
+Nail U,486,A high-quality nail designed for durability and efficiency.,Glass,36.17,405.06
+Hammer V,397,A high-quality hammer designed for durability and efficiency.,Ceramic,73.71,415.47
+Wrench W,188,A high-quality wrench designed for durability and efficiency.,Composite,73.5,199.98
+Drill X,124,A high-quality drill designed for durability and efficiency.,Composite,53.76,414.03
+Saw Y,185,A high-quality saw designed for durability and efficiency.,Composite,90.74,401.07
+Pliers Z,419,A high-quality pliers designed for durability and efficiency.,Fabric,7.61,402.92
+Tape Measure A,360,A high-quality tape designed for durability and efficiency.,Ceramic,62.37,331.65
+Screwdriver B,491,A high-quality screwdriver designed for durability and efficiency.,Ceramic,12.92,101.72
+Nut C,390,A high-quality nut designed for durability and efficiency.,Metal,45.04,305.03
+Washer D,174,A high-quality washer designed for durability and efficiency.,Wood,45.09,375.94
+Chisel E,407,A high-quality chisel designed for durability and efficiency.,Glass,12.79,67.21
+Clamp F,85,A high-quality clamp designed for durability and efficiency.,Ceramic,79.16,341.78
+Level G,487,A high-quality level designed for durability and efficiency.,Plastic,64.35,435.47
+Sandpaper H,43,A high-quality sandpaper designed for durability and efficiency.,Metal,83.77,409.05
+Wire Cutter I,86,A high-quality wire designed for durability and efficiency.,Wood,70.59,430.55
+Socket J,325,A high-quality socket designed for durability and efficiency.,Composite,85.22,311.59
+Drill Bit K,331,A high-quality drill designed for durability and efficiency.,Fabric,14.66,249.58
+Grinder L,93,A high-quality grinder designed for durability and efficiency.,Wood,10.01,389.63
+Screw M,297,A high-quality screw designed for durability and efficiency.,Glass,37.28,359.26
+Bolt N,384,A high-quality bolt designed for durability and efficiency.,Metal,91.1,21.75
+Nail O,242,A high-quality nail designed for durability and efficiency.,Wood,62.53,448.28
+Hammer P,6,A high-quality hammer designed for durability and efficiency.,Plastic,94.87,385.61
+Wrench Q,379,A high-quality wrench designed for durability and efficiency.,Plastic,19.93,225.83
+Drill R,146,A high-quality drill designed for durability and efficiency.,Wood,59.94,224.91
+Saw S,6,A high-quality saw designed for durability and efficiency.,Wood,18.23,200.08
+Pliers T,444,A high-quality pliers designed for durability and efficiency.,Plastic,63.45,204.73
+Tape Measure U,50,A high-quality tape designed for durability and efficiency.,Fabric,34.64,336.5
+Screwdriver V,28,A high-quality screwdriver designed for durability and efficiency.,Metal,11.72,314.87
+Nut W,137,A high-quality nut designed for durability and efficiency.,Plastic,42.1,40.44
+Washer X,290,A high-quality washer designed for durability and efficiency.,Metal,21.3,392.26
+Chisel Y,226,A high-quality chisel designed for durability and efficiency.,Fabric,47.74,55.63
+Clamp Z,150,A high-quality clamp designed for durability and efficiency.,Composite,45.61,328.37
+Level A,370,A high-quality level designed for durability and efficiency.,Wood,68.13,71.32
+Sandpaper B,126,A high-quality sandpaper designed for durability and efficiency.,Ceramic,27.58,192.95
+Wire Cutter C,114,A high-quality wire designed for durability and efficiency.,Plastic,22.75,97.12
+Socket D,67,A high-quality socket designed for durability and efficiency.,Wood,41.36,48.55
+Drill Bit E,189,A high-quality drill designed for durability and efficiency.,Glass,29.12,80.56
+Grinder F,417,A high-quality grinder designed for durability and efficiency.,Fabric,48.55,279.26
+Screw G,96,A high-quality screw designed for durability and efficiency.,Ceramic,94.46,381.82
+Bolt H,329,A high-quality bolt designed for durability and efficiency.,Metal,80.82,48.11
+Nail I,417,A high-quality nail designed for durability and efficiency.,Wood,46.94,102.8
+Hammer J,218,A high-quality hammer designed for durability and efficiency.,Metal,33.85,321.39
+Wrench K,253,A high-quality wrench designed for durability and efficiency.,Fabric,39.07,167.3
+Drill L,291,A high-quality drill designed for durability and efficiency.,Fabric,11.8,35.17
+Saw M,155,A high-quality saw designed for durability and efficiency.,Plastic,72.32,162.05
+Pliers N,490,A high-quality pliers designed for durability and efficiency.,Glass,43.46,379.37
+Tape Measure O,153,A high-quality tape designed for durability and efficiency.,Glass,90.38,272.76
+Screwdriver P,302,A high-quality screwdriver designed for durability and efficiency.,Metal,72.26,216.11
+Nut Q,284,A high-quality nut designed for durability and efficiency.,Ceramic,70.47,388.58
+Washer R,34,A high-quality washer designed for durability and efficiency.,Wood,57.45,150.29
+Chisel S,209,A high-quality chisel designed for durability and efficiency.,Composite,86.29,291.26
+Clamp T,492,A high-quality clamp designed for durability and efficiency.,Metal,11.5,183.75
+Level U,460,A high-quality level designed for durability and efficiency.,Glass,39.38,12.83
+Sandpaper V,343,A high-quality sandpaper designed for durability and efficiency.,Metal,52.99,476.93
+Wire Cutter W,305,A high-quality wire designed for durability and efficiency.,Plastic,32.55,116.02
+Socket X,248,A high-quality socket designed for durability and efficiency.,Plastic,73.37,434.19
+Drill Bit Y,438,A high-quality drill designed for durability and efficiency.,Glass,39.26,68.56
+Grinder Z,319,A high-quality grinder designed for durability and efficiency.,Wood,70.38,237.91
+Screw A,65,A high-quality screw designed for durability and efficiency.,Metal,57.39,149.98
+Bolt B,64,A high-quality bolt designed for durability and efficiency.,Metal,36.89,98.28
+Nail C,14,A high-quality nail designed for durability and efficiency.,Metal,88.26,48.97
+Hammer D,362,A high-quality hammer designed for durability and efficiency.,Wood,52.99,44.35
+Wrench E,13,A high-quality wrench designed for durability and efficiency.,Fabric,26.02,436.5
+Drill F,276,A high-quality drill designed for durability and efficiency.,Wood,49.0,88.44
+Saw G,134,A high-quality saw designed for durability and efficiency.,Glass,68.91,140.08
+Pliers H,292,A high-quality pliers designed for durability and efficiency.,Plastic,51.29,482.93
+Tape Measure I,337,A high-quality tape designed for durability and efficiency.,Plastic,85.28,92.36
+Screwdriver J,21,A high-quality screwdriver designed for durability and efficiency.,Ceramic,36.98,49.35
+Nut K,97,A high-quality nut designed for durability and efficiency.,Glass,29.91,186.38
+Washer L,305,A high-quality washer designed for durability and efficiency.,Wood,59.81,335.84
+Chisel M,301,A high-quality chisel designed for durability and efficiency.,Plastic,11.39,363.9
+Clamp N,171,A high-quality clamp designed for durability and efficiency.,Plastic,67.37,85.76
+Level O,460,A high-quality level designed for durability and efficiency.,Composite,74.44,163.73
+Sandpaper P,346,A high-quality sandpaper designed for durability and efficiency.,Composite,90.2,186.09
+Wire Cutter Q,123,A high-quality wire designed for durability and efficiency.,Glass,9.6,496.91
+Socket R,247,A high-quality socket designed for durability and efficiency.,Metal,65.81,69.79
+Drill Bit S,310,A high-quality drill designed for durability and efficiency.,Plastic,23.01,356.39
+Grinder T,182,A high-quality grinder designed for durability and efficiency.,Fabric,77.93,492.51
+Screw U,72,A high-quality screw designed for durability and efficiency.,Metal,98.27,31.61
+Bolt V,273,A high-quality bolt designed for durability and efficiency.,Fabric,67.19,402.9
+Nail W,228,A high-quality nail designed for durability and efficiency.,Metal,35.55,260.35
+Hammer X,284,A high-quality hammer designed for durability and efficiency.,Fabric,57.49,236.61
+Wrench Y,21,A high-quality wrench designed for durability and efficiency.,Plastic,73.94,294.63
+Drill Z,199,A high-quality drill designed for durability and efficiency.,Metal,64.38,134.87
+Saw A,184,A high-quality saw designed for durability and efficiency.,Composite,0.23,33.32
+Pliers B,369,A high-quality pliers designed for durability and efficiency.,Ceramic,30.54,480.97
+Tape Measure C,437,A high-quality tape designed for durability and efficiency.,Metal,78.49,205.21
+Screwdriver D,54,A high-quality screwdriver designed for durability and efficiency.,Fabric,36.16,498.44
+Nut E,12,A high-quality nut designed for durability and efficiency.,Metal,86.39,476.09
+Washer F,170,A high-quality washer designed for durability and efficiency.,Fabric,20.45,156.99
+Chisel G,102,A high-quality chisel designed for durability and efficiency.,Ceramic,38.05,466.25
+Clamp H,31,A high-quality clamp designed for durability and efficiency.,Wood,68.64,115.45
+Level I,155,A high-quality level designed for durability and efficiency.,Composite,41.02,459.21
+Sandpaper J,51,A high-quality sandpaper designed for durability and efficiency.,Plastic,86.59,293.13
+Wire Cutter K,459,A high-quality wire designed for durability and efficiency.,Ceramic,70.22,130.5
+Socket L,112,A high-quality socket designed for durability and efficiency.,Wood,71.24,333.22
+Drill Bit M,477,A high-quality drill designed for durability and efficiency.,Plastic,87.1,461.6
+Grinder N,44,A high-quality grinder designed for durability and efficiency.,Ceramic,59.52,158.6
+Screw O,184,A high-quality screw designed for durability and efficiency.,Wood,62.24,197.58
+Bolt P,400,A high-quality bolt designed for durability and efficiency.,Glass,40.29,245.83
+Nail Q,208,A high-quality nail designed for durability and efficiency.,Ceramic,71.4,334.39
+Hammer R,147,A high-quality hammer designed for durability and efficiency.,Plastic,38.92,134.06
+Wrench S,230,A high-quality wrench designed for durability and efficiency.,Composite,80.34,77.66
+Drill T,499,A high-quality drill designed for durability and efficiency.,Metal,31.58,277.86
+Saw U,438,A high-quality saw designed for durability and efficiency.,Fabric,5.25,366.18
+Pliers V,414,A high-quality pliers designed for durability and efficiency.,Fabric,81.99,365.68
+Tape Measure W,432,A high-quality tape designed for durability and efficiency.,Composite,65.23,415.43
+Screwdriver X,276,A high-quality screwdriver designed for durability and efficiency.,Metal,54.41,323.16
+Nut Y,243,A high-quality nut designed for durability and efficiency.,Composite,93.25,325.1
+Washer Z,123,A high-quality washer designed for durability and efficiency.,Fabric,33.72,399.05
+Chisel A,136,A high-quality chisel designed for durability and efficiency.,Composite,55.28,50.51
+Clamp B,321,A high-quality clamp designed for durability and efficiency.,Ceramic,69.46,487.1
+Level C,316,A high-quality level designed for durability and efficiency.,Wood,72.05,131.74
+Sandpaper D,312,A high-quality sandpaper designed for durability and efficiency.,Wood,2.85,46.09
+Wire Cutter E,278,A high-quality wire designed for durability and efficiency.,Composite,70.42,395.51
+Socket F,377,A high-quality socket designed for durability and efficiency.,Wood,87.4,199.07
+Drill Bit G,455,A high-quality drill designed for durability and efficiency.,Wood,12.86,454.02
+Grinder H,68,A high-quality grinder designed for durability and efficiency.,Plastic,51.21,465.59
+Screw I,188,A high-quality screw designed for durability and efficiency.,Fabric,85.38,431.39
+Bolt J,315,A high-quality bolt designed for durability and efficiency.,Fabric,69.35,105.48
+Nail K,361,A high-quality nail designed for durability and efficiency.,Glass,71.9,100.71
+Hammer L,474,A high-quality hammer designed for durability and efficiency.,Wood,41.21,300.59
+Wrench M,87,A high-quality wrench designed for durability and efficiency.,Wood,25.32,104.32
+Drill N,274,A high-quality drill designed for durability and efficiency.,Wood,7.48,57.9
+Saw O,43,A high-quality saw designed for durability and efficiency.,Composite,5.48,210.04
+Pliers P,91,A high-quality pliers designed for durability and efficiency.,Composite,85.03,357.29
+Tape Measure Q,376,A high-quality tape designed for durability and efficiency.,Ceramic,97.9,418.79
+Screwdriver R,192,A high-quality screwdriver designed for durability and efficiency.,Metal,19.78,484.99
+Nut S,101,A high-quality nut designed for durability and efficiency.,Fabric,63.13,350.72
+Washer T,242,A high-quality washer designed for durability and efficiency.,Glass,41.79,455.96
+Chisel U,100,A high-quality chisel designed for durability and efficiency.,Metal,80.89,446.55
+Clamp V,476,A high-quality clamp designed for durability and efficiency.,Composite,6.9,231.18
+Level W,172,A high-quality level designed for durability and efficiency.,Metal,55.92,28.27
+Sandpaper X,95,A high-quality sandpaper designed for durability and efficiency.,Plastic,62.01,79.98
+Wire Cutter Y,73,A high-quality wire designed for durability and efficiency.,Composite,77.82,251.01
+Socket Z,94,A high-quality socket designed for durability and efficiency.,Metal,85.83,441.39
+Drill Bit A,122,A high-quality drill designed for durability and efficiency.,Wood,81.92,494.26
+Grinder B,120,A high-quality grinder designed for durability and efficiency.,Plastic,30.52,389.14
+Screw C,54,A high-quality screw designed for durability and efficiency.,Ceramic,53.19,133.36
+Bolt D,153,A high-quality bolt designed for durability and efficiency.,Fabric,95.35,359.84
+Nail E,193,A high-quality nail designed for durability and efficiency.,Composite,9.86,221.84
+Hammer F,179,A high-quality hammer designed for durability and efficiency.,Wood,70.47,437.05
+Wrench G,473,A high-quality wrench designed for durability and efficiency.,Wood,84.36,316.27
+Drill H,110,A high-quality drill designed for durability and efficiency.,Glass,47.36,288.48
+Saw I,147,A high-quality saw designed for durability and efficiency.,Metal,12.12,29.4
+Pliers J,104,A high-quality pliers designed for durability and efficiency.,Plastic,19.65,489.73
+Tape Measure K,179,A high-quality tape designed for durability and efficiency.,Metal,59.1,191.62
+Screwdriver L,230,A high-quality screwdriver designed for durability and efficiency.,Metal,89.74,485.57
+Nut M,402,A high-quality nut designed for durability and efficiency.,Glass,96.75,30.94
+Washer N,269,A high-quality washer designed for durability and efficiency.,Metal,12.65,397.34
+Chisel O,186,A high-quality chisel designed for durability and efficiency.,Fabric,50.66,246.52
+Clamp P,124,A high-quality clamp designed for durability and efficiency.,Wood,57.59,133.32
+Level Q,439,A high-quality level designed for durability and efficiency.,Glass,91.6,162.01
+Sandpaper R,411,A high-quality sandpaper designed for durability and efficiency.,Glass,53.76,463.52
+Wire Cutter S,368,A high-quality wire designed for durability and efficiency.,Composite,64.0,370.4
+Socket T,439,A high-quality socket designed for durability and efficiency.,Plastic,9.66,110.9
+Drill Bit U,361,A high-quality drill designed for durability and efficiency.,Plastic,17.74,290.99
+Grinder V,125,A high-quality grinder designed for durability and efficiency.,Glass,47.03,345.8
+Screw W,33,A high-quality screw designed for durability and efficiency.,Ceramic,78.91,299.47
+Bolt X,278,A high-quality bolt designed for durability and efficiency.,Glass,78.4,192.26
+Nail Y,266,A high-quality nail designed for durability and efficiency.,Metal,72.85,450.16
+Hammer Z,222,A high-quality hammer designed for durability and efficiency.,Ceramic,81.04,80.11
+Wrench A,99,A high-quality wrench designed for durability and efficiency.,Fabric,88.53,372.82
+Drill B,339,A high-quality drill designed for durability and efficiency.,Ceramic,50.63,355.38
+Saw C,376,A high-quality saw designed for durability and efficiency.,Fabric,8.31,328.81
+Pliers D,425,A high-quality pliers designed for durability and efficiency.,Composite,49.98,73.15
+Tape Measure E,17,A high-quality tape designed for durability and efficiency.,Fabric,4.0,283.32
+Screwdriver F,310,A high-quality screwdriver designed for durability and efficiency.,Plastic,90.82,471.55
+Nut G,293,A high-quality nut designed for durability and efficiency.,Glass,38.32,194.99
+Washer H,324,A high-quality washer designed for durability and efficiency.,Ceramic,37.15,498.32
+Chisel I,226,A high-quality chisel designed for durability and efficiency.,Ceramic,15.42,183.67
+Clamp J,49,A high-quality clamp designed for durability and efficiency.,Ceramic,88.09,83.6
+Level K,463,A high-quality level designed for durability and efficiency.,Fabric,32.02,164.97
+Sandpaper L,237,A high-quality sandpaper designed for durability and efficiency.,Wood,50.7,51.97
+Wire Cutter M,191,A high-quality wire designed for durability and efficiency.,Fabric,46.5,430.24
+Socket N,189,A high-quality socket designed for durability and efficiency.,Glass,18.17,450.36
+Drill Bit O,386,A high-quality drill designed for durability and efficiency.,Glass,88.35,231.82
+Grinder P,472,A high-quality grinder designed for durability and efficiency.,Plastic,87.28,161.75
+Screw Q,248,A high-quality screw designed for durability and efficiency.,Ceramic,9.56,219.96
+Bolt R,244,A high-quality bolt designed for durability and efficiency.,Composite,15.85,399.84
+Nail S,181,A high-quality nail designed for durability and efficiency.,Ceramic,38.99,493.01
+Hammer T,302,A high-quality hammer designed for durability and efficiency.,Metal,60.8,245.53
+Wrench U,360,A high-quality wrench designed for durability and efficiency.,Plastic,97.77,381.65
+Drill V,391,A high-quality drill designed for durability and efficiency.,Wood,90.15,291.02
+Saw W,187,A high-quality saw designed for durability and efficiency.,Composite,3.67,10.07
+Pliers X,443,A high-quality pliers designed for durability and efficiency.,Wood,69.07,112.34
+Tape Measure Y,194,A high-quality tape designed for durability and efficiency.,Wood,67.82,440.22
+Screwdriver Z,206,A high-quality screwdriver designed for durability and efficiency.,Fabric,8.92,478.2
+Nut A,163,A high-quality nut designed for durability and efficiency.,Metal,59.0,283.78
+Washer B,340,A high-quality washer designed for durability and efficiency.,Wood,77.05,258.64
+Chisel C,19,A high-quality chisel designed for durability and efficiency.,Composite,69.19,338.59
+Clamp D,407,A high-quality clamp designed for durability and efficiency.,Composite,86.58,240.36
+Level E,252,A high-quality level designed for durability and efficiency.,Composite,40.87,497.46
+Sandpaper F,330,A high-quality sandpaper designed for durability and efficiency.,Plastic,23.68,204.54
+Wire Cutter G,207,A high-quality wire designed for durability and efficiency.,Metal,48.66,237.91
+Socket H,220,A high-quality socket designed for durability and efficiency.,Wood,49.98,61.32
+Drill Bit I,234,A high-quality drill designed for durability and efficiency.,Wood,36.85,204.03
+Grinder J,38,A high-quality grinder designed for durability and efficiency.,Ceramic,23.0,408.79
+Screw K,382,A high-quality screw designed for durability and efficiency.,Wood,4.09,286.29
+Bolt L,400,A high-quality bolt designed for durability and efficiency.,Composite,34.54,310.8
+Nail M,139,A high-quality nail designed for durability and efficiency.,Composite,47.78,291.32
+Hammer N,51,A high-quality hammer designed for durability and efficiency.,Ceramic,56.92,234.98
+Wrench O,322,A high-quality wrench designed for durability and efficiency.,Wood,95.85,91.19
+Drill P,230,A high-quality drill designed for durability and efficiency.,Glass,53.01,53.27
+Saw Q,348,A high-quality saw designed for durability and efficiency.,Ceramic,50.74,334.84
+Pliers R,495,A high-quality pliers designed for durability and efficiency.,Ceramic,2.21,272.4
+Tape Measure S,30,A high-quality tape designed for durability and efficiency.,Wood,21.55,448.47
+Screwdriver T,60,A high-quality screwdriver designed for durability and efficiency.,Metal,1.73,434.6
+Nut U,442,A high-quality nut designed for durability and efficiency.,Ceramic,80.47,243.77
+Washer V,243,A high-quality washer designed for durability and efficiency.,Composite,4.92,34.73
+Chisel W,130,A high-quality chisel designed for durability and efficiency.,Fabric,67.08,274.05
+Clamp X,149,A high-quality clamp designed for durability and efficiency.,Glass,41.13,150.22
+Level Y,228,A high-quality level designed for durability and efficiency.,Wood,58.71,221.97
+Sandpaper Z,115,A high-quality sandpaper designed for durability and efficiency.,Fabric,0.41,213.12
+Wire Cutter A,435,A high-quality wire designed for durability and efficiency.,Plastic,18.65,188.74
+Socket B,266,A high-quality socket designed for durability and efficiency.,Wood,85.06,45.24
+Drill Bit C,110,A high-quality drill designed for durability and efficiency.,Plastic,45.68,301.12
+Grinder D,283,A high-quality grinder designed for durability and efficiency.,Glass,22.5,350.77
+Screw E,247,A high-quality screw designed for durability and efficiency.,Composite,47.38,64.93
+Bolt F,58,A high-quality bolt designed for durability and efficiency.,Wood,97.55,389.19
+Nail G,441,A high-quality nail designed for durability and efficiency.,Fabric,40.2,212.56
+Hammer H,355,A high-quality hammer designed for durability and efficiency.,Wood,40.8,404.79
+Wrench I,336,A high-quality wrench designed for durability and efficiency.,Composite,40.05,307.04
+Drill J,178,A high-quality drill designed for durability and efficiency.,Wood,82.14,487.92
+Saw K,81,A high-quality saw designed for durability and efficiency.,Fabric,2.78,285.17
+Pliers L,434,A high-quality pliers designed for durability and efficiency.,Glass,66.96,93.17
+Tape Measure M,82,A high-quality tape designed for durability and efficiency.,Composite,87.07,322.97
+Screwdriver N,176,A high-quality screwdriver designed for durability and efficiency.,Ceramic,16.9,380.27
+Nut O,490,A high-quality nut designed for durability and efficiency.,Fabric,41.81,394.19
+Washer P,361,A high-quality washer designed for durability and efficiency.,Glass,15.8,346.14
+Chisel Q,311,A high-quality chisel designed for durability and efficiency.,Plastic,74.93,481.17
+Clamp R,209,A high-quality clamp designed for durability and efficiency.,Ceramic,62.37,390.78
+Level S,248,A high-quality level designed for durability and efficiency.,Glass,94.34,298.9
+Sandpaper T,131,A high-quality sandpaper designed for durability and efficiency.,Wood,79.52,98.63
+Wire Cutter U,137,A high-quality wire designed for durability and efficiency.,Fabric,84.62,450.62
+Socket V,373,A high-quality socket designed for durability and efficiency.,Metal,24.16,428.97
+Drill Bit W,12,A high-quality drill designed for durability and efficiency.,Wood,8.34,433.6
+Grinder X,94,A high-quality grinder designed for durability and efficiency.,Ceramic,96.81,495.67
+Screw Y,345,A high-quality screw designed for durability and efficiency.,Wood,35.69,4.39
+Bolt Z,328,A high-quality bolt designed for durability and efficiency.,Plastic,9.3,28.34
+Nail A,450,A high-quality nail designed for durability and efficiency.,Glass,32.73,297.72
+Hammer B,171,A high-quality hammer designed for durability and efficiency.,Composite,10.1,354.98
+Wrench C,162,A high-quality wrench designed for durability and efficiency.,Plastic,89.09,121.43
+Drill D,154,A high-quality drill designed for durability and efficiency.,Glass,97.95,312.71
+Saw E,170,A high-quality saw designed for durability and efficiency.,Ceramic,97.05,471.28
+Pliers F,115,A high-quality pliers designed for durability and efficiency.,Plastic,17.88,315.3
+Tape Measure G,270,A high-quality tape designed for durability and efficiency.,Composite,75.22,159.16
+Screwdriver H,82,A high-quality screwdriver designed for durability and efficiency.,Wood,11.7,337.02
+Nut I,162,A high-quality nut designed for durability and efficiency.,Metal,65.13,492.57
+Washer J,118,A high-quality washer designed for durability and efficiency.,Glass,46.92,344.47
+Chisel K,471,A high-quality chisel designed for durability and efficiency.,Composite,46.29,95.97
+Clamp L,222,A high-quality clamp designed for durability and efficiency.,Composite,76.73,349.76
+Level M,393,A high-quality level designed for durability and efficiency.,Glass,85.84,7.35
+Sandpaper N,211,A high-quality sandpaper designed for durability and efficiency.,Plastic,56.29,306.31
+Wire Cutter O,497,A high-quality wire designed for durability and efficiency.,Fabric,37.61,282.15
+Socket P,10,A high-quality socket designed for durability and efficiency.,Ceramic,47.71,83.95
+Drill Bit Q,415,A high-quality drill designed for durability and efficiency.,Fabric,74.6,241.76
+Grinder R,387,A high-quality grinder designed for durability and efficiency.,Ceramic,14.08,425.05
+Screw S,34,A high-quality screw designed for durability and efficiency.,Fabric,49.37,24.28
+Bolt T,317,A high-quality bolt designed for durability and efficiency.,Fabric,13.61,292.66
+Nail U,378,A high-quality nail designed for durability and efficiency.,Glass,44.04,219.4
+Hammer V,106,A high-quality hammer designed for durability and efficiency.,Composite,27.89,356.13
+Wrench W,184,A high-quality wrench designed for durability and efficiency.,Composite,96.03,389.87
+Drill X,254,A high-quality drill designed for durability and efficiency.,Metal,82.88,453.44
+Saw Y,241,A high-quality saw designed for durability and efficiency.,Wood,96.99,199.89
+Pliers Z,164,A high-quality pliers designed for durability and efficiency.,Metal,45.99,108.14
+Tape Measure A,140,A high-quality tape designed for durability and efficiency.,Glass,97.83,377.92
+Screwdriver B,153,A high-quality screwdriver designed for durability and efficiency.,Glass,5.91,416.77
+Nut C,483,A high-quality nut designed for durability and efficiency.,Glass,58.74,127.21
+Washer D,291,A high-quality washer designed for durability and efficiency.,Glass,66.36,288.67
+Chisel E,25,A high-quality chisel designed for durability and efficiency.,Wood,47.91,91.72
+Clamp F,428,A high-quality clamp designed for durability and efficiency.,Plastic,3.74,439.4
+Level G,424,A high-quality level designed for durability and efficiency.,Fabric,37.23,189.09
+Sandpaper H,480,A high-quality sandpaper designed for durability and efficiency.,Composite,88.79,451.93
+Wire Cutter I,58,A high-quality wire designed for durability and efficiency.,Composite,76.51,259.4
+Socket J,474,A high-quality socket designed for durability and efficiency.,Metal,7.54,337.62
+Drill Bit K,108,A high-quality drill designed for durability and efficiency.,Plastic,63.14,27.33
+Grinder L,311,A high-quality grinder designed for durability and efficiency.,Glass,23.86,373.42
+Screw M,193,A high-quality screw designed for durability and efficiency.,Plastic,73.65,197.77
+Bolt N,283,A high-quality bolt designed for durability and efficiency.,Plastic,36.06,173.66
+Nail O,341,A high-quality nail designed for durability and efficiency.,Glass,76.53,318.92
+Hammer P,367,A high-quality hammer designed for durability and efficiency.,Fabric,32.09,24.79
+Wrench Q,2,A high-quality wrench designed for durability and efficiency.,Composite,48.04,274.26
+Drill R,452,A high-quality drill designed for durability and efficiency.,Fabric,94.48,200.4
+Saw S,132,A high-quality saw designed for durability and efficiency.,Ceramic,8.6,299.16
+Pliers T,346,A high-quality pliers designed for durability and efficiency.,Ceramic,38.1,34.74
+Tape Measure U,476,A high-quality tape designed for durability and efficiency.,Glass,14.92,375.04
+Screwdriver V,116,A high-quality screwdriver designed for durability and efficiency.,Composite,70.48,357.38
+Nut W,93,A high-quality nut designed for durability and efficiency.,Ceramic,83.42,26.36
+Washer X,443,A high-quality washer designed for durability and efficiency.,Glass,10.13,202.45
+Chisel Y,172,A high-quality chisel designed for durability and efficiency.,Plastic,0.71,213.46
+Clamp Z,326,A high-quality clamp designed for durability and efficiency.,Composite,80.66,85.39
+Level A,180,A high-quality level designed for durability and efficiency.,Ceramic,42.49,9.03
+Sandpaper B,265,A high-quality sandpaper designed for durability and efficiency.,Plastic,25.12,113.57
+Wire Cutter C,52,A high-quality wire designed for durability and efficiency.,Plastic,56.44,2.05
+Socket D,458,A high-quality socket designed for durability and efficiency.,Plastic,39.2,33.73
+Drill Bit E,397,A high-quality drill designed for durability and efficiency.,Wood,83.56,98.49
+Grinder F,216,A high-quality grinder designed for durability and efficiency.,Metal,40.74,46.81
+Screw G,428,A high-quality screw designed for durability and efficiency.,Composite,12.96,119.35
+Bolt H,444,A high-quality bolt designed for durability and efficiency.,Composite,75.87,209.06
+Nail I,404,A high-quality nail designed for durability and efficiency.,Wood,66.66,148.93
+Hammer J,406,A high-quality hammer designed for durability and efficiency.,Fabric,56.38,112.64
+Wrench K,207,A high-quality wrench designed for durability and efficiency.,Plastic,28.2,410.01
+Drill L,453,A high-quality drill designed for durability and efficiency.,Ceramic,7.3,358.65
+Saw M,92,A high-quality saw designed for durability and efficiency.,Ceramic,96.02,420.75
+Pliers N,210,A high-quality pliers designed for durability and efficiency.,Glass,86.64,264.81
+Tape Measure O,412,A high-quality tape designed for durability and efficiency.,Fabric,5.82,59.91
+Screwdriver P,489,A high-quality screwdriver designed for durability and efficiency.,Metal,83.2,40.35
+Nut Q,392,A high-quality nut designed for durability and efficiency.,Composite,74.84,333.42
+Washer R,139,A high-quality washer designed for durability and efficiency.,Wood,87.09,452.21
+Chisel S,236,A high-quality chisel designed for durability and efficiency.,Metal,56.73,34.22
+Clamp T,403,A high-quality clamp designed for durability and efficiency.,Composite,10.56,109.32
+Level U,356,A high-quality level designed for durability and efficiency.,Plastic,62.22,469.2
+Sandpaper V,97,A high-quality sandpaper designed for durability and efficiency.,Composite,80.46,434.49
+Wire Cutter W,324,A high-quality wire designed for durability and efficiency.,Composite,20.44,252.96
+Socket X,369,A high-quality socket designed for durability and efficiency.,Composite,80.5,328.6
+Drill Bit Y,292,A high-quality drill designed for durability and efficiency.,Metal,15.88,25.98
+Grinder Z,202,A high-quality grinder designed for durability and efficiency.,Composite,51.14,60.65
+Screw A,484,A high-quality screw designed for durability and efficiency.,Plastic,28.24,105.82
+Bolt B,465,A high-quality bolt designed for durability and efficiency.,Wood,65.5,117.98
+Nail C,354,A high-quality nail designed for durability and efficiency.,Wood,56.76,162.15
+Hammer D,421,A high-quality hammer designed for durability and efficiency.,Ceramic,55.36,393.47
+Wrench E,208,A high-quality wrench designed for durability and efficiency.,Fabric,65.95,324.23
+Drill F,402,A high-quality drill designed for durability and efficiency.,Plastic,21.15,464.75
+Saw G,478,A high-quality saw designed for durability and efficiency.,Plastic,67.93,319.59
+Pliers H,355,A high-quality pliers designed for durability and efficiency.,Ceramic,37.14,144.39
+Tape Measure I,158,A high-quality tape designed for durability and efficiency.,Metal,71.27,180.4
+Screwdriver J,256,A high-quality screwdriver designed for durability and efficiency.,Metal,8.07,60.94
+Nut K,34,A high-quality nut designed for durability and efficiency.,Composite,80.24,2.47
+Washer L,171,A high-quality washer designed for durability and efficiency.,Glass,31.04,209.04
+Chisel M,367,A high-quality chisel designed for durability and efficiency.,Glass,53.57,217.85
+Clamp N,211,A high-quality clamp designed for durability and efficiency.,Glass,50.75,378.39
+Level O,402,A high-quality level designed for durability and efficiency.,Wood,70.7,261.97
+Sandpaper P,298,A high-quality sandpaper designed for durability and efficiency.,Fabric,84.37,277.39
+Wire Cutter Q,445,A high-quality wire designed for durability and efficiency.,Glass,7.49,42.8
+Socket R,112,A high-quality socket designed for durability and efficiency.,Glass,48.75,426.13
+Drill Bit S,292,A high-quality drill designed for durability and efficiency.,Glass,19.58,63.62
+Grinder T,135,A high-quality grinder designed for durability and efficiency.,Fabric,98.49,310.12
+Screw U,49,A high-quality screw designed for durability and efficiency.,Composite,43.36,262.2
+Bolt V,312,A high-quality bolt designed for durability and efficiency.,Fabric,54.55,193.21
+Nail W,317,A high-quality nail designed for durability and efficiency.,Fabric,91.98,243.86
+Hammer X,392,A high-quality hammer designed for durability and efficiency.,Composite,58.39,90.16
+Wrench Y,148,A high-quality wrench designed for durability and efficiency.,Glass,40.37,6.13
+Drill Z,441,A high-quality drill designed for durability and efficiency.,Metal,72.18,306.41
+Saw A,170,A high-quality saw designed for durability and efficiency.,Ceramic,75.7,85.03
+Pliers B,283,A high-quality pliers designed for durability and efficiency.,Plastic,79.84,411.89
+Tape Measure C,489,A high-quality tape designed for durability and efficiency.,Glass,75.42,98.54
+Screwdriver D,122,A high-quality screwdriver designed for durability and efficiency.,Wood,81.83,456.78
+Nut E,159,A high-quality nut designed for durability and efficiency.,Plastic,23.33,315.33
+Washer F,455,A high-quality washer designed for durability and efficiency.,Composite,84.96,240.36
+Chisel G,271,A high-quality chisel designed for durability and efficiency.,Fabric,74.39,312.3
+Clamp H,85,A high-quality clamp designed for durability and efficiency.,Fabric,52.28,111.17
+Level I,342,A high-quality level designed for durability and efficiency.,Glass,14.92,89.21
+Sandpaper J,429,A high-quality sandpaper designed for durability and efficiency.,Plastic,43.29,448.29
+Wire Cutter K,408,A high-quality wire designed for durability and efficiency.,Glass,13.56,12.32
+Socket L,93,A high-quality socket designed for durability and efficiency.,Composite,5.09,395.59
+Drill Bit M,379,A high-quality drill designed for durability and efficiency.,Glass,80.88,497.19
+Grinder N,167,A high-quality grinder designed for durability and efficiency.,Fabric,90.82,328.96
+Screw O,212,A high-quality screw designed for durability and efficiency.,Ceramic,30.4,57.9
+Bolt P,207,A high-quality bolt designed for durability and efficiency.,Wood,20.97,418.43
+Nail Q,115,A high-quality nail designed for durability and efficiency.,Metal,82.67,163.62
+Hammer R,167,A high-quality hammer designed for durability and efficiency.,Metal,6.67,120.96
+Wrench S,442,A high-quality wrench designed for durability and efficiency.,Metal,3.29,136.54
+Drill T,311,A high-quality drill designed for durability and efficiency.,Metal,39.4,240.18
+Saw U,451,A high-quality saw designed for durability and efficiency.,Plastic,43.02,447.72
+Pliers V,408,A high-quality pliers designed for durability and efficiency.,Glass,64.81,440.62
+Tape Measure W,478,A high-quality tape designed for durability and efficiency.,Plastic,42.27,348.25
+Screwdriver X,451,A high-quality screwdriver designed for durability and efficiency.,Ceramic,35.43,105.52
+Nut Y,385,A high-quality nut designed for durability and efficiency.,Composite,68.82,461.35
+Washer Z,51,A high-quality washer designed for durability and efficiency.,Ceramic,85.59,272.49
+Chisel A,295,A high-quality chisel designed for durability and efficiency.,Fabric,7.52,368.95
+Clamp B,438,A high-quality clamp designed for durability and efficiency.,Plastic,37.97,376.33
+Level C,459,A high-quality level designed for durability and efficiency.,Plastic,12.59,454.75
+Sandpaper D,43,A high-quality sandpaper designed for durability and efficiency.,Metal,9.05,434.9
+Wire Cutter E,72,A high-quality wire designed for durability and efficiency.,Ceramic,79.68,374.63
+Socket F,441,A high-quality socket designed for durability and efficiency.,Glass,73.34,343.3
+Drill Bit G,472,A high-quality drill designed for durability and efficiency.,Fabric,62.33,356.77
+Grinder H,393,A high-quality grinder designed for durability and efficiency.,Composite,37.69,183.67
+Screw I,383,A high-quality screw designed for durability and efficiency.,Glass,38.2,233.37
+Bolt J,22,A high-quality bolt designed for durability and efficiency.,Glass,70.51,415.69
+Nail K,18,A high-quality nail designed for durability and efficiency.,Metal,66.18,15.73
+Hammer L,208,A high-quality hammer designed for durability and efficiency.,Plastic,53.16,36.85
+Wrench M,380,A high-quality wrench designed for durability and efficiency.,Wood,86.64,310.64
+Drill N,286,A high-quality drill designed for durability and efficiency.,Ceramic,14.75,497.52
+Saw O,104,A high-quality saw designed for durability and efficiency.,Metal,24.99,481.94
+Pliers P,79,A high-quality pliers designed for durability and efficiency.,Metal,82.49,24.86
+Tape Measure Q,145,A high-quality tape designed for durability and efficiency.,Fabric,49.58,325.52
+Screwdriver R,146,A high-quality screwdriver designed for durability and efficiency.,Composite,24.98,72.87
+Nut S,53,A high-quality nut designed for durability and efficiency.,Metal,84.42,195.53
+Washer T,461,A high-quality washer designed for durability and efficiency.,Wood,72.03,159.45
+Chisel U,99,A high-quality chisel designed for durability and efficiency.,Plastic,93.53,356.29
+Clamp V,255,A high-quality clamp designed for durability and efficiency.,Metal,36.79,140.89
+Level W,294,A high-quality level designed for durability and efficiency.,Wood,61.99,424.59
+Sandpaper X,224,A high-quality sandpaper designed for durability and efficiency.,Metal,86.7,163.91
+Wire Cutter Y,398,A high-quality wire designed for durability and efficiency.,Wood,24.16,494.18
+Socket Z,499,A high-quality socket designed for durability and efficiency.,Metal,77.9,76.49
+Drill Bit A,491,A high-quality drill designed for durability and efficiency.,Fabric,81.63,26.92
+Grinder B,375,A high-quality grinder designed for durability and efficiency.,Fabric,23.84,492.01
+Screw C,446,A high-quality screw designed for durability and efficiency.,Glass,44.25,320.42
+Bolt D,309,A high-quality bolt designed for durability and efficiency.,Fabric,53.76,227.2
+Nail E,292,A high-quality nail designed for durability and efficiency.,Glass,63.52,199.88
+Hammer F,91,A high-quality hammer designed for durability and efficiency.,Plastic,9.62,258.56
+Wrench G,426,A high-quality wrench designed for durability and efficiency.,Metal,79.45,14.43
+Drill H,56,A high-quality drill designed for durability and efficiency.,Glass,88.07,246.25
+Saw I,159,A high-quality saw designed for durability and efficiency.,Metal,72.94,20.77
+Pliers J,471,A high-quality pliers designed for durability and efficiency.,Glass,30.49,87.31
+Tape Measure K,349,A high-quality tape designed for durability and efficiency.,Metal,46.28,187.97
+Screwdriver L,240,A high-quality screwdriver designed for durability and efficiency.,Metal,32.17,488.84
+Nut M,426,A high-quality nut designed for durability and efficiency.,Fabric,34.15,179.18
+Washer N,422,A high-quality washer designed for durability and efficiency.,Composite,57.36,371.99
+Chisel O,154,A high-quality chisel designed for durability and efficiency.,Fabric,78.52,34.19
+Clamp P,64,A high-quality clamp designed for durability and efficiency.,Wood,7.49,453.67
+Level Q,189,A high-quality level designed for durability and efficiency.,Wood,77.94,318.61
+Sandpaper R,194,A high-quality sandpaper designed for durability and efficiency.,Glass,97.67,448.17
+Wire Cutter S,240,A high-quality wire designed for durability and efficiency.,Composite,98.09,185.07
+Socket T,125,A high-quality socket designed for durability and efficiency.,Ceramic,56.98,149.62
+Drill Bit U,346,A high-quality drill designed for durability and efficiency.,Fabric,25.1,21.13
+Grinder V,282,A high-quality grinder designed for durability and efficiency.,Ceramic,49.32,229.42
+Screw W,162,A high-quality screw designed for durability and efficiency.,Ceramic,19.88,55.37
+Bolt X,266,A high-quality bolt designed for durability and efficiency.,Composite,47.05,314.38
+Nail Y,434,A high-quality nail designed for durability and efficiency.,Composite,41.57,256.43
+Hammer Z,322,A high-quality hammer designed for durability and efficiency.,Wood,5.06,404.41
+Wrench A,251,A high-quality wrench designed for durability and efficiency.,Metal,82.41,321.73
+Drill B,403,A high-quality drill designed for durability and efficiency.,Ceramic,20.45,115.55
+Saw C,9,A high-quality saw designed for durability and efficiency.,Metal,19.29,496.12
+Pliers D,153,A high-quality pliers designed for durability and efficiency.,Wood,62.77,97.51
+Tape Measure E,144,A high-quality tape designed for durability and efficiency.,Wood,4.61,15.86
+Screwdriver F,334,A high-quality screwdriver designed for durability and efficiency.,Ceramic,88.09,192.56
+Nut G,7,A high-quality nut designed for durability and efficiency.,Composite,77.72,288.64
+Washer H,246,A high-quality washer designed for durability and efficiency.,Plastic,54.85,437.85
+Chisel I,195,A high-quality chisel designed for durability and efficiency.,Glass,75.84,72.2
+Clamp J,462,A high-quality clamp designed for durability and efficiency.,Wood,50.32,397.92
+Level K,402,A high-quality level designed for durability and efficiency.,Ceramic,70.67,153.41
+Sandpaper L,203,A high-quality sandpaper designed for durability and efficiency.,Metal,70.66,168.55
+Wire Cutter M,168,A high-quality wire designed for durability and efficiency.,Wood,13.64,87.56
+Socket N,42,A high-quality socket designed for durability and efficiency.,Glass,27.72,28.35
+Drill Bit O,79,A high-quality drill designed for durability and efficiency.,Plastic,42.58,493.67
+Grinder P,107,A high-quality grinder designed for durability and efficiency.,Plastic,82.41,302.1
+Screw Q,170,A high-quality screw designed for durability and efficiency.,Fabric,6.99,425.39
+Bolt R,243,A high-quality bolt designed for durability and efficiency.,Plastic,79.8,462.89
+Nail S,428,A high-quality nail designed for durability and efficiency.,Plastic,21.5,480.82
+Hammer T,123,A high-quality hammer designed for durability and efficiency.,Wood,60.43,470.99
+Wrench U,260,A high-quality wrench designed for durability and efficiency.,Ceramic,99.91,424.92
+Drill V,71,A high-quality drill designed for durability and efficiency.,Fabric,28.58,275.11
+Saw W,469,A high-quality saw designed for durability and efficiency.,Wood,89.22,389.84
+Pliers X,51,A high-quality pliers designed for durability and efficiency.,Fabric,81.73,103.01
+Tape Measure Y,405,A high-quality tape designed for durability and efficiency.,Fabric,2.32,185.0
+Screwdriver Z,164,A high-quality screwdriver designed for durability and efficiency.,Wood,46.49,492.22
+Nut A,211,A high-quality nut designed for durability and efficiency.,Wood,2.11,215.63
+Washer B,445,A high-quality washer designed for durability and efficiency.,Composite,95.48,268.93
+Chisel C,382,A high-quality chisel designed for durability and efficiency.,Composite,20.6,106.17
+Clamp D,468,A high-quality clamp designed for durability and efficiency.,Composite,13.42,246.64
+Level E,412,A high-quality level designed for durability and efficiency.,Composite,71.14,354.84
+Sandpaper F,92,A high-quality sandpaper designed for durability and efficiency.,Fabric,14.23,283.13
+Wire Cutter G,355,A high-quality wire designed for durability and efficiency.,Metal,52.85,5.71
+Socket H,127,A high-quality socket designed for durability and efficiency.,Metal,93.75,453.54
+Drill Bit I,464,A high-quality drill designed for durability and efficiency.,Ceramic,65.45,288.62
+Grinder J,349,A high-quality grinder designed for durability and efficiency.,Fabric,26.69,348.89
+Screw K,195,A high-quality screw designed for durability and efficiency.,Composite,25.53,72.01
+Bolt L,93,A high-quality bolt designed for durability and efficiency.,Composite,83.19,351.36
+Nail M,468,A high-quality nail designed for durability and efficiency.,Wood,50.84,5.29
+Hammer N,207,A high-quality hammer designed for durability and efficiency.,Plastic,90.34,308.07
+Wrench O,229,A high-quality wrench designed for durability and efficiency.,Metal,26.35,324.06
+Drill P,114,A high-quality drill designed for durability and efficiency.,Glass,40.28,210.12
+Saw Q,127,A high-quality saw designed for durability and efficiency.,Metal,95.7,154.27
+Pliers R,190,A high-quality pliers designed for durability and efficiency.,Composite,48.48,178.25
+Tape Measure S,85,A high-quality tape designed for durability and efficiency.,Ceramic,72.13,246.2
+Screwdriver T,92,A high-quality screwdriver designed for durability and efficiency.,Metal,81.29,261.72
+Nut U,200,A high-quality nut designed for durability and efficiency.,Glass,84.61,304.39
+Washer V,447,A high-quality washer designed for durability and efficiency.,Composite,20.87,57.89
+Chisel W,148,A high-quality chisel designed for durability and efficiency.,Fabric,62.44,77.98
+Clamp X,16,A high-quality clamp designed for durability and efficiency.,Ceramic,26.9,286.49
+Level Y,214,A high-quality level designed for durability and efficiency.,Composite,91.01,81.69
+Sandpaper Z,82,A high-quality sandpaper designed for durability and efficiency.,Metal,37.94,335.46
+Wire Cutter A,3,A high-quality wire designed for durability and efficiency.,Fabric,77.86,498.89
+Socket B,364,A high-quality socket designed for durability and efficiency.,Glass,6.2,460.94
+Drill Bit C,50,A high-quality drill designed for durability and efficiency.,Wood,44.3,447.35
+Grinder D,86,A high-quality grinder designed for durability and efficiency.,Fabric,0.46,109.52
+Screw E,345,A high-quality screw designed for durability and efficiency.,Glass,21.3,393.33
+Bolt F,181,A high-quality bolt designed for durability and efficiency.,Ceramic,54.7,245.44
+Nail G,213,A high-quality nail designed for durability and efficiency.,Fabric,53.27,449.16
+Hammer H,178,A high-quality hammer designed for durability and efficiency.,Metal,76.75,410.41
+Wrench I,323,A high-quality wrench designed for durability and efficiency.,Ceramic,52.62,147.41
+Drill J,274,A high-quality drill designed for durability and efficiency.,Ceramic,82.87,298.28
+Saw K,416,A high-quality saw designed for durability and efficiency.,Composite,26.56,248.55
+Pliers L,429,A high-quality pliers designed for durability and efficiency.,Ceramic,50.62,42.72
+Tape Measure M,457,A high-quality tape designed for durability and efficiency.,Wood,35.14,31.35
+Screwdriver N,45,A high-quality screwdriver designed for durability and efficiency.,Glass,70.77,406.09
+Nut O,240,A high-quality nut designed for durability and efficiency.,Ceramic,21.87,254.53
+Washer P,252,A high-quality washer designed for durability and efficiency.,Ceramic,49.14,463.69
+Chisel Q,31,A high-quality chisel designed for durability and efficiency.,Plastic,41.96,337.77
+Clamp R,26,A high-quality clamp designed for durability and efficiency.,Glass,52.44,359.14
+Level S,95,A high-quality level designed for durability and efficiency.,Wood,98.3,243.37
+Sandpaper T,279,A high-quality sandpaper designed for durability and efficiency.,Glass,51.75,143.1
+Wire Cutter U,475,A high-quality wire designed for durability and efficiency.,Glass,61.43,366.35
+Socket V,158,A high-quality socket designed for durability and efficiency.,Wood,5.16,342.96
+Drill Bit W,74,A high-quality drill designed for durability and efficiency.,Ceramic,27.44,45.57
+Grinder X,101,A high-quality grinder designed for durability and efficiency.,Ceramic,16.5,362.42

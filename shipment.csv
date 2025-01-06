@@ -1,0 +1,2001 @@
+courier,shipmentDate,shipmentStatus
+DHL,2024-06-01,Delivered
+DHL,2024-04-14,In Transit
+Amazon Logistics,2024-05-13,Pending
+FedEx,2024-10-03,Shipped
+DHL,2024-02-25,In Transit
+TNT,2024-08-02,Cancelled
+USPS,2024-08-17,In Transit
+DHL,2024-03-26,Delivered
+FedEx,2023-12-11,Pending
+TNT,2024-06-12,In Transit
+DHL,2024-06-07,In Transit
+UPS,2024-09-01,Shipped
+TNT,2024-08-19,In Transit
+USPS,2024-03-28,Cancelled
+TNT,2024-08-13,In Transit
+DHL,2024-07-06,Shipped
+Amazon Logistics,2024-11-05,Delivered
+DHL,2024-02-20,Pending
+Amazon Logistics,2024-08-29,Pending
+USPS,2024-09-06,In Transit
+TNT,2024-01-03,Shipped
+Amazon Logistics,2024-03-30,Cancelled
+Amazon Logistics,2024-06-17,Delivered
+USPS,2024-01-12,Shipped
+USPS,2024-10-24,Delivered
+FedEx,2024-05-17,In Transit
+FedEx,2024-01-14,Shipped
+USPS,2024-08-05,Shipped
+UPS,2023-11-29,Shipped
+TNT,2024-02-11,Pending
+Amazon Logistics,2024-03-29,Cancelled
+FedEx,2024-06-30,Cancelled
+TNT,2024-01-12,In Transit
+FedEx,2024-07-25,Delivered
+FedEx,2024-01-09,Cancelled
+TNT,2023-12-28,Shipped
+UPS,2024-05-17,Cancelled
+USPS,2024-09-04,Delivered
+DHL,2023-12-10,Shipped
+USPS,2024-03-22,Delivered
+FedEx,2024-02-10,Cancelled
+TNT,2024-06-18,Pending
+FedEx,2023-12-12,Cancelled
+FedEx,2024-08-19,Pending
+FedEx,2024-09-24,In Transit
+DHL,2024-09-03,Pending
+DHL,2023-12-29,Delivered
+TNT,2024-06-23,Shipped
+TNT,2024-10-20,Shipped
+USPS,2024-02-27,In Transit
+Amazon Logistics,2023-12-05,Cancelled
+DHL,2024-09-20,Shipped
+TNT,2023-12-12,Shipped
+UPS,2024-11-26,Pending
+UPS,2024-06-07,Cancelled
+Amazon Logistics,2024-01-25,Delivered
+Amazon Logistics,2024-07-26,Shipped
+Amazon Logistics,2024-01-16,Pending
+USPS,2024-03-25,Shipped
+Amazon Logistics,2024-05-29,Pending
+UPS,2024-01-17,Cancelled
+FedEx,2024-06-30,Cancelled
+Amazon Logistics,2024-08-09,Delivered
+UPS,2024-11-10,Delivered
+USPS,2024-05-21,In Transit
+Amazon Logistics,2024-05-04,Cancelled
+UPS,2024-09-01,Pending
+TNT,2024-07-03,In Transit
+FedEx,2024-02-01,Delivered
+TNT,2024-09-08,Cancelled
+TNT,2024-06-10,In Transit
+UPS,2024-09-14,Cancelled
+Amazon Logistics,2024-03-10,Delivered
+DHL,2024-06-30,Pending
+FedEx,2024-10-01,Delivered
+DHL,2024-11-20,In Transit
+UPS,2024-11-21,Pending
+TNT,2024-03-31,Cancelled
+FedEx,2024-01-22,Delivered
+FedEx,2024-06-10,Pending
+DHL,2024-09-07,In Transit
+DHL,2024-08-24,Shipped
+USPS,2024-07-09,Shipped
+TNT,2024-09-01,In Transit
+DHL,2024-06-12,Pending
+DHL,2024-01-29,In Transit
+TNT,2023-11-29,Pending
+UPS,2024-06-23,Delivered
+DHL,2024-06-23,Shipped
+Amazon Logistics,2024-09-26,Delivered
+TNT,2023-12-28,Cancelled
+UPS,2024-05-05,Pending
+TNT,2023-11-29,Pending
+FedEx,2024-05-20,Delivered
+Amazon Logistics,2024-05-18,Pending
+TNT,2024-10-14,Shipped
+UPS,2024-07-18,Cancelled
+UPS,2024-03-27,Cancelled
+DHL,2024-10-28,Shipped
+USPS,2024-11-02,Delivered
+TNT,2024-05-05,Shipped
+UPS,2023-11-29,Shipped
+USPS,2024-09-05,Cancelled
+DHL,2024-05-01,Pending
+TNT,2024-02-17,Delivered
+FedEx,2024-09-01,Pending
+USPS,2024-09-30,Pending
+UPS,2024-01-07,Shipped
+UPS,2024-02-02,Pending
+Amazon Logistics,2024-04-15,Delivered
+UPS,2024-07-31,Pending
+TNT,2024-03-21,Cancelled
+USPS,2024-05-07,Delivered
+UPS,2024-04-11,Pending
+FedEx,2024-03-16,Shipped
+USPS,2024-07-26,Delivered
+UPS,2024-02-20,Delivered
+FedEx,2024-01-15,Pending
+Amazon Logistics,2024-06-11,Shipped
+USPS,2024-01-06,In Transit
+Amazon Logistics,2024-06-24,Shipped
+FedEx,2024-11-13,Shipped
+Amazon Logistics,2024-01-14,Pending
+DHL,2024-05-11,Shipped
+TNT,2024-04-13,In Transit
+USPS,2024-07-05,Pending
+DHL,2024-03-12,Cancelled
+UPS,2024-05-02,Delivered
+Amazon Logistics,2024-09-17,Delivered
+UPS,2024-02-13,In Transit
+USPS,2024-07-20,In Transit
+TNT,2024-08-18,In Transit
+USPS,2024-05-06,Delivered
+Amazon Logistics,2024-09-18,In Transit
+FedEx,2024-08-21,Cancelled
+UPS,2024-11-13,Delivered
+USPS,2024-08-12,In Transit
+DHL,2024-05-31,Shipped
+UPS,2024-08-20,Cancelled
+UPS,2024-10-01,In Transit
+UPS,2024-08-10,Pending
+UPS,2024-05-04,In Transit
+UPS,2024-11-16,Delivered
+Amazon Logistics,2024-06-04,Delivered
+UPS,2024-03-26,Delivered
+USPS,2024-10-05,Delivered
+TNT,2024-07-04,In Transit
+DHL,2023-12-12,Cancelled
+DHL,2024-08-07,Shipped
+FedEx,2024-09-13,Delivered
+FedEx,2024-05-19,Cancelled
+DHL,2024-01-27,Delivered
+USPS,2024-02-13,In Transit
+TNT,2024-09-18,Shipped
+USPS,2024-10-14,Pending
+UPS,2024-06-23,In Transit
+TNT,2024-06-27,Delivered
+Amazon Logistics,2024-02-18,In Transit
+USPS,2024-02-04,In Transit
+USPS,2024-01-24,Pending
+FedEx,2024-05-03,Delivered
+Amazon Logistics,2024-03-11,Cancelled
+Amazon Logistics,2024-07-22,Delivered
+TNT,2024-06-12,Shipped
+Amazon Logistics,2024-11-18,Cancelled
+Amazon Logistics,2024-02-11,Shipped
+DHL,2024-03-08,In Transit
+UPS,2024-03-21,Pending
+DHL,2024-06-20,Cancelled
+FedEx,2024-08-10,Cancelled
+DHL,2024-04-17,Delivered
+FedEx,2023-12-12,Cancelled
+Amazon Logistics,2024-03-01,In Transit
+FedEx,2024-04-23,Delivered
+DHL,2024-08-23,Delivered
+TNT,2024-03-19,In Transit
+DHL,2023-11-30,Shipped
+UPS,2024-05-17,Pending
+DHL,2024-10-23,In Transit
+UPS,2024-10-15,Cancelled
+UPS,2024-08-13,Shipped
+Amazon Logistics,2024-04-16,Cancelled
+UPS,2024-06-01,Delivered
+UPS,2024-07-06,Cancelled
+UPS,2024-08-09,Cancelled
+UPS,2024-05-19,Delivered
+UPS,2024-11-11,Pending
+UPS,2023-12-18,Pending
+FedEx,2024-08-10,Pending
+FedEx,2024-10-26,Pending
+USPS,2024-02-27,Pending
+DHL,2024-07-12,Delivered
+DHL,2024-05-07,Delivered
+UPS,2023-12-15,Pending
+DHL,2024-01-06,In Transit
+UPS,2024-06-30,Cancelled
+UPS,2024-06-19,Delivered
+FedEx,2024-02-23,Shipped
+DHL,2024-05-08,Cancelled
+DHL,2023-11-30,Shipped
+Amazon Logistics,2024-10-04,Cancelled
+FedEx,2024-08-08,Delivered
+TNT,2024-09-14,In Transit
+FedEx,2024-07-06,Cancelled
+Amazon Logistics,2024-11-03,Pending
+Amazon Logistics,2024-08-19,Shipped
+TNT,2024-08-29,Pending
+USPS,2024-05-21,In Transit
+USPS,2024-07-19,Shipped
+TNT,2024-02-20,Cancelled
+DHL,2024-01-01,Pending
+Amazon Logistics,2024-03-28,Pending
+TNT,2024-04-26,Pending
+Amazon Logistics,2024-01-08,In Transit
+FedEx,2024-08-06,Shipped
+USPS,2024-07-10,In Transit
+TNT,2024-06-07,Cancelled
+FedEx,2024-10-05,Delivered
+FedEx,2024-05-22,Shipped
+USPS,2024-08-11,Delivered
+UPS,2024-05-07,In Transit
+TNT,2024-09-10,Delivered
+FedEx,2024-08-08,Cancelled
+FedEx,2024-09-19,Shipped
+TNT,2024-03-25,In Transit
+FedEx,2024-08-26,Delivered
+TNT,2023-11-29,In Transit
+USPS,2024-09-24,In Transit
+FedEx,2024-07-29,Delivered
+UPS,2023-12-29,In Transit
+USPS,2024-11-18,Shipped
+FedEx,2024-11-20,In Transit
+DHL,2024-03-08,Shipped
+Amazon Logistics,2024-02-06,Cancelled
+UPS,2024-02-29,Delivered
+USPS,2024-05-07,Pending
+Amazon Logistics,2024-08-29,Delivered
+UPS,2024-01-07,Delivered
+Amazon Logistics,2023-12-21,Pending
+DHL,2024-09-08,In Transit
+Amazon Logistics,2024-06-09,In Transit
+FedEx,2024-09-10,In Transit
+DHL,2024-05-07,Delivered
+UPS,2024-11-19,Shipped
+DHL,2024-07-09,In Transit
+UPS,2024-08-04,In Transit
+Amazon Logistics,2024-01-31,Pending
+Amazon Logistics,2024-09-05,Shipped
+USPS,2024-10-05,Shipped
+UPS,2024-03-16,Delivered
+USPS,2024-09-16,Cancelled
+FedEx,2023-11-29,Delivered
+DHL,2024-10-06,Delivered
+DHL,2024-05-19,In Transit
+DHL,2024-10-10,Shipped
+Amazon Logistics,2024-04-10,Cancelled
+FedEx,2024-05-28,In Transit
+Amazon Logistics,2024-04-08,In Transit
+Amazon Logistics,2024-02-02,Delivered
+TNT,2024-03-07,In Transit
+USPS,2024-05-28,Delivered
+FedEx,2024-10-05,Cancelled
+DHL,2024-10-28,Pending
+TNT,2024-06-21,In Transit
+UPS,2024-04-17,Pending
+DHL,2024-07-14,Delivered
+FedEx,2024-04-30,Cancelled
+DHL,2023-12-11,Pending
+FedEx,2024-06-03,In Transit
+DHL,2024-03-31,Cancelled
+FedEx,2024-04-12,Cancelled
+UPS,2024-02-05,Shipped
+FedEx,2024-02-28,Pending
+TNT,2024-02-29,In Transit
+UPS,2024-04-27,Delivered
+Amazon Logistics,2024-09-07,In Transit
+Amazon Logistics,2024-02-17,In Transit
+DHL,2024-08-31,Delivered
+USPS,2023-12-28,Shipped
+FedEx,2024-07-12,Cancelled
+UPS,2024-04-11,In Transit
+FedEx,2024-09-25,Cancelled
+Amazon Logistics,2024-09-04,Cancelled
+USPS,2024-03-10,Cancelled
+UPS,2024-10-13,Cancelled
+USPS,2024-01-11,Cancelled
+USPS,2024-10-09,Delivered
+Amazon Logistics,2024-01-18,Delivered
+Amazon Logistics,2024-08-27,Pending
+DHL,2024-08-01,Cancelled
+TNT,2024-02-04,Cancelled
+Amazon Logistics,2024-04-17,Pending
+UPS,2024-09-01,Cancelled
+FedEx,2024-01-16,Delivered
+DHL,2024-08-07,In Transit
+USPS,2024-10-16,Shipped
+FedEx,2024-05-22,In Transit
+UPS,2024-08-13,Cancelled
+DHL,2024-02-29,Pending
+USPS,2024-02-26,Cancelled
+UPS,2024-01-16,Delivered
+TNT,2024-03-21,Cancelled
+DHL,2024-09-07,Cancelled
+DHL,2024-11-08,In Transit
+UPS,2024-03-22,Cancelled
+UPS,2024-06-21,In Transit
+Amazon Logistics,2024-07-06,Cancelled
+FedEx,2024-06-22,Cancelled
+DHL,2024-02-29,In Transit
+DHL,2024-08-01,Delivered
+FedEx,2024-03-31,Delivered
+USPS,2024-04-04,Delivered
+UPS,2024-07-27,Shipped
+UPS,2024-01-25,Delivered
+DHL,2024-08-27,Delivered
+FedEx,2024-03-19,In Transit
+USPS,2024-09-26,Cancelled
+Amazon Logistics,2024-11-18,Delivered
+FedEx,2023-12-20,Delivered
+Amazon Logistics,2024-07-05,Pending
+Amazon Logistics,2024-02-22,Delivered
+Amazon Logistics,2023-12-20,Delivered
+UPS,2024-11-01,Shipped
+FedEx,2024-05-14,Cancelled
+Amazon Logistics,2024-05-19,Shipped
+DHL,2024-01-16,Pending
+DHL,2024-01-20,Delivered
+UPS,2024-08-06,Pending
+USPS,2024-01-13,Cancelled
+TNT,2024-11-03,In Transit
+UPS,2024-02-15,Shipped
+FedEx,2024-01-27,In Transit
+UPS,2024-11-17,Delivered
+TNT,2024-01-01,Delivered
+FedEx,2024-06-25,Delivered
+UPS,2024-02-17,In Transit
+USPS,2024-09-21,Delivered
+TNT,2024-05-11,Pending
+Amazon Logistics,2024-02-29,In Transit
+DHL,2024-08-21,Delivered
+DHL,2024-07-16,Pending
+UPS,2024-10-07,In Transit
+FedEx,2024-03-31,Pending
+FedEx,2024-09-28,Pending
+FedEx,2024-01-13,In Transit
+FedEx,2024-11-06,In Transit
+TNT,2024-04-17,Cancelled
+USPS,2024-06-03,Shipped
+USPS,2024-01-10,Shipped
+FedEx,2024-09-15,Pending
+Amazon Logistics,2024-02-14,Cancelled
+USPS,2024-05-25,Shipped
+USPS,2024-01-02,Pending
+DHL,2024-04-06,In Transit
+UPS,2024-10-15,In Transit
+USPS,2024-10-31,Cancelled
+DHL,2024-02-17,Cancelled
+UPS,2023-12-22,Delivered
+FedEx,2024-02-15,Shipped
+UPS,2024-08-30,In Transit
+TNT,2024-10-30,Cancelled
+USPS,2024-08-26,Delivered
+TNT,2024-05-19,Shipped
+UPS,2024-03-28,Shipped
+USPS,2024-08-29,Delivered
+UPS,2024-08-12,Cancelled
+UPS,2024-06-02,Pending
+USPS,2023-12-26,Shipped
+DHL,2024-09-26,Shipped
+TNT,2024-07-20,Shipped
+TNT,2023-12-14,Cancelled
+TNT,2024-06-28,Cancelled
+DHL,2024-06-04,Shipped
+Amazon Logistics,2024-11-12,Cancelled
+USPS,2024-02-05,In Transit
+TNT,2023-12-13,Cancelled
+Amazon Logistics,2024-11-11,In Transit
+Amazon Logistics,2024-08-19,Pending
+DHL,2024-06-26,Delivered
+FedEx,2024-09-30,Cancelled
+Amazon Logistics,2024-08-23,Pending
+USPS,2024-08-05,Cancelled
+FedEx,2024-02-25,Delivered
+Amazon Logistics,2024-05-08,Pending
+UPS,2024-10-10,Cancelled
+Amazon Logistics,2024-09-12,Shipped
+TNT,2024-09-13,Pending
+USPS,2024-07-09,Delivered
+FedEx,2024-03-05,Shipped
+TNT,2024-11-13,In Transit
+Amazon Logistics,2023-12-12,In Transit
+USPS,2024-03-18,Cancelled
+UPS,2024-11-03,Pending
+USPS,2024-06-14,In Transit
+UPS,2024-10-28,In Transit
+TNT,2024-09-15,Pending
+FedEx,2024-04-16,Cancelled
+DHL,2024-06-19,In Transit
+TNT,2024-11-21,Delivered
+Amazon Logistics,2024-05-04,Cancelled
+Amazon Logistics,2024-02-19,Delivered
+TNT,2024-04-18,Pending
+Amazon Logistics,2024-11-10,Delivered
+FedEx,2024-05-02,Delivered
+TNT,2023-12-05,In Transit
+USPS,2023-12-03,Delivered
+FedEx,2024-02-18,Cancelled
+UPS,2024-08-25,Delivered
+Amazon Logistics,2024-02-01,In Transit
+Amazon Logistics,2024-11-27,Delivered
+FedEx,2024-03-30,Pending
+Amazon Logistics,2024-11-09,Pending
+Amazon Logistics,2024-03-28,Pending
+TNT,2024-03-01,In Transit
+Amazon Logistics,2023-12-07,Delivered
+Amazon Logistics,2024-04-30,Cancelled
+TNT,2023-12-20,Pending
+Amazon Logistics,2024-07-19,Shipped
+Amazon Logistics,2024-02-29,Pending
+DHL,2024-04-07,Cancelled
+TNT,2024-01-18,Delivered
+TNT,2024-03-17,Cancelled
+FedEx,2024-11-16,Cancelled
+UPS,2024-05-10,Shipped
+FedEx,2024-09-01,Delivered
+UPS,2024-11-26,Cancelled
+Amazon Logistics,2024-04-03,Shipped
+USPS,2024-11-09,Cancelled
+DHL,2023-12-15,Pending
+UPS,2023-12-27,Shipped
+Amazon Logistics,2024-10-17,Pending
+USPS,2023-12-11,In Transit
+DHL,2024-09-12,Shipped
+UPS,2024-07-06,Delivered
+FedEx,2024-07-28,Shipped
+DHL,2024-11-04,In Transit
+DHL,2024-05-26,Pending
+DHL,2024-08-14,Shipped
+DHL,2024-06-07,Cancelled
+TNT,2024-08-21,Pending
+USPS,2024-02-02,Cancelled
+Amazon Logistics,2024-01-13,Shipped
+TNT,2024-10-12,Pending
+UPS,2024-11-03,Pending
+UPS,2023-12-18,Shipped
+Amazon Logistics,2024-03-01,In Transit
+DHL,2024-09-23,Cancelled
+FedEx,2024-10-06,Pending
+Amazon Logistics,2024-04-03,In Transit
+DHL,2024-10-31,Shipped
+TNT,2024-03-02,Pending
+USPS,2024-07-04,In Transit
+UPS,2023-12-27,Shipped
+Amazon Logistics,2024-06-12,Pending
+FedEx,2024-11-04,Pending
+TNT,2024-01-14,Delivered
+DHL,2023-12-07,Cancelled
+Amazon Logistics,2024-10-18,Cancelled
+DHL,2024-11-23,Delivered
+Amazon Logistics,2024-08-24,Pending
+Amazon Logistics,2024-09-30,Shipped
+USPS,2024-09-15,Delivered
+Amazon Logistics,2024-05-14,Shipped
+UPS,2024-01-15,Cancelled
+Amazon Logistics,2024-06-02,Cancelled
+FedEx,2024-08-25,Cancelled
+UPS,2024-03-31,In Transit
+DHL,2024-10-15,Shipped
+FedEx,2024-02-29,Delivered
+TNT,2024-04-26,Delivered
+FedEx,2024-05-01,Shipped
+USPS,2024-09-04,Delivered
+TNT,2024-10-21,Cancelled
+FedEx,2024-07-05,Pending
+FedEx,2024-02-29,Pending
+UPS,2024-10-15,Cancelled
+UPS,2023-12-20,Delivered
+DHL,2024-02-13,Shipped
+FedEx,2024-01-13,Delivered
+Amazon Logistics,2024-06-16,In Transit
+FedEx,2024-04-25,Shipped
+DHL,2024-02-19,Delivered
+Amazon Logistics,2024-01-20,Cancelled
+USPS,2024-02-14,Cancelled
+TNT,2024-01-12,Shipped
+TNT,2024-09-07,Cancelled
+UPS,2024-02-11,Shipped
+TNT,2024-09-25,Pending
+Amazon Logistics,2024-09-17,Pending
+USPS,2024-10-22,Delivered
+UPS,2024-01-13,Shipped
+Amazon Logistics,2024-08-05,In Transit
+FedEx,2023-12-12,Shipped
+TNT,2024-03-04,Delivered
+DHL,2024-05-17,Cancelled
+TNT,2024-11-16,Cancelled
+FedEx,2023-12-20,Delivered
+TNT,2024-10-03,Cancelled
+TNT,2024-07-30,Cancelled
+USPS,2024-07-13,Pending
+USPS,2024-01-01,In Transit
+Amazon Logistics,2024-07-10,Delivered
+USPS,2024-06-07,Delivered
+UPS,2024-11-08,Delivered
+DHL,2024-01-22,Shipped
+DHL,2024-02-22,Delivered
+UPS,2024-03-19,Pending
+UPS,2024-03-24,Pending
+TNT,2024-10-25,Shipped
+Amazon Logistics,2024-07-18,Shipped
+TNT,2024-11-05,Cancelled
+TNT,2024-01-25,Delivered
+FedEx,2024-03-08,Pending
+UPS,2024-07-06,Shipped
+Amazon Logistics,2024-05-26,Delivered
+Amazon Logistics,2024-04-10,Delivered
+Amazon Logistics,2024-11-22,Cancelled
+FedEx,2023-12-19,Pending
+Amazon Logistics,2024-03-25,Delivered
+Amazon Logistics,2023-12-17,Shipped
+TNT,2024-05-05,Delivered
+Amazon Logistics,2024-03-03,Delivered
+DHL,2024-10-16,Pending
+Amazon Logistics,2024-08-19,Shipped
+DHL,2024-08-22,Cancelled
+DHL,2023-12-09,Cancelled
+Amazon Logistics,2024-05-03,Cancelled
+DHL,2024-06-09,Delivered
+FedEx,2024-11-01,Cancelled
+FedEx,2024-07-31,Cancelled
+UPS,2024-10-18,Delivered
+DHL,2024-01-16,Shipped
+UPS,2024-05-06,In Transit
+Amazon Logistics,2024-04-03,In Transit
+USPS,2024-03-28,In Transit
+Amazon Logistics,2024-09-10,Cancelled
+DHL,2024-08-12,Shipped
+DHL,2024-10-19,Shipped
+TNT,2024-01-20,Shipped
+USPS,2024-06-09,Cancelled
+DHL,2024-03-18,Cancelled
+DHL,2024-09-04,Shipped
+Amazon Logistics,2024-09-08,Shipped
+TNT,2024-02-23,Pending
+Amazon Logistics,2024-09-08,Pending
+USPS,2024-01-23,Pending
+DHL,2024-10-24,Pending
+USPS,2024-01-30,Cancelled
+TNT,2024-11-03,Delivered
+UPS,2024-03-28,Pending
+DHL,2024-10-18,Delivered
+UPS,2024-01-05,Cancelled
+Amazon Logistics,2024-07-21,Cancelled
+USPS,2024-05-28,Pending
+TNT,2023-11-29,Shipped
+DHL,2023-12-19,Delivered
+DHL,2024-06-27,Delivered
+DHL,2024-03-01,Shipped
+USPS,2024-08-01,Cancelled
+DHL,2024-06-29,In Transit
+TNT,2024-06-24,Shipped
+TNT,2024-05-07,Delivered
+UPS,2024-10-26,Pending
+FedEx,2023-12-25,Delivered
+TNT,2023-12-08,Cancelled
+FedEx,2024-01-08,In Transit
+UPS,2024-11-13,Shipped
+UPS,2024-01-14,In Transit
+DHL,2024-05-15,Delivered
+Amazon Logistics,2024-02-20,In Transit
+FedEx,2024-04-15,Cancelled
+Amazon Logistics,2024-10-19,Shipped
+FedEx,2024-10-25,Pending
+USPS,2024-03-17,Shipped
+UPS,2024-08-02,Delivered
+FedEx,2024-06-21,Cancelled
+FedEx,2024-11-08,In Transit
+TNT,2024-01-27,Cancelled
+FedEx,2024-04-07,Delivered
+USPS,2024-08-17,Delivered
+UPS,2024-06-17,Pending
+TNT,2024-11-26,Pending
+USPS,2024-11-22,Cancelled
+TNT,2024-08-27,Delivered
+TNT,2024-05-09,In Transit
+DHL,2024-05-24,Shipped
+UPS,2024-03-17,Cancelled
+Amazon Logistics,2024-06-17,Shipped
+FedEx,2024-05-12,Pending
+UPS,2024-11-22,Delivered
+TNT,2024-06-25,Shipped
+USPS,2024-06-11,Pending
+Amazon Logistics,2024-07-27,Cancelled
+USPS,2024-08-13,In Transit
+USPS,2024-06-08,Shipped
+Amazon Logistics,2024-07-18,Cancelled
+UPS,2024-07-30,In Transit
+TNT,2024-05-02,Pending
+TNT,2024-06-25,In Transit
+FedEx,2024-09-27,Cancelled
+TNT,2024-02-26,In Transit
+TNT,2024-11-13,Shipped
+DHL,2024-09-24,Pending
+Amazon Logistics,2024-10-22,Shipped
+DHL,2024-03-21,Shipped
+DHL,2024-01-03,Shipped
+TNT,2024-06-04,Cancelled
+FedEx,2024-07-05,Cancelled
+DHL,2024-05-16,In Transit
+TNT,2024-10-10,Pending
+UPS,2024-09-05,In Transit
+TNT,2024-06-13,Delivered
+DHL,2024-02-13,In Transit
+FedEx,2024-07-25,Shipped
+Amazon Logistics,2024-06-29,Shipped
+UPS,2024-06-26,Cancelled
+DHL,2024-05-21,Cancelled
+UPS,2024-11-04,Pending
+USPS,2024-11-18,Shipped
+TNT,2024-05-08,Shipped
+FedEx,2024-10-01,Shipped
+Amazon Logistics,2024-08-23,Pending
+USPS,2024-06-20,Pending
+FedEx,2024-04-14,Pending
+UPS,2024-09-03,Pending
+USPS,2024-05-31,Pending
+USPS,2024-10-13,Pending
+UPS,2024-07-26,Delivered
+FedEx,2024-05-03,In Transit
+USPS,2024-02-16,Shipped
+TNT,2024-08-18,Delivered
+FedEx,2024-10-05,In Transit
+DHL,2024-02-18,Cancelled
+TNT,2024-10-06,Pending
+USPS,2024-01-11,Delivered
+Amazon Logistics,2024-05-29,In Transit
+USPS,2023-12-07,Delivered
+USPS,2024-06-20,In Transit
+UPS,2024-05-05,Shipped
+USPS,2024-10-27,In Transit
+TNT,2024-03-07,Cancelled
+UPS,2024-10-20,Pending
+UPS,2024-02-10,In Transit
+USPS,2024-07-24,Cancelled
+USPS,2024-04-03,Shipped
+USPS,2024-02-03,Pending
+UPS,2024-02-14,Pending
+FedEx,2024-01-25,Pending
+USPS,2024-03-19,Cancelled
+Amazon Logistics,2024-06-26,Cancelled
+FedEx,2024-07-07,In Transit
+UPS,2024-07-19,Cancelled
+DHL,2023-12-07,Pending
+UPS,2024-01-18,Delivered
+TNT,2024-09-20,Delivered
+UPS,2024-05-22,Cancelled
+TNT,2023-12-11,Cancelled
+USPS,2024-01-09,Shipped
+USPS,2023-12-13,In Transit
+UPS,2024-08-03,In Transit
+UPS,2024-01-30,Shipped
+USPS,2024-06-10,Pending
+TNT,2024-11-11,Delivered
+UPS,2024-03-09,Pending
+Amazon Logistics,2024-04-22,Cancelled
+TNT,2023-12-21,In Transit
+DHL,2023-12-14,Delivered
+USPS,2024-03-19,Shipped
+TNT,2024-08-20,Cancelled
+USPS,2024-03-30,Shipped
+TNT,2024-08-09,Pending
+Amazon Logistics,2024-07-13,In Transit
+UPS,2024-07-24,In Transit
+FedEx,2024-04-21,In Transit
+TNT,2024-01-19,In Transit
+FedEx,2024-02-05,Cancelled
+FedEx,2024-07-09,Shipped
+UPS,2024-01-25,Shipped
+TNT,2023-12-02,In Transit
+FedEx,2024-01-12,Delivered
+TNT,2024-06-26,In Transit
+UPS,2024-10-10,In Transit
+Amazon Logistics,2024-06-27,Shipped
+Amazon Logistics,2024-02-20,Cancelled
+DHL,2024-03-08,Pending
+Amazon Logistics,2024-09-21,In Transit
+UPS,2024-11-02,Pending
+UPS,2024-01-17,In Transit
+TNT,2024-08-17,Pending
+FedEx,2024-03-27,Pending
+DHL,2024-08-17,Delivered
+Amazon Logistics,2024-04-04,Pending
+DHL,2024-05-08,Shipped
+USPS,2023-12-26,Cancelled
+FedEx,2024-05-17,Shipped
+FedEx,2024-03-24,Pending
+UPS,2024-11-18,Shipped
+TNT,2024-10-30,Shipped
+DHL,2024-07-04,In Transit
+USPS,2024-05-04,Shipped
+DHL,2024-11-23,Pending
+UPS,2024-06-02,Cancelled
+UPS,2024-02-29,Pending
+DHL,2024-04-12,Pending
+UPS,2024-05-28,Cancelled
+TNT,2024-11-02,In Transit
+DHL,2024-02-19,Cancelled
+FedEx,2024-08-11,In Transit
+USPS,2024-10-11,Cancelled
+UPS,2024-10-03,Delivered
+TNT,2024-01-07,Pending
+TNT,2024-01-26,Shipped
+USPS,2024-02-22,Pending
+FedEx,2023-12-19,Delivered
+USPS,2024-06-09,In Transit
+UPS,2024-02-27,Shipped
+DHL,2024-01-18,Cancelled
+Amazon Logistics,2024-08-01,In Transit
+UPS,2023-12-03,Cancelled
+TNT,2023-12-27,In Transit
+USPS,2024-01-06,Delivered
+DHL,2024-04-20,Delivered
+UPS,2024-01-18,Delivered
+UPS,2024-08-10,In Transit
+TNT,2024-01-01,Pending
+UPS,2024-02-04,Cancelled
+DHL,2024-04-13,In Transit
+UPS,2024-06-12,Delivered
+USPS,2024-01-25,Shipped
+DHL,2024-02-12,Shipped
+TNT,2024-03-08,Cancelled
+FedEx,2024-10-11,Delivered
+TNT,2024-03-19,Cancelled
+UPS,2024-03-28,In Transit
+TNT,2024-05-23,In Transit
+FedEx,2024-06-30,Delivered
+TNT,2024-10-12,Delivered
+TNT,2024-09-07,Cancelled
+FedEx,2024-07-11,In Transit
+TNT,2024-03-12,In Transit
+TNT,2024-09-24,Pending
+USPS,2024-06-22,Shipped
+FedEx,2024-06-07,Shipped
+TNT,2024-05-17,Delivered
+USPS,2024-10-16,Cancelled
+USPS,2024-07-02,Pending
+UPS,2024-08-17,Cancelled
+UPS,2024-11-07,Delivered
+DHL,2024-09-05,In Transit
+FedEx,2024-04-01,Delivered
+USPS,2024-06-02,Delivered
+DHL,2024-01-26,Cancelled
+TNT,2024-11-04,Pending
+UPS,2024-04-01,Shipped
+TNT,2024-10-13,Cancelled
+UPS,2024-10-29,Delivered
+TNT,2024-07-10,In Transit
+DHL,2024-09-16,Delivered
+Amazon Logistics,2024-08-16,In Transit
+Amazon Logistics,2024-08-15,Cancelled
+Amazon Logistics,2024-02-17,Shipped
+UPS,2024-01-05,Shipped
+TNT,2024-09-14,Delivered
+UPS,2024-07-25,Shipped
+Amazon Logistics,2023-12-20,Delivered
+TNT,2024-09-10,Delivered
+USPS,2024-05-11,Delivered
+UPS,2024-03-01,Delivered
+USPS,2024-10-21,Cancelled
+DHL,2024-10-09,Shipped
+USPS,2023-12-09,Shipped
+TNT,2024-03-22,Delivered
+TNT,2024-06-17,Pending
+UPS,2024-02-10,Delivered
+USPS,2024-05-10,Delivered
+DHL,2024-04-21,Delivered
+DHL,2024-06-10,Shipped
+Amazon Logistics,2024-11-13,Delivered
+UPS,2024-02-02,Cancelled
+TNT,2024-08-01,Cancelled
+TNT,2024-07-01,Shipped
+DHL,2024-06-17,Pending
+FedEx,2023-12-02,Shipped
+UPS,2024-10-15,Cancelled
+Amazon Logistics,2024-05-24,In Transit
+UPS,2024-09-03,Cancelled
+FedEx,2024-08-29,Pending
+USPS,2024-02-09,Shipped
+TNT,2024-08-07,Delivered
+TNT,2024-10-06,Pending
+FedEx,2024-01-26,Shipped
+Amazon Logistics,2024-11-04,Delivered
+Amazon Logistics,2024-01-10,Pending
+Amazon Logistics,2024-06-28,In Transit
+UPS,2024-10-29,Cancelled
+FedEx,2024-02-12,In Transit
+FedEx,2024-10-01,Shipped
+FedEx,2024-10-10,In Transit
+DHL,2024-10-15,Delivered
+UPS,2024-11-17,Pending
+Amazon Logistics,2024-03-11,Cancelled
+USPS,2024-03-25,In Transit
+Amazon Logistics,2024-01-15,Shipped
+FedEx,2024-08-07,Pending
+USPS,2024-01-07,In Transit
+TNT,2024-02-12,Pending
+USPS,2024-02-25,Delivered
+Amazon Logistics,2024-09-24,Delivered
+FedEx,2024-09-09,Cancelled
+UPS,2024-02-29,Delivered
+USPS,2024-04-08,Pending
+TNT,2024-06-27,Cancelled
+DHL,2024-02-26,Shipped
+UPS,2024-10-10,Cancelled
+USPS,2024-02-16,Cancelled
+TNT,2024-09-10,Shipped
+Amazon Logistics,2024-04-18,In Transit
+Amazon Logistics,2024-07-05,Pending
+TNT,2024-01-12,Pending
+FedEx,2024-08-14,Pending
+DHL,2024-11-09,Cancelled
+USPS,2024-09-10,Delivered
+TNT,2024-03-04,In Transit
+UPS,2024-04-03,Pending
+Amazon Logistics,2023-12-16,Delivered
+DHL,2024-04-23,Shipped
+Amazon Logistics,2024-03-09,Pending
+TNT,2024-02-13,Delivered
+FedEx,2024-05-06,Delivered
+UPS,2024-11-22,Cancelled
+TNT,2024-10-04,Cancelled
+USPS,2024-01-01,Pending
+FedEx,2024-08-07,Pending
+UPS,2024-04-07,Delivered
+DHL,2024-06-02,Shipped
+TNT,2024-04-26,Delivered
+DHL,2024-05-18,Shipped
+DHL,2024-01-20,In Transit
+Amazon Logistics,2023-12-07,Delivered
+UPS,2023-12-13,Cancelled
+USPS,2024-01-13,Delivered
+UPS,2023-12-26,In Transit
+Amazon Logistics,2024-11-23,In Transit
+FedEx,2024-09-23,Shipped
+TNT,2024-06-17,Delivered
+Amazon Logistics,2024-09-26,Pending
+FedEx,2024-04-28,In Transit
+TNT,2024-07-18,Pending
+Amazon Logistics,2024-08-23,Pending
+FedEx,2024-09-26,Pending
+Amazon Logistics,2024-03-13,Cancelled
+TNT,2024-06-27,Delivered
+Amazon Logistics,2024-07-01,Shipped
+TNT,2024-09-23,Shipped
+TNT,2024-03-19,Cancelled
+DHL,2024-11-21,Pending
+USPS,2024-10-12,Delivered
+UPS,2024-10-07,Cancelled
+DHL,2024-02-23,Cancelled
+FedEx,2024-11-26,In Transit
+USPS,2024-06-15,Delivered
+DHL,2024-03-27,Cancelled
+DHL,2024-10-09,Pending
+USPS,2024-04-29,In Transit
+UPS,2024-03-10,In Transit
+TNT,2024-04-22,Cancelled
+DHL,2024-10-13,Cancelled
+UPS,2024-08-13,Shipped
+FedEx,2024-09-09,In Transit
+UPS,2024-11-12,Pending
+USPS,2024-08-02,Delivered
+UPS,2024-08-24,In Transit
+DHL,2023-12-02,Cancelled
+TNT,2024-02-26,Delivered
+TNT,2024-07-10,Shipped
+TNT,2024-01-06,Cancelled
+TNT,2024-07-03,Pending
+USPS,2024-09-03,Pending
+TNT,2023-12-12,Shipped
+Amazon Logistics,2024-01-21,Shipped
+UPS,2023-11-29,In Transit
+DHL,2024-05-22,Shipped
+UPS,2024-07-20,Pending
+DHL,2024-06-30,In Transit
+UPS,2024-10-06,Delivered
+UPS,2024-01-12,Pending
+USPS,2024-10-19,Shipped
+USPS,2023-12-05,In Transit
+TNT,2024-01-22,Cancelled
+USPS,2024-08-03,Shipped
+Amazon Logistics,2023-12-05,Delivered
+FedEx,2024-04-14,Delivered
+Amazon Logistics,2024-06-04,Delivered
+UPS,2024-10-18,In Transit
+UPS,2024-02-05,Shipped
+TNT,2024-02-12,Delivered
+Amazon Logistics,2024-07-02,Shipped
+USPS,2024-06-28,In Transit
+UPS,2024-11-11,Delivered
+TNT,2024-08-17,In Transit
+DHL,2024-11-08,Shipped
+UPS,2023-11-29,Pending
+TNT,2024-11-04,Delivered
+DHL,2024-10-31,Cancelled
+TNT,2024-10-24,Shipped
+Amazon Logistics,2024-06-06,Delivered
+UPS,2024-01-24,Delivered
+FedEx,2024-09-21,Shipped
+TNT,2024-04-09,Delivered
+TNT,2024-06-21,Shipped
+FedEx,2024-03-21,Cancelled
+Amazon Logistics,2024-08-16,Delivered
+FedEx,2024-03-31,Cancelled
+FedEx,2024-11-10,Delivered
+TNT,2024-11-12,In Transit
+USPS,2024-11-17,Pending
+USPS,2023-12-24,Cancelled
+UPS,2024-03-29,Pending
+TNT,2024-04-16,Shipped
+DHL,2024-06-30,Shipped
+UPS,2023-12-09,Shipped
+DHL,2024-01-17,Delivered
+FedEx,2024-06-05,Delivered
+TNT,2024-07-28,Cancelled
+Amazon Logistics,2024-06-13,In Transit
+FedEx,2024-10-13,Delivered
+FedEx,2024-09-02,Cancelled
+TNT,2024-01-17,Pending
+TNT,2024-10-08,Cancelled
+TNT,2024-04-19,Delivered
+DHL,2024-07-16,In Transit
+USPS,2024-09-02,In Transit
+UPS,2024-02-25,Cancelled
+USPS,2024-09-28,Cancelled
+FedEx,2024-01-25,Pending
+USPS,2023-12-27,In Transit
+Amazon Logistics,2024-03-23,Cancelled
+TNT,2024-01-26,Cancelled
+UPS,2024-03-17,Delivered
+USPS,2024-06-15,Cancelled
+UPS,2024-11-05,Cancelled
+FedEx,2024-06-17,Pending
+FedEx,2024-05-07,Cancelled
+FedEx,2024-10-31,Cancelled
+Amazon Logistics,2024-03-19,Delivered
+Amazon Logistics,2024-01-29,In Transit
+FedEx,2024-07-09,Pending
+FedEx,2024-08-13,Shipped
+UPS,2024-03-15,In Transit
+UPS,2024-05-22,Pending
+TNT,2024-03-03,Shipped
+DHL,2024-07-05,Shipped
+TNT,2024-07-04,Shipped
+USPS,2024-07-02,In Transit
+TNT,2024-01-01,Delivered
+DHL,2024-06-25,In Transit
+DHL,2024-10-09,Cancelled
+FedEx,2024-05-26,Shipped
+UPS,2024-11-22,Cancelled
+DHL,2024-02-18,Delivered
+USPS,2024-03-29,In Transit
+FedEx,2023-12-29,Pending
+UPS,2023-12-24,Delivered
+TNT,2024-01-22,Pending
+UPS,2024-01-30,Pending
+Amazon Logistics,2024-06-26,Delivered
+Amazon Logistics,2024-06-19,Cancelled
+USPS,2024-07-10,Shipped
+FedEx,2024-08-07,Shipped
+UPS,2024-03-08,Cancelled
+FedEx,2024-04-17,In Transit
+FedEx,2024-08-09,Cancelled
+TNT,2024-06-18,Delivered
+USPS,2024-10-22,Shipped
+USPS,2024-09-02,Shipped
+FedEx,2024-03-24,Shipped
+FedEx,2024-07-20,Pending
+TNT,2024-11-14,Shipped
+TNT,2024-09-03,Cancelled
+Amazon Logistics,2024-08-25,Shipped
+Amazon Logistics,2024-10-04,In Transit
+FedEx,2024-09-19,Delivered
+UPS,2024-08-07,Delivered
+USPS,2024-08-31,Delivered
+FedEx,2024-04-07,Cancelled
+USPS,2024-03-25,Pending
+Amazon Logistics,2024-02-06,Shipped
+USPS,2024-05-01,Delivered
+Amazon Logistics,2024-07-15,In Transit
+Amazon Logistics,2024-02-14,Cancelled
+FedEx,2024-09-03,Pending
+USPS,2024-05-27,In Transit
+Amazon Logistics,2024-04-12,In Transit
+TNT,2024-02-13,Delivered
+UPS,2024-08-19,Cancelled
+Amazon Logistics,2024-06-27,Shipped
+UPS,2024-05-24,Delivered
+UPS,2023-12-08,In Transit
+FedEx,2024-10-02,In Transit
+FedEx,2024-08-02,Delivered
+FedEx,2024-05-02,Cancelled
+Amazon Logistics,2024-07-27,In Transit
+Amazon Logistics,2024-03-20,In Transit
+Amazon Logistics,2024-07-25,In Transit
+UPS,2024-02-10,Cancelled
+DHL,2023-12-03,In Transit
+Amazon Logistics,2024-06-18,Cancelled
+UPS,2024-08-16,Pending
+Amazon Logistics,2024-04-12,Shipped
+Amazon Logistics,2023-12-15,Delivered
+USPS,2024-11-03,In Transit
+UPS,2024-05-24,Pending
+FedEx,2024-06-02,Cancelled
+Amazon Logistics,2024-03-04,Pending
+DHL,2023-12-23,Pending
+USPS,2024-01-28,Delivered
+USPS,2024-01-03,In Transit
+Amazon Logistics,2024-11-23,Pending
+Amazon Logistics,2024-10-28,Pending
+USPS,2024-07-10,Pending
+USPS,2023-11-28,Cancelled
+Amazon Logistics,2024-06-20,In Transit
+TNT,2024-09-03,Pending
+UPS,2024-01-21,In Transit
+DHL,2024-05-02,In Transit
+DHL,2024-04-26,Shipped
+USPS,2024-08-22,Shipped
+Amazon Logistics,2024-03-04,Pending
+DHL,2024-08-31,Shipped
+UPS,2024-09-12,Delivered
+TNT,2024-02-02,Pending
+TNT,2024-09-27,Delivered
+Amazon Logistics,2024-02-24,In Transit
+USPS,2024-10-23,Delivered
+DHL,2024-05-25,In Transit
+Amazon Logistics,2024-09-17,Shipped
+TNT,2024-09-18,Pending
+DHL,2024-09-17,Cancelled
+TNT,2023-12-21,Delivered
+DHL,2023-12-14,In Transit
+FedEx,2023-11-28,In Transit
+USPS,2024-06-23,In Transit
+DHL,2024-08-20,Pending
+UPS,2024-05-26,Pending
+USPS,2024-04-20,In Transit
+FedEx,2024-04-21,Shipped
+UPS,2024-06-26,In Transit
+USPS,2024-10-18,Pending
+Amazon Logistics,2024-04-03,Cancelled
+Amazon Logistics,2024-10-23,Cancelled
+UPS,2024-11-24,Pending
+UPS,2024-04-23,Cancelled
+USPS,2024-11-07,In Transit
+TNT,2024-02-17,Cancelled
+UPS,2024-06-12,Shipped
+FedEx,2024-04-01,Delivered
+TNT,2024-03-18,In Transit
+TNT,2024-06-25,Cancelled
+FedEx,2024-04-08,In Transit
+USPS,2024-04-29,Shipped
+Amazon Logistics,2024-09-18,In Transit
+USPS,2024-07-05,Shipped
+USPS,2024-10-13,Pending
+UPS,2023-12-24,Pending
+USPS,2024-02-27,Shipped
+TNT,2024-05-30,Delivered
+USPS,2024-04-28,Cancelled
+USPS,2024-10-31,Delivered
+TNT,2024-11-05,Cancelled
+TNT,2024-02-12,Shipped
+DHL,2024-06-24,Pending
+FedEx,2024-08-15,Delivered
+DHL,2024-07-29,In Transit
+DHL,2024-06-12,Cancelled
+Amazon Logistics,2024-10-10,Pending
+UPS,2024-06-17,Shipped
+TNT,2024-01-09,Delivered
+Amazon Logistics,2024-06-02,In Transit
+USPS,2024-07-31,In Transit
+DHL,2024-10-03,Delivered
+UPS,2024-08-12,Cancelled
+Amazon Logistics,2024-05-08,Pending
+USPS,2024-03-27,Shipped
+USPS,2024-11-17,Pending
+UPS,2024-10-11,Shipped
+DHL,2024-11-25,In Transit
+UPS,2024-05-14,In Transit
+TNT,2024-09-06,Cancelled
+TNT,2024-02-19,Shipped
+DHL,2024-09-25,Delivered
+USPS,2024-04-15,Delivered
+Amazon Logistics,2024-07-26,Delivered
+DHL,2024-05-15,Delivered
+UPS,2024-10-21,Pending
+Amazon Logistics,2024-08-04,Shipped
+FedEx,2024-03-24,Pending
+Amazon Logistics,2024-11-12,Shipped
+DHL,2024-07-22,In Transit
+DHL,2024-07-15,Delivered
+DHL,2024-01-26,Delivered
+DHL,2024-06-19,Cancelled
+TNT,2024-10-19,Delivered
+UPS,2024-04-26,Pending
+TNT,2024-04-18,Delivered
+DHL,2023-12-08,Delivered
+UPS,2024-09-11,Delivered
+UPS,2024-05-18,Cancelled
+FedEx,2024-04-26,In Transit
+DHL,2023-12-01,Pending
+TNT,2024-08-23,Cancelled
+Amazon Logistics,2024-02-03,Pending
+DHL,2024-01-24,Shipped
+Amazon Logistics,2024-06-06,Shipped
+TNT,2024-08-03,Delivered
+Amazon Logistics,2024-01-31,In Transit
+FedEx,2024-02-01,Shipped
+USPS,2024-02-09,In Transit
+FedEx,2024-05-07,Shipped
+DHL,2024-07-04,Shipped
+Amazon Logistics,2024-10-15,In Transit
+TNT,2024-03-10,Pending
+USPS,2023-12-20,Cancelled
+TNT,2024-06-29,Delivered
+UPS,2024-09-05,In Transit
+TNT,2024-11-21,Pending
+DHL,2024-05-31,Cancelled
+DHL,2024-04-18,Cancelled
+FedEx,2024-05-23,Shipped
+DHL,2024-07-09,Cancelled
+TNT,2023-12-18,Shipped
+TNT,2024-08-16,Delivered
+DHL,2024-08-07,Shipped
+FedEx,2024-06-14,Delivered
+USPS,2024-09-03,Shipped
+Amazon Logistics,2024-05-10,Cancelled
+Amazon Logistics,2024-05-24,Delivered
+UPS,2024-05-30,In Transit
+DHL,2024-01-17,Cancelled
+TNT,2024-03-15,Shipped
+FedEx,2023-12-04,Pending
+FedEx,2024-03-19,Delivered
+FedEx,2024-03-10,Cancelled
+DHL,2024-10-14,Delivered
+DHL,2023-11-30,Pending
+FedEx,2024-07-29,Shipped
+Amazon Logistics,2024-05-13,Delivered
+FedEx,2024-04-11,Cancelled
+DHL,2024-10-12,Pending
+Amazon Logistics,2024-07-15,Shipped
+FedEx,2024-08-16,Shipped
+Amazon Logistics,2024-10-17,Delivered
+Amazon Logistics,2023-12-27,In Transit
+USPS,2024-03-05,Cancelled
+DHL,2024-06-25,Shipped
+Amazon Logistics,2023-12-22,Delivered
+FedEx,2024-08-16,Cancelled
+TNT,2024-02-16,Cancelled
+FedEx,2024-04-14,Pending
+FedEx,2024-05-01,Pending
+Amazon Logistics,2024-08-29,Delivered
+DHL,2024-02-20,Pending
+Amazon Logistics,2024-04-04,Delivered
+UPS,2024-10-13,Shipped
+UPS,2024-09-14,Shipped
+TNT,2024-05-11,Pending
+FedEx,2024-02-01,In Transit
+UPS,2024-06-01,Pending
+UPS,2024-05-30,Cancelled
+Amazon Logistics,2024-08-31,Pending
+TNT,2024-09-10,Cancelled
+Amazon Logistics,2024-04-08,Delivered
+UPS,2023-12-30,Shipped
+DHL,2024-05-22,Cancelled
+FedEx,2024-05-04,Cancelled
+USPS,2024-04-17,Shipped
+USPS,2024-03-14,Delivered
+Amazon Logistics,2024-03-12,Cancelled
+DHL,2024-04-12,Pending
+FedEx,2024-07-14,Cancelled
+DHL,2024-11-20,Shipped
+TNT,2023-12-28,Delivered
+UPS,2024-11-09,Shipped
+Amazon Logistics,2024-06-05,Pending
+Amazon Logistics,2024-04-16,In Transit
+FedEx,2024-10-14,Shipped
+DHL,2024-02-21,Cancelled
+USPS,2023-12-29,Shipped
+Amazon Logistics,2024-02-27,Cancelled
+TNT,2024-09-15,Delivered
+DHL,2024-02-16,Pending
+TNT,2024-08-03,Pending
+USPS,2024-10-05,Delivered
+FedEx,2024-11-18,In Transit
+UPS,2024-09-04,Pending
+TNT,2024-08-26,Pending
+Amazon Logistics,2024-06-06,Shipped
+UPS,2024-08-13,In Transit
+TNT,2024-09-28,In Transit
+FedEx,2024-11-05,Pending
+Amazon Logistics,2024-08-13,In Transit
+USPS,2024-03-22,Cancelled
+USPS,2024-04-19,Delivered
+USPS,2024-07-13,Delivered
+USPS,2024-06-07,Pending
+DHL,2024-03-05,Pending
+USPS,2024-05-19,Cancelled
+USPS,2024-07-31,Delivered
+FedEx,2024-07-23,Shipped
+UPS,2024-01-29,In Transit
+DHL,2024-10-15,In Transit
+USPS,2024-02-17,Delivered
+Amazon Logistics,2024-05-02,Cancelled
+FedEx,2024-10-26,In Transit
+Amazon Logistics,2024-06-20,Delivered
+FedEx,2024-02-11,Pending
+FedEx,2024-11-25,Pending
+FedEx,2024-09-08,Cancelled
+TNT,2023-12-12,Pending
+FedEx,2024-11-18,In Transit
+USPS,2024-03-18,Pending
+UPS,2023-12-18,Cancelled
+Amazon Logistics,2024-07-19,Delivered
+TNT,2024-03-13,In Transit
+Amazon Logistics,2024-10-03,Shipped
+TNT,2024-08-12,Delivered
+USPS,2024-03-20,Delivered
+USPS,2024-04-02,In Transit
+TNT,2023-12-10,Delivered
+TNT,2024-01-08,Shipped
+DHL,2024-11-07,Pending
+TNT,2024-05-09,Pending
+Amazon Logistics,2024-08-07,Delivered
+UPS,2024-02-24,Shipped
+USPS,2024-04-25,Cancelled
+USPS,2023-12-22,Pending
+FedEx,2024-08-20,Shipped
+Amazon Logistics,2023-12-10,Pending
+TNT,2024-04-21,Cancelled
+DHL,2024-10-05,Delivered
+UPS,2024-10-17,Delivered
+TNT,2024-11-03,Shipped
+TNT,2023-12-20,Cancelled
+DHL,2024-11-16,Pending
+TNT,2024-01-21,In Transit
+UPS,2023-12-14,Delivered
+DHL,2024-04-08,Shipped
+TNT,2024-05-01,Cancelled
+USPS,2024-02-14,Pending
+DHL,2024-01-20,In Transit
+Amazon Logistics,2024-10-21,In Transit
+DHL,2024-11-11,Pending
+USPS,2024-04-19,Delivered
+Amazon Logistics,2024-06-04,In Transit
+UPS,2024-01-11,Cancelled
+FedEx,2024-10-08,Delivered
+DHL,2024-07-27,Cancelled
+DHL,2024-02-08,Cancelled
+USPS,2024-04-24,Pending
+Amazon Logistics,2024-07-16,Delivered
+DHL,2024-10-22,Delivered
+FedEx,2024-02-28,Pending
+UPS,2023-12-07,Pending
+UPS,2024-03-24,Pending
+TNT,2024-02-19,Cancelled
+Amazon Logistics,2023-12-19,Cancelled
+DHL,2024-02-11,Cancelled
+UPS,2023-12-09,Shipped
+UPS,2024-03-16,Cancelled
+TNT,2024-05-18,Shipped
+Amazon Logistics,2024-09-02,Pending
+USPS,2024-08-23,Delivered
+Amazon Logistics,2024-02-18,Shipped
+FedEx,2023-12-15,Delivered
+TNT,2024-05-30,Cancelled
+USPS,2024-05-28,Cancelled
+FedEx,2024-10-11,Cancelled
+USPS,2024-05-15,In Transit
+FedEx,2024-05-20,Delivered
+DHL,2024-08-12,In Transit
+UPS,2023-12-20,Pending
+UPS,2023-12-19,Cancelled
+FedEx,2023-12-18,Cancelled
+Amazon Logistics,2024-08-05,In Transit
+USPS,2023-12-04,Pending
+DHL,2024-07-03,In Transit
+TNT,2024-05-06,In Transit
+FedEx,2024-02-28,In Transit
+DHL,2023-12-30,Delivered
+DHL,2024-10-16,Cancelled
+DHL,2024-07-11,Shipped
+DHL,2024-10-12,Pending
+FedEx,2024-07-26,Cancelled
+DHL,2023-12-06,Delivered
+DHL,2024-05-04,Cancelled
+FedEx,2024-10-15,Shipped
+USPS,2024-07-19,Delivered
+TNT,2024-06-14,Cancelled
+DHL,2024-09-23,Pending
+DHL,2024-02-14,Cancelled
+DHL,2024-04-17,Pending
+DHL,2024-05-09,Shipped
+Amazon Logistics,2024-02-07,Pending
+USPS,2024-10-15,Cancelled
+USPS,2024-08-01,In Transit
+DHL,2024-02-09,Shipped
+UPS,2024-09-12,Delivered
+UPS,2024-08-22,In Transit
+UPS,2024-06-18,Pending
+DHL,2024-11-17,Delivered
+UPS,2024-05-25,Shipped
+UPS,2024-05-26,Cancelled
+USPS,2024-02-25,Cancelled
+DHL,2023-12-02,Shipped
+TNT,2024-03-12,Pending
+UPS,2023-12-31,Shipped
+USPS,2024-04-09,In Transit
+DHL,2024-05-12,Cancelled
+FedEx,2024-07-01,In Transit
+UPS,2024-09-18,Shipped
+TNT,2024-02-11,Shipped
+DHL,2024-06-14,Delivered
+Amazon Logistics,2024-07-21,In Transit
+UPS,2024-05-18,Shipped
+FedEx,2024-10-14,Shipped
+USPS,2024-03-14,In Transit
+DHL,2024-09-01,Shipped
+UPS,2024-04-14,Shipped
+USPS,2024-05-12,Shipped
+FedEx,2024-06-30,Shipped
+TNT,2024-11-09,Cancelled
+DHL,2024-03-17,Cancelled
+UPS,2024-02-06,Pending
+UPS,2024-05-11,Pending
+USPS,2024-05-28,Pending
+Amazon Logistics,2024-10-18,Pending
+DHL,2024-04-04,Pending
+Amazon Logistics,2024-11-24,Cancelled
+FedEx,2024-06-22,Pending
+Amazon Logistics,2023-12-12,Delivered
+USPS,2023-12-31,In Transit
+Amazon Logistics,2024-02-05,In Transit
+TNT,2024-06-08,In Transit
+USPS,2024-04-13,Cancelled
+FedEx,2024-03-01,Cancelled
+USPS,2024-04-07,Cancelled
+USPS,2024-05-13,Cancelled
+FedEx,2024-06-17,Cancelled
+DHL,2024-09-07,Pending
+DHL,2024-08-30,Delivered
+USPS,2024-03-16,Delivered
+TNT,2024-02-03,Shipped
+UPS,2024-10-13,Shipped
+TNT,2024-02-26,Pending
+FedEx,2023-12-13,Delivered
+Amazon Logistics,2024-06-11,In Transit
+Amazon Logistics,2024-11-16,Shipped
+DHL,2024-01-30,In Transit
+USPS,2024-04-15,In Transit
+FedEx,2024-05-22,Pending
+FedEx,2024-11-13,In Transit
+DHL,2024-11-17,Delivered
+Amazon Logistics,2024-01-02,Cancelled
+TNT,2024-07-09,In Transit
+Amazon Logistics,2024-10-23,Cancelled
+Amazon Logistics,2024-01-19,In Transit
+FedEx,2024-08-12,Delivered
+TNT,2024-04-04,Pending
+UPS,2024-04-09,Delivered
+TNT,2023-12-27,Cancelled
+FedEx,2024-04-18,Cancelled
+DHL,2024-03-22,Pending
+UPS,2024-08-23,Cancelled
+FedEx,2024-04-15,In Transit
+TNT,2024-09-28,In Transit
+USPS,2024-10-10,Shipped
+Amazon Logistics,2024-03-30,Cancelled
+UPS,2024-09-10,Delivered
+DHL,2024-06-23,Shipped
+FedEx,2024-09-20,Pending
+TNT,2024-06-17,Cancelled
+TNT,2024-10-23,Cancelled
+Amazon Logistics,2024-11-18,In Transit
+USPS,2024-03-18,Pending
+FedEx,2024-11-03,Shipped
+UPS,2024-06-08,Shipped
+UPS,2024-01-12,Pending
+Amazon Logistics,2024-10-21,Delivered
+TNT,2024-02-08,Pending
+Amazon Logistics,2024-11-14,In Transit
+TNT,2024-04-04,Shipped
+UPS,2024-09-17,Delivered
+FedEx,2024-06-22,Cancelled
+FedEx,2024-03-04,Shipped
+UPS,2024-07-04,Pending
+UPS,2024-01-27,Delivered
+USPS,2024-06-05,Pending
+DHL,2024-11-21,Shipped
+USPS,2024-01-04,Delivered
+Amazon Logistics,2024-04-30,Shipped
+USPS,2024-10-05,In Transit
+UPS,2024-05-30,Pending
+FedEx,2024-07-31,Shipped
+DHL,2024-10-23,In Transit
+USPS,2024-06-03,Pending
+UPS,2024-08-15,Shipped
+FedEx,2023-11-28,In Transit
+Amazon Logistics,2024-07-08,Cancelled
+USPS,2024-11-06,In Transit
+UPS,2024-07-02,Pending
+UPS,2024-11-01,Pending
+FedEx,2024-01-03,Cancelled
+Amazon Logistics,2024-07-31,In Transit
+DHL,2024-04-27,In Transit
+DHL,2024-01-19,Shipped
+FedEx,2024-08-14,Pending
+USPS,2023-12-15,Pending
+DHL,2023-12-29,Shipped
+Amazon Logistics,2024-06-11,Cancelled
+DHL,2024-07-27,Delivered
+TNT,2024-09-20,In Transit
+UPS,2024-02-04,Cancelled
+FedEx,2024-03-22,Delivered
+USPS,2023-12-09,Shipped
+USPS,2024-10-05,Cancelled
+UPS,2024-10-17,Delivered
+DHL,2024-07-13,Pending
+TNT,2024-04-08,Shipped
+FedEx,2024-03-02,Cancelled
+UPS,2023-12-02,Delivered
+Amazon Logistics,2024-02-29,Cancelled
+USPS,2024-06-20,Shipped
+Amazon Logistics,2024-06-23,Delivered
+TNT,2024-07-21,Pending
+DHL,2024-08-26,In Transit
+DHL,2024-07-21,Shipped
+TNT,2024-01-04,Pending
+TNT,2024-03-23,Shipped
+USPS,2024-01-31,Cancelled
+TNT,2024-06-08,Delivered
+DHL,2024-03-04,Pending
+FedEx,2023-12-08,In Transit
+UPS,2024-03-27,Shipped
+DHL,2024-06-10,Pending
+Amazon Logistics,2024-07-17,In Transit
+TNT,2024-10-26,Cancelled
+UPS,2024-07-15,Cancelled
+FedEx,2024-01-21,Shipped
+UPS,2024-04-17,In Transit
+FedEx,2024-01-20,Cancelled
+UPS,2024-11-07,Delivered
+FedEx,2024-09-28,Pending
+USPS,2024-10-17,Cancelled
+FedEx,2024-02-16,Shipped
+UPS,2024-11-06,Pending
+TNT,2024-03-17,Delivered
+FedEx,2024-08-11,Pending
+Amazon Logistics,2024-10-13,Cancelled
+FedEx,2024-04-19,Shipped
+TNT,2024-02-24,In Transit
+UPS,2024-03-01,Shipped
+UPS,2024-07-26,Shipped
+FedEx,2024-10-27,In Transit
+UPS,2023-12-05,Shipped
+DHL,2024-03-07,Delivered
+USPS,2024-05-04,Delivered
+FedEx,2024-01-21,Shipped
+UPS,2024-07-07,In Transit
+FedEx,2024-04-18,Delivered
+Amazon Logistics,2024-03-21,Delivered
+FedEx,2024-10-16,Cancelled
+FedEx,2024-07-13,In Transit
+USPS,2024-07-11,Delivered
+UPS,2024-08-20,Pending
+Amazon Logistics,2024-02-29,Pending
+Amazon Logistics,2024-04-22,Delivered
+DHL,2024-04-02,Pending
+UPS,2024-03-12,In Transit
+UPS,2024-11-11,Shipped
+DHL,2024-03-09,Cancelled
+FedEx,2024-06-16,Delivered
+Amazon Logistics,2024-06-27,Cancelled
+TNT,2024-03-19,Pending
+FedEx,2024-05-25,Delivered
+Amazon Logistics,2024-01-12,In Transit
+Amazon Logistics,2024-02-16,Cancelled
+DHL,2024-06-27,Delivered
+USPS,2023-12-26,In Transit
+Amazon Logistics,2024-06-21,In Transit
+Amazon Logistics,2024-05-12,Shipped
+DHL,2024-05-02,Cancelled
+DHL,2024-04-04,Cancelled
+DHL,2024-08-03,Cancelled
+USPS,2024-06-21,Pending
+DHL,2024-09-10,In Transit
+FedEx,2024-09-08,Cancelled
+TNT,2024-08-06,In Transit
+USPS,2024-10-21,Delivered
+DHL,2024-05-06,In Transit
+UPS,2023-12-27,Pending
+USPS,2024-07-08,Shipped
+FedEx,2024-04-16,Cancelled
+USPS,2024-02-26,Pending
+FedEx,2024-09-03,Cancelled
+UPS,2024-10-06,Shipped
+UPS,2024-06-15,Shipped
+TNT,2024-01-13,Delivered
+UPS,2024-08-10,In Transit
+TNT,2024-07-07,Pending
+DHL,2024-10-16,Cancelled
+FedEx,2024-04-17,In Transit
+Amazon Logistics,2023-12-11,Cancelled
+Amazon Logistics,2024-11-10,Shipped
+Amazon Logistics,2024-07-06,Delivered
+FedEx,2024-11-24,Cancelled
+FedEx,2024-02-01,Delivered
+UPS,2024-11-22,Pending
+USPS,2024-06-18,Cancelled
+FedEx,2024-05-12,In Transit
+TNT,2024-10-25,Pending
+FedEx,2024-05-06,Shipped
+Amazon Logistics,2024-10-05,Shipped
+FedEx,2024-10-02,Shipped
+FedEx,2024-11-15,Shipped
+UPS,2024-06-14,Delivered
+DHL,2024-11-06,Shipped
+FedEx,2023-12-29,Delivered
+USPS,2024-03-15,Shipped
+TNT,2024-03-08,Cancelled
+USPS,2023-12-22,Cancelled
+USPS,2024-04-11,Pending
+UPS,2024-03-17,Cancelled
+TNT,2023-12-27,Delivered
+USPS,2024-03-28,Cancelled
+FedEx,2024-01-09,Shipped
+DHL,2024-10-29,Cancelled
+FedEx,2024-10-02,Shipped
+FedEx,2024-04-20,Pending
+Amazon Logistics,2024-03-07,Pending
+Amazon Logistics,2024-09-19,Cancelled
+USPS,2024-04-02,In Transit
+FedEx,2024-07-03,Delivered
+Amazon Logistics,2024-04-24,In Transit
+USPS,2023-12-13,Cancelled
+DHL,2023-12-10,Cancelled
+USPS,2024-09-23,In Transit
+FedEx,2024-10-25,Delivered
+FedEx,2024-11-01,Shipped
+FedEx,2023-12-01,Delivered
+UPS,2024-02-04,Shipped
+USPS,2024-04-09,Cancelled
+Amazon Logistics,2024-04-06,Pending
+TNT,2024-06-21,Cancelled
+USPS,2024-10-13,Delivered
+UPS,2023-12-25,Delivered
+DHL,2024-10-08,Pending
+UPS,2024-03-05,In Transit
+USPS,2024-03-29,Pending
+USPS,2024-10-09,In Transit
+DHL,2024-08-14,In Transit
+USPS,2024-02-28,Shipped
+UPS,2024-10-19,Pending
+DHL,2024-01-20,Shipped
+Amazon Logistics,2024-11-18,Cancelled
+DHL,2024-05-15,In Transit
+FedEx,2024-04-30,Shipped
+TNT,2024-08-11,Cancelled
+FedEx,2024-07-16,Pending
+DHL,2024-03-03,Pending
+Amazon Logistics,2024-06-28,Shipped
+FedEx,2024-04-10,Cancelled
+Amazon Logistics,2024-01-13,Cancelled
+USPS,2024-10-28,Cancelled
+Amazon Logistics,2024-10-26,Delivered
+UPS,2023-12-14,Shipped
+UPS,2024-10-22,Cancelled
+Amazon Logistics,2024-03-14,In Transit
+TNT,2024-10-12,In Transit
+UPS,2024-09-22,Cancelled
+DHL,2024-07-29,Delivered
+Amazon Logistics,2023-12-11,Cancelled
+UPS,2024-10-03,Pending
+Amazon Logistics,2024-08-26,Cancelled
+TNT,2024-10-14,Shipped
+UPS,2024-03-23,Pending
+FedEx,2024-06-27,Shipped
+TNT,2024-03-09,Shipped
+DHL,2024-10-12,Pending
+USPS,2024-02-29,In Transit
+TNT,2024-02-03,Delivered
+TNT,2024-04-09,Pending
+FedEx,2024-10-20,Cancelled
+UPS,2024-04-07,Delivered
+DHL,2024-02-21,Pending
+UPS,2024-09-13,Delivered
+USPS,2023-12-17,Pending
+TNT,2024-06-07,Cancelled
+USPS,2024-10-02,Shipped
+DHL,2024-07-25,In Transit
+DHL,2024-11-13,Delivered
+TNT,2024-10-22,Delivered
+USPS,2024-10-27,Shipped
+TNT,2024-01-08,Cancelled
+TNT,2024-07-18,In Transit
+DHL,2024-05-10,Delivered
+Amazon Logistics,2023-12-30,Pending
+TNT,2024-09-14,Shipped
+TNT,2024-10-03,Delivered
+FedEx,2024-05-07,Delivered
+DHL,2024-08-30,Shipped
+USPS,2024-10-17,Shipped
+USPS,2024-06-21,Shipped
+UPS,2024-06-08,Shipped
+Amazon Logistics,2024-09-23,Delivered
+USPS,2024-08-11,Delivered
+USPS,2024-01-29,Delivered
+DHL,2024-05-24,In Transit
+FedEx,2023-12-31,In Transit
+Amazon Logistics,2024-03-19,In Transit
+DHL,2023-12-21,Delivered
+TNT,2024-10-29,Shipped
+DHL,2024-08-17,Delivered
+DHL,2024-11-19,In Transit
+UPS,2024-06-03,In Transit
+DHL,2024-09-28,Delivered
+FedEx,2024-09-07,Cancelled
+USPS,2024-10-31,In Transit
+Amazon Logistics,2024-07-21,Cancelled
+DHL,2024-04-29,Pending
+Amazon Logistics,2024-09-28,Cancelled
+FedEx,2023-12-19,Delivered
+DHL,2024-03-03,Pending
+DHL,2024-05-30,Delivered
+USPS,2024-02-29,In Transit
+USPS,2024-11-01,Pending
+UPS,2023-12-24,Pending
+FedEx,2024-04-15,Shipped
+USPS,2024-03-11,In Transit
+UPS,2024-05-25,Shipped
+UPS,2023-12-02,In Transit
+FedEx,2024-05-27,In Transit
+USPS,2024-11-27,In Transit
+Amazon Logistics,2024-08-26,Shipped
+USPS,2024-06-03,Delivered
+FedEx,2024-04-03,In Transit
+FedEx,2024-07-19,Pending
+USPS,2024-02-05,Pending
+FedEx,2024-04-08,In Transit
+Amazon Logistics,2024-04-28,Cancelled
+Amazon Logistics,2024-10-12,Cancelled
+FedEx,2024-09-16,In Transit
+DHL,2024-06-21,Delivered
+FedEx,2024-08-19,Pending
+Amazon Logistics,2024-03-10,Delivered
+FedEx,2024-05-25,Cancelled
+Amazon Logistics,2024-04-17,Pending
+UPS,2024-03-02,Cancelled
+USPS,2024-06-24,Cancelled
+TNT,2024-10-19,Pending
+USPS,2024-11-16,In Transit
+UPS,2024-03-06,Delivered
+UPS,2024-04-06,Pending
+USPS,2024-05-25,Delivered
+UPS,2024-06-10,Pending
+FedEx,2024-08-17,Cancelled
+USPS,2024-04-17,Pending
+UPS,2024-07-05,Pending
+Amazon Logistics,2023-12-10,Delivered
+FedEx,2024-08-04,Cancelled
+UPS,2024-11-14,Shipped
+UPS,2024-02-03,Delivered
+Amazon Logistics,2024-05-07,Shipped
+USPS,2024-10-24,Cancelled
+FedEx,2024-10-30,In Transit
+USPS,2024-06-23,Delivered
+USPS,2024-07-15,Delivered
+Amazon Logistics,2024-04-05,Delivered
+DHL,2024-09-21,Pending
+Amazon Logistics,2024-04-14,In Transit
+USPS,2024-01-27,Delivered
+UPS,2024-02-21,In Transit
+Amazon Logistics,2024-09-19,Delivered
+USPS,2024-02-06,Shipped
+UPS,2024-04-28,In Transit
+FedEx,2024-07-02,Shipped
+UPS,2024-04-15,Pending
+TNT,2024-10-04,Shipped
+UPS,2024-03-12,Pending
+USPS,2023-12-18,Pending
+USPS,2024-04-10,Shipped
+TNT,2024-07-25,Delivered
+DHL,2024-06-14,Delivered
+TNT,2024-05-15,In Transit
+Amazon Logistics,2024-10-03,Delivered
+DHL,2024-08-26,In Transit
+UPS,2024-03-11,Pending
+DHL,2024-09-19,Delivered
+TNT,2024-02-01,Shipped
+TNT,2023-12-17,Cancelled
+FedEx,2024-02-21,In Transit
+USPS,2024-02-05,In Transit
+DHL,2024-08-28,Shipped
+UPS,2024-11-25,In Transit
+Amazon Logistics,2024-11-13,Pending
+TNT,2024-03-06,Delivered
+DHL,2024-08-21,Cancelled
+USPS,2024-06-15,Delivered
+Amazon Logistics,2023-12-31,Pending
+UPS,2024-09-05,Delivered
+Amazon Logistics,2024-08-02,Pending
+DHL,2024-03-11,Cancelled
+DHL,2024-01-20,Pending
+TNT,2024-05-10,Cancelled
+Amazon Logistics,2024-09-06,Cancelled
+Amazon Logistics,2024-05-13,In Transit
+USPS,2024-08-11,In Transit
+DHL,2024-01-30,In Transit
+UPS,2024-03-12,Pending
+USPS,2024-08-15,Shipped
+UPS,2024-05-24,Shipped
+UPS,2024-05-13,In Transit
+USPS,2024-07-15,In Transit
+FedEx,2024-01-17,Delivered
+UPS,2024-11-26,Pending
+UPS,2024-11-06,Pending
+UPS,2023-12-20,Cancelled
+UPS,2024-07-21,Shipped
+USPS,2024-10-25,Delivered
+UPS,2024-08-18,In Transit
+DHL,2024-06-27,Pending
+UPS,2024-03-03,Cancelled
+DHL,2024-06-30,Delivered
+Amazon Logistics,2024-10-14,In Transit
+USPS,2023-12-13,Shipped
+DHL,2024-01-16,Cancelled
+FedEx,2024-05-09,In Transit
+UPS,2024-07-08,Cancelled
+UPS,2024-08-31,Pending
+DHL,2024-04-30,Shipped
+TNT,2024-03-17,Pending
+Amazon Logistics,2024-07-03,Cancelled
+DHL,2024-08-30,Cancelled
+FedEx,2024-05-05,Pending
+DHL,2024-01-30,Cancelled
+Amazon Logistics,2024-07-02,Cancelled
+UPS,2024-10-09,Cancelled
+DHL,2024-09-30,Cancelled
+UPS,2024-03-18,Shipped
+Amazon Logistics,2024-06-13,Pending
+FedEx,2024-08-10,Pending
+FedEx,2024-09-19,Shipped
+DHL,2024-11-17,Pending
+FedEx,2023-12-29,In Transit
+TNT,2024-04-07,In Transit
+UPS,2024-10-26,Pending
+TNT,2023-12-18,Shipped
+FedEx,2023-12-27,In Transit
+TNT,2024-11-08,Delivered
+FedEx,2024-08-07,Cancelled
+DHL,2024-05-05,Delivered
+UPS,2024-02-17,Shipped
+FedEx,2024-05-04,Pending
+Amazon Logistics,2024-05-16,Shipped
+Amazon Logistics,2024-11-10,Pending
+DHL,2024-08-08,Delivered
+USPS,2024-11-09,In Transit
+UPS,2023-12-01,Cancelled
+UPS,2024-05-03,Pending
+DHL,2024-02-25,Shipped
+Amazon Logistics,2024-05-01,In Transit
+FedEx,2024-04-18,Pending
+Amazon Logistics,2024-08-06,Delivered
+DHL,2024-07-24,Cancelled
+UPS,2024-10-25,Shipped
+UPS,2024-02-14,Delivered
+DHL,2024-05-23,In Transit
+DHL,2024-11-22,Delivered
+TNT,2024-03-09,Pending
+USPS,2024-11-23,Cancelled
+Amazon Logistics,2024-02-05,Pending
+USPS,2024-07-05,Cancelled
+FedEx,2024-10-23,Shipped
+TNT,2024-06-14,In Transit
+TNT,2024-10-21,Cancelled
+TNT,2024-06-08,In Transit
+DHL,2024-04-24,Shipped
+FedEx,2024-02-01,Cancelled
+UPS,2024-08-28,Cancelled
+FedEx,2024-10-26,Shipped
+Amazon Logistics,2023-11-30,Pending
+DHL,2024-11-14,Delivered
+TNT,2024-05-07,Cancelled
+Amazon Logistics,2024-06-17,Pending
+TNT,2024-05-25,Cancelled
+FedEx,2024-02-09,In Transit
+Amazon Logistics,2024-10-10,Shipped
+TNT,2024-06-24,Cancelled
+FedEx,2024-05-25,Pending
+TNT,2024-01-29,Shipped
+Amazon Logistics,2023-12-15,Shipped
+TNT,2024-04-05,Cancelled
+FedEx,2024-05-08,Shipped
+USPS,2024-06-03,Cancelled
+Amazon Logistics,2024-05-21,Cancelled
+FedEx,2024-03-10,Pending
+DHL,2024-07-02,In Transit
+USPS,2024-09-29,In Transit
+TNT,2024-06-29,Delivered
+USPS,2023-12-05,Cancelled
+UPS,2024-05-24,Pending
+FedEx,2024-03-25,Delivered
+FedEx,2024-09-01,In Transit
+FedEx,2024-08-30,Pending
+USPS,2024-07-22,Pending
+Amazon Logistics,2024-06-18,In Transit
+UPS,2024-02-05,Cancelled
+DHL,2024-03-19,Shipped
+DHL,2024-03-08,Delivered
+Amazon Logistics,2024-09-07,Delivered
+Amazon Logistics,2024-06-18,In Transit
+UPS,2023-12-25,Delivered
+DHL,2024-09-28,Shipped
+UPS,2024-01-09,In Transit
+USPS,2024-10-15,Pending
+UPS,2023-12-24,Delivered
+DHL,2024-10-25,In Transit
+UPS,2024-05-13,In Transit
+UPS,2023-12-31,Cancelled
+DHL,2024-08-04,Shipped
+Amazon Logistics,2024-09-20,Delivered
+UPS,2024-08-12,Delivered
+DHL,2024-02-12,Pending
+TNT,2023-12-25,Pending
+FedEx,2024-11-05,Delivered
+DHL,2024-07-24,Cancelled
+TNT,2024-08-25,In Transit
+TNT,2024-11-10,Pending
+TNT,2023-12-09,In Transit
+UPS,2024-08-03,Shipped
+UPS,2024-06-17,Delivered
+TNT,2024-07-26,In Transit
+Amazon Logistics,2024-03-23,Pending
+Amazon Logistics,2024-06-12,Delivered
+USPS,2024-06-21,In Transit
+FedEx,2024-02-11,Shipped
+FedEx,2024-03-28,Shipped
+DHL,2023-12-29,Delivered
+Amazon Logistics,2023-12-15,Pending
+Amazon Logistics,2023-12-11,In Transit
+TNT,2024-06-19,Cancelled
+USPS,2024-09-28,Delivered
+Amazon Logistics,2023-12-14,Pending
+Amazon Logistics,2023-12-14,Shipped
+UPS,2024-07-07,Cancelled
+DHL,2024-07-17,Cancelled
+USPS,2024-02-02,In Transit
+FedEx,2024-06-26,In Transit
+USPS,2024-06-27,Cancelled
+UPS,2023-12-15,Cancelled
+USPS,2024-06-30,Cancelled
+FedEx,2024-11-04,Pending
+Amazon Logistics,2024-10-11,Cancelled
+FedEx,2024-02-01,Shipped
+FedEx,2024-06-01,Cancelled
+USPS,2024-07-03,Shipped
+Amazon Logistics,2024-02-01,In Transit
+Amazon Logistics,2024-06-29,Cancelled
+Amazon Logistics,2024-06-01,Cancelled
+USPS,2024-05-30,Pending
+FedEx,2023-12-24,In Transit
+Amazon Logistics,2024-07-08,Cancelled
+Amazon Logistics,2024-10-07,Delivered
+TNT,2024-03-25,Cancelled
+DHL,2024-03-31,In Transit
+USPS,2024-05-31,Cancelled
+Amazon Logistics,2024-01-14,Delivered
+Amazon Logistics,2024-11-25,Shipped
+TNT,2023-12-19,In Transit
+USPS,2024-05-02,Pending
+DHL,2024-05-07,Pending
+TNT,2024-10-13,Shipped
+DHL,2024-08-13,Delivered
+FedEx,2024-02-29,Shipped
+FedEx,2024-04-06,Shipped
+DHL,2024-06-21,Delivered
+UPS,2024-07-03,In Transit
+UPS,2024-06-02,Pending
+USPS,2024-02-17,In Transit
+UPS,2024-06-14,In Transit
+TNT,2023-12-15,Shipped
+USPS,2024-10-05,Shipped
+DHL,2024-04-02,Delivered
+TNT,2024-04-21,Cancelled
+UPS,2024-02-26,In Transit
+DHL,2024-08-13,Shipped
+DHL,2024-07-18,Cancelled
+DHL,2024-08-06,Cancelled
+Amazon Logistics,2024-02-14,In Transit
+DHL,2024-09-19,In Transit
+TNT,2024-04-29,Delivered
+UPS,2024-05-18,In Transit
+Amazon Logistics,2024-04-19,In Transit
+UPS,2024-10-08,Delivered
+TNT,2024-04-25,In Transit
+UPS,2024-01-12,In Transit
+FedEx,2024-01-07,Pending
+UPS,2024-10-12,Pending
+USPS,2024-11-10,Shipped
+TNT,2024-10-20,Shipped
+DHL,2023-12-17,Delivered
+USPS,2024-06-19,Delivered
+Amazon Logistics,2023-12-18,Delivered
+Amazon Logistics,2024-07-14,Cancelled
+DHL,2024-09-29,Pending
+USPS,2024-04-06,Shipped
+UPS,2024-01-03,Shipped
+UPS,2024-06-01,Shipped
+TNT,2024-11-20,Cancelled
+TNT,2024-03-13,Shipped
+FedEx,2024-01-05,Shipped
+Amazon Logistics,2024-01-11,Delivered
+DHL,2024-01-10,Cancelled
+TNT,2023-12-14,Delivered
+TNT,2024-07-03,Cancelled
+DHL,2024-05-19,Shipped
+FedEx,2023-11-30,Cancelled
+TNT,2024-08-08,Cancelled
+DHL,2024-11-13,In Transit
+USPS,2024-03-26,Shipped
+DHL,2024-10-12,In Transit
+Amazon Logistics,2024-09-03,Delivered
+USPS,2024-07-19,In Transit
+USPS,2024-11-18,In Transit
+Amazon Logistics,2024-04-23,Delivered
+UPS,2024-08-02,Shipped
+Amazon Logistics,2024-04-18,Pending
+USPS,2024-01-03,Shipped
+USPS,2024-10-27,Shipped
+USPS,2024-10-29,Pending
+USPS,2024-07-20,Cancelled
+Amazon Logistics,2024-08-14,Delivered
+Amazon Logistics,2024-06-19,Shipped
+UPS,2024-06-22,In Transit
+Amazon Logistics,2024-11-27,Shipped
+DHL,2024-03-19,Delivered
+DHL,2023-12-03,Cancelled
+FedEx,2024-06-01,Shipped
+FedEx,2023-12-13,Pending
+USPS,2024-07-31,In Transit
+UPS,2024-11-21,In Transit
+UPS,2024-11-25,Delivered
+TNT,2024-06-21,Shipped
+DHL,2024-10-09,Pending
+FedEx,2024-09-23,Shipped
+UPS,2024-03-20,Cancelled
+Amazon Logistics,2024-11-24,Pending
+UPS,2024-11-21,Pending
+USPS,2024-02-05,In Transit
+UPS,2024-06-04,Cancelled
+USPS,2024-06-15,Cancelled
+TNT,2024-08-10,In Transit
+USPS,2024-11-10,Cancelled
+FedEx,2024-02-08,Delivered
+UPS,2024-01-05,In Transit
+UPS,2024-11-20,In Transit
+UPS,2024-11-16,In Transit
+Amazon Logistics,2023-11-29,Pending
+UPS,2024-07-08,Shipped
+TNT,2024-06-10,Shipped
+Amazon Logistics,2024-03-03,Pending
+TNT,2024-01-28,Shipped
+Amazon Logistics,2023-12-27,In Transit
+USPS,2024-11-17,In Transit
+FedEx,2024-05-27,Shipped
+FedEx,2024-07-10,In Transit
+TNT,2024-07-10,Pending
+TNT,2024-03-12,Delivered
+Amazon Logistics,2024-07-13,Delivered
+TNT,2024-04-12,In Transit
+TNT,2024-06-17,Delivered
+Amazon Logistics,2024-03-21,Cancelled
+DHL,2024-02-26,In Transit
+DHL,2024-05-26,Shipped
+FedEx,2024-05-01,Pending
+DHL,2024-07-25,In Transit
+FedEx,2024-06-07,Delivered
+Amazon Logistics,2024-09-25,Cancelled
+FedEx,2024-08-30,Delivered
+Amazon Logistics,2024-08-27,Cancelled
+TNT,2023-12-11,In Transit
+Amazon Logistics,2024-05-26,In Transit
+Amazon Logistics,2024-03-05,Delivered
+USPS,2024-05-28,Shipped
+TNT,2024-02-21,Delivered
+Amazon Logistics,2024-08-27,Pending
+FedEx,2024-03-08,Pending
+DHL,2024-10-29,Pending
+Amazon Logistics,2024-04-14,In Transit
+USPS,2024-05-09,Shipped
+Amazon Logistics,2024-10-11,Pending
+TNT,2023-12-15,Shipped
